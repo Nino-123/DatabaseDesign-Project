@@ -1,0 +1,195 @@
+{% extends "base.html" %}
+{% block title %}Operations Dashboard — JBNU Smart Factory{% endblock %}
+
+{% block content %}
+<div class="sf-page-wrapper">
+
+  <!-- ══════════════════════════════════════════ -->
+  <!--  PAGE HEADER                               -->
+  <!-- ══════════════════════════════════════════ -->
+  <div class="sf-page-header px-4 py-3 d-flex align-items-center justify-content-between">
+    <div>
+      <h1 class="sf-page-title mb-0">Operations Dashboard</h1>
+      <p class="sf-page-sub mb-0">Live telemetry monitoring &amp; anomaly detection</p>
+    </div>
+    <div class="sf-timestamp font-mono">
+      <i class="bi bi-clock me-1"></i>
+      <span id="live-clock"></span>
+    </div>
+  </div>
+
+  <div class="px-4 pb-4">
+    <div class="row g-4">
+
+      <!-- ══════════════════════════════════════════ -->
+      <!--  LEFT COLUMN: FILTERS + MACHINE CARD       -->
+      <!-- ══════════════════════════════════════════ -->
+      <div class="col-12 col-xl-3">
+
+        <!-- Equipment Selector -->
+        <div class="sf-card mb-4">
+          <div class="sf-card-header">
+            <i class="bi bi-filter-square me-2"></i>Equipment Selector
+          </div>
+          <div class="sf-card-body">
+            <form method="GET" action="{{ url_for('dashboard') }}">
+              <label class="sf-label" for="equipment_id">CNC Mill Run ID</label>
+              <select name="equipment_id" id="equipment_id" class="form-select sf-select mb-3">
+                {% for machine in machinery_list %}
+                  <option value="{{ machine.equipment_id }}" {% if machine.equipment_id == active_machine.equipment_id %}selected{% endif %}>
+                    {{ machine.name }}
+                  </option>
+                {% endfor %}
+              </select>
+              <button type="submit" class="btn sf-btn-primary w-100">
+                <i class="bi bi-arrow-repeat me-1"></i> Load Equipment
+              </button>
+            </form>
+          </div>
+        </div>
+
+        <!-- Machine Metadata Blueprint -->
+        <div class="sf-card mb-4">
+          <div class="sf-card-header">
+            <i class="bi bi-motherboard me-2"></i>Machine Blueprint
+          </div>
+          <div class="sf-card-body">
+            <div class="sf-meta-row">
+              <span class="sf-meta-label">Unit Name</span>
+              <span class="sf-meta-value font-mono">{{ active_machine.name }}</span>
+            </div>
+            <div class="sf-meta-row">
+              <span class="sf-meta-label">Working Material</span>
+              <span class="sf-meta-value">{{ active_machine.material }}</span>
+            </div>
+            <div class="sf-meta-row">
+              <span class="sf-meta-label">Target Feedrate</span>
+              <span class="sf-meta-value font-mono">{{ active_machine.feedrate_setting }} mm/min</span>
+            </div>
+            <div class="sf-meta-row">
+              <span class="sf-meta-label">Tool Condition</span>
+              <span class="sf-meta-value">
+                {% if active_machine.initial_tool_condition == 'new' %}
+                  <span class="badge sf-badge-success">{{ active_machine.initial_tool_condition | upper }}</span>
+                {% elif active_machine.initial_tool_condition == 'worn' %}
+                  <span class="badge sf-badge-warning">{{ active_machine.initial_tool_condition | upper }}</span>
+                {% else %}
+                  <span class="badge sf-badge-secondary">{{ active_machine.initial_tool_condition | upper }}</span>
+                {% endif %}
+              </span>
+            </div>
+          </div>
+        </div>
+
+        <!-- Operational Status Summary -->
+        <div class="sf-card">
+          <div class="sf-card-header">
+            <i class="bi bi-activity me-2"></i>Operational Status
+          </div>
+          <div class="sf-card-body">
+            <!-- Machine Status -->
+            <div class="sf-status-block mb-3">
+              <span class="sf-meta-label d-block mb-1">Machine Status</span>
+              {% if open_alerts == 0 %}
+                <div class="sf-status-pill sf-status-ok">
+                  <span class="dot dot-ok me-2"></span>
+                  NOMINAL
+                </div>
+              {% elif open_alerts <= 3 %}
+                <div class="sf-status-pill sf-status-warn">
+                  <span class="dot dot-warn me-2"></span>
+                  DEGRADED
+                </div>
+              {% else %}
+                <div class="sf-status-pill sf-status-crit">
+                  <span class="dot dot-crit me-2"></span>
+                  CRITICAL
+                </div>
+              {% endif %}
+            </div>
+
+            <!-- Open Alerts Counter -->
+            <div class="sf-kpi-block">
+              <span class="sf-kpi-number {% if open_alerts > 0 %}text-danger{% else %}text-success{% endif %}">
+                {{ open_alerts }}
+              </span>
+              <span class="sf-kpi-label">Unresolved Alarm{{ 's' if open_alerts != 1 else '' }}</span>
+            </div>
+
+            <!-- Sensor Data Points -->
+            <div class="sf-meta-row mt-3">
+              <span class="sf-meta-label">Sensor Readings</span>
+              <span class="sf-meta-value font-mono">{{ sensor_count | default('—') }}</span>
+            </div>
+            <div class="sf-meta-row">
+              <span class="sf-meta-label">Total Alerts</span>
+              <span class="sf-meta-value font-mono">{{ total_alerts | default('—') }}</span>
+            </div>
+          </div>
+        </div>
+
+      </div><!-- /left col -->
+
+      <!-- ══════════════════════════════════════════ -->
+      <!--  RIGHT COLUMN: CHARTS                      -->
+      <!-- ══════════════════════════════════════════ -->
+      <div class="col-12 col-xl-9">
+
+        <!-- Anomaly Score Line Chart -->
+        <div class="sf-card mb-4">
+          <div class="sf-card-header d-flex align-items-center justify-content-between">
+            <span><i class="bi bi-graph-up-arrow me-2"></i>Anomaly Score — Isolation Forest (Continuous)</span>
+            <span class="sf-chart-badge">REAL-TIME</span>
+          </div>
+          <div class="sf-card-body">
+            <div class="sf-chart-container">
+              <canvas id="anomalyScoreChart"></canvas>
+            </div>
+          </div>
+        </div>
+
+        <!-- Vibration Metric Line Chart -->
+        <div class="sf-card">
+          <div class="sf-card-header d-flex align-items-center justify-content-between">
+            <span><i class="bi bi-waveform me-2"></i>Raw Vibration Metric (Sensor Feed)</span>
+            <span class="sf-chart-badge">SENSOR</span>
+          </div>
+          <div class="sf-card-body">
+            <div class="sf-chart-container">
+              <canvas id="vibrationChart"></canvas>
+            </div>
+          </div>
+        </div>
+
+      </div><!-- /right col -->
+
+    </div><!-- /row -->
+  </div><!-- /px-4 -->
+</div><!-- /wrapper -->
+{% endblock %}
+
+{% block scripts %}
+<script>
+  // ── Inject Flask data into JS scope ─────────────────────
+  const CHART_TIMESTAMPS = {{ chart_timestamps | tojson }};
+  const CHART_SCORES     = {{ chart_scores     | tojson }};
+  const CHART_VIBRATION  = {{ chart_vibration  | tojson }};
+
+  // ── Live Clock ───────────────────────────────────────────
+  function updateClock() {
+    const now = new Date();
+    document.getElementById('live-clock').textContent =
+      now.toLocaleTimeString('en-GB', { hour12: false }) +
+      ' — ' +
+      now.toLocaleDateString('en-GB', { day: '2-digit', month: 'short', year: 'numeric' });
+  }
+  updateClock();
+  setInterval(updateClock, 1000);
+
+  // ── Render Charts (defined in metrics_charts.js) ─────────
+  document.addEventListener('DOMContentLoaded', () => {
+    renderAnomalyChart('anomalyScoreChart', CHART_TIMESTAMPS, CHART_SCORES);
+    renderVibrationChart('vibrationChart',  CHART_TIMESTAMPS, CHART_VIBRATION);
+  });
+</script>
+{% endblock %}

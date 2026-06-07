@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>{% block title %}JBNU Smart Factory System{% endblock %}</title>
+
+  <!-- Bootstrap 5 -->
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" />
+  <!-- Bootstrap Icons -->
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css" rel="stylesheet" />
+  <!-- Google Fonts: JetBrains Mono + DM Sans -->
+  <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;600&family=DM+Sans:wght@300;400;500;600&display=swap" rel="stylesheet" />
+  <!-- Custom CSS -->
+  <link rel="stylesheet" href="{{ url_for('static', filename='css/dashboard.css') }}" />
+</head>
+<body>
+
+<!-- ═══════════════════════════════════════════════════ -->
+<!--  TOP HEADER BAR                                     -->
+<!-- ═══════════════════════════════════════════════════ -->
+<header class="sf-topbar d-flex align-items-center justify-content-between px-4">
+  <div class="sf-brand d-flex align-items-center gap-3">
+    <div class="sf-brand-icon">
+      <i class="bi bi-cpu-fill"></i>
+    </div>
+    <div>
+      <span class="sf-brand-name">JBNU Smart Factory System</span>
+      <span class="sf-brand-sub d-none d-md-inline">// Predictive Maintenance Platform</span>
+    </div>
+  </div>
+
+  <nav class="sf-nav d-flex align-items-center gap-1">
+    <a href="{{ url_for('dashboard') }}"
+       class="sf-nav-link {% if request.endpoint == 'dashboard' %}active{% endif %}">
+      <i class="bi bi-speedometer2"></i>
+      <span>Operations Dashboard</span>
+    </a>
+    <a href="{{ url_for('alerts_center') }}"
+       class="sf-nav-link {% if request.endpoint == 'alerts' %}active{% endif %}">
+      <i class="bi bi-exclamation-triangle-fill"></i>
+      <span>Active Alerts Log</span>
+    </a>
+  </nav>
+
+  <div class="sf-status-dot d-flex align-items-center gap-2">
+    <span class="dot dot-live"></span>
+    <span class="sf-status-label">LIVE</span>
+  </div>
+</header>
+
+<!-- ═══════════════════════════════════════════════════ -->
+<!--  PAGE CONTENT INJECTION ZONE                        -->
+<!-- ═══════════════════════════════════════════════════ -->
+<main class="sf-main">
+  {% with messages = get_flashed_messages(with_categories=true) %}
+    {% if messages %}
+      <div class="px-4 pt-3">
+        {% for category, message in messages %}
+          <div class="alert alert-{{ category }} alert-dismissible fade show" role="alert">
+            <i class="bi bi-info-circle-fill me-2"></i>{{ message }}
+            <button type="button" class="btn-close" data-bs-dismiss="alert"></button>
+          </div>
+        {% endfor %}
+      </div>
+    {% endif %}
+  {% endwith %}
+
+  {% block content %}{% endblock %}
+</main>
+
+<!-- ═══════════════════════════════════════════════════ -->
+<!--  FOOTER STRIP                                       -->
+<!-- ═══════════════════════════════════════════════════ -->
+<footer class="sf-footer px-4 py-2 d-flex align-items-center justify-content-between">
+  <span class="sf-footer-text">JBNU Smart Factory &mdash; Predictive Maintenance Platform</span>
+  <span class="sf-footer-text font-mono">SYS_BUILD :: 2025.01</span>
+</footer>
+
+<!-- Bootstrap 5 JS -->
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+<!-- Chart.js -->
+<script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.3/dist/chart.umd.min.js"></script>
+<!-- Custom Charts JS -->
+<script src="{{ url_for('static', filename='js/metrics_charts.js') }}"></script>
+
+{% block scripts %}{% endblock %}
+</body>
+</html>

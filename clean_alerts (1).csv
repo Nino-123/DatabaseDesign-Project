@@ -1,0 +1,1266 @@
+equipment_id,recorded_at,severity,message,resolved
+1,2026-05-01 01:00:00.100,medium,Critical anomaly window observed during process phase: 'Prep'. Baseline configuration flagged tool as UNWORN.,0
+1,2026-05-01 01:00:00.200,high,Critical anomaly window observed during process phase: 'Prep'. Baseline configuration flagged tool as UNWORN.,0
+1,2026-05-01 01:00:00.300,high,Critical anomaly window observed during process phase: 'Prep'. Baseline configuration flagged tool as UNWORN.,0
+1,2026-05-01 01:00:00.400,high,Critical anomaly window observed during process phase: 'Prep'. Baseline configuration flagged tool as UNWORN.,0
+1,2026-05-01 01:00:00.500,high,Critical anomaly window observed during process phase: 'Prep'. Baseline configuration flagged tool as UNWORN.,0
+1,2026-05-01 01:00:00.600,high,Critical anomaly window observed during process phase: 'Prep'. Baseline configuration flagged tool as UNWORN.,0
+1,2026-05-01 01:00:00.700,high,Critical anomaly window observed during process phase: 'Prep'. Baseline configuration flagged tool as UNWORN.,0
+1,2026-05-01 01:00:00.800,high,Critical anomaly window observed during process phase: 'Prep'. Baseline configuration flagged tool as UNWORN.,0
+1,2026-05-01 01:00:00.900,high,Critical anomaly window observed during process phase: 'Prep'. Baseline configuration flagged tool as UNWORN.,0
+1,2026-05-01 01:00:01.000,high,Critical anomaly window observed during process phase: 'Prep'. Baseline configuration flagged tool as UNWORN.,0
+1,2026-05-01 01:00:01.100,high,Critical anomaly window observed during process phase: 'Prep'. Baseline configuration flagged tool as UNWORN.,0
+1,2026-05-01 01:00:01.200,high,Critical anomaly window observed during process phase: 'Prep'. Baseline configuration flagged tool as UNWORN.,0
+1,2026-05-01 01:00:01.300,high,Critical anomaly window observed during process phase: 'Prep'. Baseline configuration flagged tool as UNWORN.,0
+1,2026-05-01 01:00:01.400,high,Critical anomaly window observed during process phase: 'Prep'. Baseline configuration flagged tool as UNWORN.,0
+1,2026-05-01 01:00:01.500,high,Critical anomaly window observed during process phase: 'Prep'. Baseline configuration flagged tool as UNWORN.,0
+1,2026-05-01 01:00:01.600,high,Critical anomaly window observed during process phase: 'Prep'. Baseline configuration flagged tool as UNWORN.,0
+1,2026-05-01 01:00:01.700,medium,Critical anomaly window observed during process phase: 'Prep'. Baseline configuration flagged tool as UNWORN.,0
+1,2026-05-01 01:00:01.800,high,Critical anomaly window observed during process phase: 'Prep'. Baseline configuration flagged tool as UNWORN.,0
+1,2026-05-01 01:00:01.900,high,Critical anomaly window observed during process phase: 'Prep'. Baseline configuration flagged tool as UNWORN.,0
+1,2026-05-01 01:00:02.000,high,Critical anomaly window observed during process phase: 'Prep'. Baseline configuration flagged tool as UNWORN.,0
+1,2026-05-01 01:00:02.100,high,Critical anomaly window observed during process phase: 'Prep'. Baseline configuration flagged tool as UNWORN.,0
+1,2026-05-01 01:00:02.200,high,Critical anomaly window observed during process phase: 'Prep'. Baseline configuration flagged tool as UNWORN.,0
+1,2026-05-01 01:00:02.300,high,Critical anomaly window observed during process phase: 'Prep'. Baseline configuration flagged tool as UNWORN.,0
+1,2026-05-01 01:00:02.400,high,Critical anomaly window observed during process phase: 'Prep'. Baseline configuration flagged tool as UNWORN.,0
+1,2026-05-01 01:00:02.500,high,Critical anomaly window observed during process phase: 'Prep'. Baseline configuration flagged tool as UNWORN.,0
+1,2026-05-01 01:00:02.600,high,Critical anomaly window observed during process phase: 'Prep'. Baseline configuration flagged tool as UNWORN.,0
+1,2026-05-01 01:00:02.700,high,Critical anomaly window observed during process phase: 'Prep'. Baseline configuration flagged tool as UNWORN.,0
+1,2026-05-01 01:00:03.000,high,Critical anomaly window observed during process phase: 'Prep'. Baseline configuration flagged tool as UNWORN.,0
+1,2026-05-01 01:00:03.100,medium,Critical anomaly window observed during process phase: 'Layer 1 Up'. Baseline configuration flagged tool as UNWORN.,0
+1,2026-05-01 01:00:03.200,medium,Critical anomaly window observed during process phase: 'Layer 1 Up'. Baseline configuration flagged tool as UNWORN.,0
+1,2026-05-01 01:00:03.300,high,Critical anomaly window observed during process phase: 'Layer 1 Up'. Baseline configuration flagged tool as UNWORN.,0
+1,2026-05-01 01:00:03.400,high,Critical anomaly window observed during process phase: 'Layer 1 Up'. Baseline configuration flagged tool as UNWORN.,0
+1,2026-05-01 01:00:03.500,low,Critical anomaly window observed during process phase: 'Layer 1 Up'. Baseline configuration flagged tool as UNWORN.,0
+1,2026-05-01 01:00:05.100,medium,Critical anomaly window observed during process phase: 'Layer 1 Up'. Baseline configuration flagged tool as UNWORN.,0
+1,2026-05-01 01:00:06.600,low,Critical anomaly window observed during process phase: 'Layer 1 Up'. Baseline configuration flagged tool as UNWORN.,0
+1,2026-05-01 01:00:08.100,low,Critical anomaly window observed during process phase: 'Layer 1 Up'. Baseline configuration flagged tool as UNWORN.,0
+1,2026-05-01 01:00:09.600,low,Critical anomaly window observed during process phase: 'Layer 1 Up'. Baseline configuration flagged tool as UNWORN.,0
+1,2026-05-01 01:00:35.600,low,Critical anomaly window observed during process phase: 'Repositioning'. Baseline configuration flagged tool as UNWORN.,0
+1,2026-05-01 01:00:35.700,medium,Critical anomaly window observed during process phase: 'Repositioning'. Baseline configuration flagged tool as UNWORN.,0
+1,2026-05-01 01:00:35.800,medium,Critical anomaly window observed during process phase: 'Repositioning'. Baseline configuration flagged tool as UNWORN.,0
+1,2026-05-01 01:01:10.500,medium,Critical anomaly window observed during process phase: 'Repositioning'. Baseline configuration flagged tool as UNWORN.,0
+1,2026-05-01 01:01:10.600,high,Critical anomaly window observed during process phase: 'Repositioning'. Baseline configuration flagged tool as UNWORN.,0
+1,2026-05-01 01:01:45.400,medium,Critical anomaly window observed during process phase: 'end'. Baseline configuration flagged tool as UNWORN.,0
+2,2026-05-01 02:00:03.900,low,Critical anomaly window observed during process phase: 'Prep'. Baseline configuration flagged tool as UNWORN.,0
+2,2026-05-01 02:00:14.900,low,Critical anomaly window observed during process phase: 'Prep'. Baseline configuration flagged tool as UNWORN.,0
+2,2026-05-01 02:00:17.900,low,Critical anomaly window observed during process phase: 'Layer 1 Up'. Baseline configuration flagged tool as UNWORN.,0
+2,2026-05-01 02:00:24.300,low,Critical anomaly window observed during process phase: 'Layer 1 Up'. Baseline configuration flagged tool as UNWORN.,0
+2,2026-05-01 02:00:24.600,low,Critical anomaly window observed during process phase: 'Layer 1 Up'. Baseline configuration flagged tool as UNWORN.,0
+2,2026-05-01 02:00:25.700,low,Critical anomaly window observed during process phase: 'Layer 1 Up'. Baseline configuration flagged tool as UNWORN.,0
+2,2026-05-01 02:00:26.600,low,Critical anomaly window observed during process phase: 'Layer 1 Up'. Baseline configuration flagged tool as UNWORN.,0
+2,2026-05-01 02:00:27.000,low,Critical anomaly window observed during process phase: 'Layer 1 Up'. Baseline configuration flagged tool as UNWORN.,0
+2,2026-05-01 02:00:27.100,low,Critical anomaly window observed during process phase: 'Layer 1 Up'. Baseline configuration flagged tool as UNWORN.,0
+2,2026-05-01 02:00:27.200,low,Critical anomaly window observed during process phase: 'Layer 1 Up'. Baseline configuration flagged tool as UNWORN.,0
+2,2026-05-01 02:00:28.800,low,Critical anomaly window observed during process phase: 'Layer 1 Up'. Baseline configuration flagged tool as UNWORN.,0
+2,2026-05-01 02:00:29.500,low,Critical anomaly window observed during process phase: 'Layer 1 Up'. Baseline configuration flagged tool as UNWORN.,0
+2,2026-05-01 02:00:29.600,low,Critical anomaly window observed during process phase: 'Layer 1 Up'. Baseline configuration flagged tool as UNWORN.,0
+2,2026-05-01 02:00:35.000,low,Critical anomaly window observed during process phase: 'Layer 1 Up'. Baseline configuration flagged tool as UNWORN.,0
+2,2026-05-01 02:00:35.100,low,Critical anomaly window observed during process phase: 'Layer 1 Up'. Baseline configuration flagged tool as UNWORN.,0
+2,2026-05-01 02:00:38.100,low,Critical anomaly window observed during process phase: 'Layer 1 Up'. Baseline configuration flagged tool as UNWORN.,0
+2,2026-05-01 02:00:38.700,medium,Critical anomaly window observed during process phase: 'Layer 1 Down'. Baseline configuration flagged tool as UNWORN.,0
+2,2026-05-01 02:00:38.800,medium,Critical anomaly window observed during process phase: 'Layer 1 Down'. Baseline configuration flagged tool as UNWORN.,0
+2,2026-05-01 02:00:48.700,low,Critical anomaly window observed during process phase: 'Layer 1 Down'. Baseline configuration flagged tool as UNWORN.,0
+2,2026-05-01 02:00:51.700,low,Critical anomaly window observed during process phase: 'Layer 1 Down'. Baseline configuration flagged tool as UNWORN.,0
+2,2026-05-01 02:00:55.800,low,Critical anomaly window observed during process phase: 'Layer 1 Down'. Baseline configuration flagged tool as UNWORN.,0
+2,2026-05-01 02:01:01.400,low,Critical anomaly window observed during process phase: 'Layer 1 Down'. Baseline configuration flagged tool as UNWORN.,0
+2,2026-05-01 02:01:02.400,medium,Critical anomaly window observed during process phase: 'Repositioning'. Baseline configuration flagged tool as UNWORN.,0
+2,2026-05-01 02:01:06.300,low,Critical anomaly window observed during process phase: 'Repositioning'. Baseline configuration flagged tool as UNWORN.,0
+2,2026-05-01 02:01:21.700,medium,Critical anomaly window observed during process phase: 'Repositioning'. Baseline configuration flagged tool as UNWORN.,0
+2,2026-05-01 02:01:21.800,medium,Critical anomaly window observed during process phase: 'Repositioning'. Baseline configuration flagged tool as UNWORN.,0
+2,2026-05-01 02:01:21.900,low,Critical anomaly window observed during process phase: 'Repositioning'. Baseline configuration flagged tool as UNWORN.,0
+2,2026-05-01 02:01:22.000,medium,Critical anomaly window observed during process phase: 'Repositioning'. Baseline configuration flagged tool as UNWORN.,0
+2,2026-05-01 02:01:22.100,low,Critical anomaly window observed during process phase: 'Repositioning'. Baseline configuration flagged tool as UNWORN.,0
+2,2026-05-01 02:01:22.200,low,Critical anomaly window observed during process phase: 'Repositioning'. Baseline configuration flagged tool as UNWORN.,0
+2,2026-05-01 02:01:22.300,low,Critical anomaly window observed during process phase: 'Repositioning'. Baseline configuration flagged tool as UNWORN.,0
+2,2026-05-01 02:01:26.300,medium,Critical anomaly window observed during process phase: 'Repositioning'. Baseline configuration flagged tool as UNWORN.,0
+2,2026-05-01 02:01:39.200,low,Critical anomaly window observed during process phase: 'Layer 2 Up'. Baseline configuration flagged tool as UNWORN.,0
+2,2026-05-01 02:01:39.300,low,Critical anomaly window observed during process phase: 'Layer 2 Up'. Baseline configuration flagged tool as UNWORN.,0
+2,2026-05-01 02:01:39.400,low,Critical anomaly window observed during process phase: 'Layer 2 Up'. Baseline configuration flagged tool as UNWORN.,0
+2,2026-05-01 02:01:39.900,low,Critical anomaly window observed during process phase: 'Layer 2 Up'. Baseline configuration flagged tool as UNWORN.,0
+2,2026-05-01 02:01:40.100,low,Critical anomaly window observed during process phase: 'Layer 2 Up'. Baseline configuration flagged tool as UNWORN.,0
+2,2026-05-01 02:01:41.100,high,Critical anomaly window observed during process phase: 'Layer 2 Up'. Baseline configuration flagged tool as UNWORN.,0
+2,2026-05-01 02:01:41.200,high,Critical anomaly window observed during process phase: 'Layer 2 Up'. Baseline configuration flagged tool as UNWORN.,0
+2,2026-05-01 02:01:41.300,high,Critical anomaly window observed during process phase: 'Layer 2 Up'. Baseline configuration flagged tool as UNWORN.,0
+2,2026-05-01 02:01:41.400,high,Critical anomaly window observed during process phase: 'Layer 2 Down'. Baseline configuration flagged tool as UNWORN.,0
+2,2026-05-01 02:01:41.500,high,Critical anomaly window observed during process phase: 'Layer 2 Down'. Baseline configuration flagged tool as UNWORN.,0
+2,2026-05-01 02:01:41.600,high,Critical anomaly window observed during process phase: 'Layer 2 Down'. Baseline configuration flagged tool as UNWORN.,0
+2,2026-05-01 02:01:41.700,high,Critical anomaly window observed during process phase: 'Layer 2 Down'. Baseline configuration flagged tool as UNWORN.,0
+2,2026-05-01 02:01:41.800,high,Critical anomaly window observed during process phase: 'Layer 2 Down'. Baseline configuration flagged tool as UNWORN.,0
+2,2026-05-01 02:01:41.900,high,Critical anomaly window observed during process phase: 'Layer 2 Down'. Baseline configuration flagged tool as UNWORN.,0
+2,2026-05-01 02:01:42.000,medium,Critical anomaly window observed during process phase: 'Layer 2 Down'. Baseline configuration flagged tool as UNWORN.,0
+2,2026-05-01 02:01:44.200,low,Critical anomaly window observed during process phase: 'Layer 2 Down'. Baseline configuration flagged tool as UNWORN.,0
+2,2026-05-01 02:01:44.600,low,Critical anomaly window observed during process phase: 'Layer 2 Down'. Baseline configuration flagged tool as UNWORN.,0
+2,2026-05-01 02:01:51.400,low,Critical anomaly window observed during process phase: 'Layer 2 Down'. Baseline configuration flagged tool as UNWORN.,0
+2,2026-05-01 02:01:51.900,medium,Critical anomaly window observed during process phase: 'Layer 2 Down'. Baseline configuration flagged tool as UNWORN.,0
+2,2026-05-01 02:01:52.100,low,Critical anomaly window observed during process phase: 'Layer 2 Down'. Baseline configuration flagged tool as UNWORN.,0
+2,2026-05-01 02:01:52.200,medium,Critical anomaly window observed during process phase: 'Layer 2 Down'. Baseline configuration flagged tool as UNWORN.,0
+2,2026-05-01 02:02:00.800,high,Critical anomaly window observed during process phase: 'Layer 2 Down'. Baseline configuration flagged tool as UNWORN.,0
+2,2026-05-01 02:02:00.900,medium,Critical anomaly window observed during process phase: 'Layer 2 Down'. Baseline configuration flagged tool as UNWORN.,0
+2,2026-05-01 02:02:01.000,high,Critical anomaly window observed during process phase: 'Layer 2 Down'. Baseline configuration flagged tool as UNWORN.,0
+2,2026-05-01 02:02:01.100,high,Critical anomaly window observed during process phase: 'Layer 2 Down'. Baseline configuration flagged tool as UNWORN.,0
+2,2026-05-01 02:02:01.200,high,Critical anomaly window observed during process phase: 'Layer 2 Down'. Baseline configuration flagged tool as UNWORN.,0
+2,2026-05-01 02:02:01.300,low,Critical anomaly window observed during process phase: 'Layer 2 Down'. Baseline configuration flagged tool as UNWORN.,0
+2,2026-05-01 02:02:01.400,low,Critical anomaly window observed during process phase: 'Layer 2 Down'. Baseline configuration flagged tool as UNWORN.,0
+2,2026-05-01 02:02:01.500,low,Critical anomaly window observed during process phase: 'Layer 2 Down'. Baseline configuration flagged tool as UNWORN.,0
+2,2026-05-01 02:02:03.500,low,Critical anomaly window observed during process phase: 'Repositioning'. Baseline configuration flagged tool as UNWORN.,0
+2,2026-05-01 02:02:03.800,low,Critical anomaly window observed during process phase: 'Repositioning'. Baseline configuration flagged tool as UNWORN.,0
+2,2026-05-01 02:02:08.000,high,Critical anomaly window observed during process phase: 'Repositioning'. Baseline configuration flagged tool as UNWORN.,0
+2,2026-05-01 02:02:08.100,high,Critical anomaly window observed during process phase: 'Repositioning'. Baseline configuration flagged tool as UNWORN.,0
+2,2026-05-01 02:02:08.200,high,Critical anomaly window observed during process phase: 'Repositioning'. Baseline configuration flagged tool as UNWORN.,0
+2,2026-05-01 02:02:08.300,high,Critical anomaly window observed during process phase: 'Repositioning'. Baseline configuration flagged tool as UNWORN.,0
+2,2026-05-01 02:02:08.400,high,Critical anomaly window observed during process phase: 'Repositioning'. Baseline configuration flagged tool as UNWORN.,0
+2,2026-05-01 02:02:08.500,high,Critical anomaly window observed during process phase: 'Repositioning'. Baseline configuration flagged tool as UNWORN.,0
+2,2026-05-01 02:02:10.500,low,Critical anomaly window observed during process phase: 'Repositioning'. Baseline configuration flagged tool as UNWORN.,0
+2,2026-05-01 02:02:16.200,medium,Critical anomaly window observed during process phase: 'Repositioning'. Baseline configuration flagged tool as UNWORN.,0
+2,2026-05-01 02:02:27.300,low,Critical anomaly window observed during process phase: 'Layer 3 Up'. Baseline configuration flagged tool as UNWORN.,0
+2,2026-05-01 02:02:27.800,low,Critical anomaly window observed during process phase: 'Layer 3 Up'. Baseline configuration flagged tool as UNWORN.,0
+2,2026-05-01 02:02:29.900,low,Critical anomaly window observed during process phase: 'Layer 3 Up'. Baseline configuration flagged tool as UNWORN.,0
+2,2026-05-01 02:02:32.800,low,Critical anomaly window observed during process phase: 'Layer 3 Down'. Baseline configuration flagged tool as UNWORN.,0
+2,2026-05-01 02:02:33.500,low,Critical anomaly window observed during process phase: 'Layer 3 Down'. Baseline configuration flagged tool as UNWORN.,0
+2,2026-05-01 02:02:37.600,low,Critical anomaly window observed during process phase: 'Layer 3 Down'. Baseline configuration flagged tool as UNWORN.,0
+2,2026-05-01 02:02:37.900,low,Critical anomaly window observed during process phase: 'Layer 3 Down'. Baseline configuration flagged tool as UNWORN.,0
+2,2026-05-01 02:02:39.700,high,Critical anomaly window observed during process phase: 'Layer 3 Down'. Baseline configuration flagged tool as UNWORN.,0
+2,2026-05-01 02:02:39.800,high,Critical anomaly window observed during process phase: 'Layer 3 Down'. Baseline configuration flagged tool as UNWORN.,0
+2,2026-05-01 02:02:39.900,high,Critical anomaly window observed during process phase: 'Layer 3 Down'. Baseline configuration flagged tool as UNWORN.,0
+2,2026-05-01 02:02:40.000,high,Critical anomaly window observed during process phase: 'Layer 3 Down'. Baseline configuration flagged tool as UNWORN.,0
+2,2026-05-01 02:02:40.100,high,Critical anomaly window observed during process phase: 'Layer 3 Down'. Baseline configuration flagged tool as UNWORN.,0
+2,2026-05-01 02:02:40.200,high,Critical anomaly window observed during process phase: 'Layer 3 Down'. Baseline configuration flagged tool as UNWORN.,0
+2,2026-05-01 02:02:40.300,high,Critical anomaly window observed during process phase: 'Layer 3 Down'. Baseline configuration flagged tool as UNWORN.,0
+2,2026-05-01 02:02:40.400,high,Critical anomaly window observed during process phase: 'Layer 3 Down'. Baseline configuration flagged tool as UNWORN.,0
+2,2026-05-01 02:02:40.500,high,Critical anomaly window observed during process phase: 'Layer 3 Down'. Baseline configuration flagged tool as UNWORN.,0
+2,2026-05-01 02:02:40.600,high,Critical anomaly window observed during process phase: 'Layer 3 Down'. Baseline configuration flagged tool as UNWORN.,0
+2,2026-05-01 02:02:41.300,medium,Critical anomaly window observed during process phase: 'Layer 3 Down'. Baseline configuration flagged tool as UNWORN.,0
+2,2026-05-01 02:02:41.400,medium,Critical anomaly window observed during process phase: 'Layer 3 Down'. Baseline configuration flagged tool as UNWORN.,0
+2,2026-05-01 02:02:41.500,medium,Critical anomaly window observed during process phase: 'Layer 3 Down'. Baseline configuration flagged tool as UNWORN.,0
+2,2026-05-01 02:02:41.600,low,Critical anomaly window observed during process phase: 'Layer 3 Down'. Baseline configuration flagged tool as UNWORN.,0
+2,2026-05-01 02:02:41.700,medium,Critical anomaly window observed during process phase: 'Layer 3 Down'. Baseline configuration flagged tool as UNWORN.,0
+2,2026-05-01 02:02:41.800,medium,Critical anomaly window observed during process phase: 'Layer 3 Down'. Baseline configuration flagged tool as UNWORN.,0
+2,2026-05-01 02:02:41.900,medium,Critical anomaly window observed during process phase: 'Layer 3 Down'. Baseline configuration flagged tool as UNWORN.,0
+2,2026-05-01 02:02:42.000,medium,Critical anomaly window observed during process phase: 'Layer 3 Down'. Baseline configuration flagged tool as UNWORN.,0
+2,2026-05-01 02:02:42.100,medium,Critical anomaly window observed during process phase: 'Layer 3 Down'. Baseline configuration flagged tool as UNWORN.,0
+2,2026-05-01 02:02:42.200,medium,Critical anomaly window observed during process phase: 'Layer 3 Down'. Baseline configuration flagged tool as UNWORN.,0
+2,2026-05-01 02:02:43.800,low,Critical anomaly window observed during process phase: 'Layer 3 Down'. Baseline configuration flagged tool as UNWORN.,0
+2,2026-05-01 02:02:44.000,low,Critical anomaly window observed during process phase: 'Layer 3 Down'. Baseline configuration flagged tool as UNWORN.,0
+2,2026-05-01 02:02:44.800,medium,Critical anomaly window observed during process phase: 'End'. Baseline configuration flagged tool as UNWORN.,0
+2,2026-05-01 02:02:45.000,low,Critical anomaly window observed during process phase: 'End'. Baseline configuration flagged tool as UNWORN.,0
+2,2026-05-01 02:02:45.700,low,Critical anomaly window observed during process phase: 'End'. Baseline configuration flagged tool as UNWORN.,0
+3,2026-05-01 03:00:02.400,low,Critical anomaly window observed during process phase: 'Prep'. Baseline configuration flagged tool as UNWORN.,0
+3,2026-05-01 03:00:02.500,medium,Critical anomaly window observed during process phase: 'Prep'. Baseline configuration flagged tool as UNWORN.,0
+3,2026-05-01 03:00:02.600,medium,Critical anomaly window observed during process phase: 'Prep'. Baseline configuration flagged tool as UNWORN.,0
+3,2026-05-01 03:00:02.700,medium,Critical anomaly window observed during process phase: 'Prep'. Baseline configuration flagged tool as UNWORN.,0
+3,2026-05-01 03:00:02.800,medium,Critical anomaly window observed during process phase: 'Prep'. Baseline configuration flagged tool as UNWORN.,0
+3,2026-05-01 03:00:02.900,medium,Critical anomaly window observed during process phase: 'Prep'. Baseline configuration flagged tool as UNWORN.,0
+3,2026-05-01 03:00:03.000,medium,Critical anomaly window observed during process phase: 'Prep'. Baseline configuration flagged tool as UNWORN.,0
+3,2026-05-01 03:00:07.700,high,Critical anomaly window observed during process phase: 'Prep'. Baseline configuration flagged tool as UNWORN.,0
+3,2026-05-01 03:00:07.800,medium,Critical anomaly window observed during process phase: 'Prep'. Baseline configuration flagged tool as UNWORN.,0
+3,2026-05-01 03:00:14.100,medium,Critical anomaly window observed during process phase: 'Layer 1 Up'. Baseline configuration flagged tool as UNWORN.,0
+3,2026-05-01 03:00:14.200,medium,Critical anomaly window observed during process phase: 'Layer 1 Up'. Baseline configuration flagged tool as UNWORN.,0
+3,2026-05-01 03:00:37.700,low,Critical anomaly window observed during process phase: 'Layer 1 Down'. Baseline configuration flagged tool as UNWORN.,0
+3,2026-05-01 03:00:44.900,low,Critical anomaly window observed during process phase: 'Layer 1 Down'. Baseline configuration flagged tool as UNWORN.,0
+3,2026-05-01 03:00:46.900,high,Critical anomaly window observed during process phase: 'Layer 1 Down'. Baseline configuration flagged tool as UNWORN.,0
+3,2026-05-01 03:00:47.000,high,Critical anomaly window observed during process phase: 'Layer 1 Down'. Baseline configuration flagged tool as UNWORN.,0
+3,2026-05-01 03:00:47.100,high,Critical anomaly window observed during process phase: 'Layer 1 Down'. Baseline configuration flagged tool as UNWORN.,0
+3,2026-05-01 03:00:47.200,high,Critical anomaly window observed during process phase: 'Layer 1 Down'. Baseline configuration flagged tool as UNWORN.,0
+3,2026-05-01 03:00:47.300,high,Critical anomaly window observed during process phase: 'Layer 1 Down'. Baseline configuration flagged tool as UNWORN.,0
+3,2026-05-01 03:00:47.400,high,Critical anomaly window observed during process phase: 'Layer 1 Down'. Baseline configuration flagged tool as UNWORN.,0
+3,2026-05-01 03:00:47.500,high,Critical anomaly window observed during process phase: 'Layer 1 Down'. Baseline configuration flagged tool as UNWORN.,0
+3,2026-05-01 03:00:47.600,high,Critical anomaly window observed during process phase: 'Layer 1 Down'. Baseline configuration flagged tool as UNWORN.,0
+3,2026-05-01 03:00:47.700,high,Critical anomaly window observed during process phase: 'Layer 1 Down'. Baseline configuration flagged tool as UNWORN.,0
+3,2026-05-01 03:01:01.100,medium,Critical anomaly window observed during process phase: 'Layer 2 Up'. Baseline configuration flagged tool as UNWORN.,0
+3,2026-05-01 03:01:01.200,high,Critical anomaly window observed during process phase: 'Layer 2 Up'. Baseline configuration flagged tool as UNWORN.,0
+3,2026-05-01 03:01:01.300,medium,Critical anomaly window observed during process phase: 'Layer 2 Up'. Baseline configuration flagged tool as UNWORN.,0
+3,2026-05-01 03:01:01.400,high,Critical anomaly window observed during process phase: 'Layer 2 Up'. Baseline configuration flagged tool as UNWORN.,0
+3,2026-05-01 03:01:01.500,high,Critical anomaly window observed during process phase: 'Layer 2 Up'. Baseline configuration flagged tool as UNWORN.,0
+3,2026-05-01 03:01:01.600,medium,Critical anomaly window observed during process phase: 'Layer 2 Up'. Baseline configuration flagged tool as UNWORN.,0
+3,2026-05-01 03:01:20.500,high,Critical anomaly window observed during process phase: 'Layer 2 Down'. Baseline configuration flagged tool as UNWORN.,0
+3,2026-05-01 03:01:20.600,high,Critical anomaly window observed during process phase: 'Layer 2 Down'. Baseline configuration flagged tool as UNWORN.,0
+3,2026-05-01 03:01:20.700,high,Critical anomaly window observed during process phase: 'Layer 2 Down'. Baseline configuration flagged tool as UNWORN.,0
+3,2026-05-01 03:01:20.800,high,Critical anomaly window observed during process phase: 'Layer 2 Down'. Baseline configuration flagged tool as UNWORN.,0
+3,2026-05-01 03:01:20.900,high,Critical anomaly window observed during process phase: 'Layer 2 Down'. Baseline configuration flagged tool as UNWORN.,0
+3,2026-05-01 03:01:21.000,high,Critical anomaly window observed during process phase: 'Layer 2 Down'. Baseline configuration flagged tool as UNWORN.,0
+3,2026-05-01 03:01:21.100,high,Critical anomaly window observed during process phase: 'Layer 2 Down'. Baseline configuration flagged tool as UNWORN.,0
+3,2026-05-01 03:01:40.400,high,Critical anomaly window observed during process phase: 'Repositioning'. Baseline configuration flagged tool as UNWORN.,0
+3,2026-05-01 03:01:40.500,high,Critical anomaly window observed during process phase: 'Repositioning'. Baseline configuration flagged tool as UNWORN.,0
+3,2026-05-01 03:01:40.600,high,Critical anomaly window observed during process phase: 'Repositioning'. Baseline configuration flagged tool as UNWORN.,0
+3,2026-05-01 03:01:40.700,high,Critical anomaly window observed during process phase: 'Repositioning'. Baseline configuration flagged tool as UNWORN.,0
+3,2026-05-01 03:01:40.800,high,Critical anomaly window observed during process phase: 'Repositioning'. Baseline configuration flagged tool as UNWORN.,0
+3,2026-05-01 03:01:40.900,high,Critical anomaly window observed during process phase: 'Repositioning'. Baseline configuration flagged tool as UNWORN.,0
+3,2026-05-01 03:01:41.000,high,Critical anomaly window observed during process phase: 'Repositioning'. Baseline configuration flagged tool as UNWORN.,0
+3,2026-05-01 03:01:41.100,high,Critical anomaly window observed during process phase: 'Repositioning'. Baseline configuration flagged tool as UNWORN.,0
+3,2026-05-01 03:01:41.200,high,Critical anomaly window observed during process phase: 'Repositioning'. Baseline configuration flagged tool as UNWORN.,0
+3,2026-05-01 03:01:41.300,high,Critical anomaly window observed during process phase: 'Repositioning'. Baseline configuration flagged tool as UNWORN.,0
+3,2026-05-01 03:02:04.800,low,Critical anomaly window observed during process phase: 'Layer 3 Up'. Baseline configuration flagged tool as UNWORN.,0
+3,2026-05-01 03:02:05.600,high,Critical anomaly window observed during process phase: 'Layer 3 Up'. Baseline configuration flagged tool as UNWORN.,0
+3,2026-05-01 03:02:05.700,medium,Critical anomaly window observed during process phase: 'Layer 3 Up'. Baseline configuration flagged tool as UNWORN.,0
+3,2026-05-01 03:02:05.800,medium,Critical anomaly window observed during process phase: 'Layer 3 Up'. Baseline configuration flagged tool as UNWORN.,0
+3,2026-05-01 03:02:05.900,medium,Critical anomaly window observed during process phase: 'Layer 3 Up'. Baseline configuration flagged tool as UNWORN.,0
+3,2026-05-01 03:02:06.000,low,Critical anomaly window observed during process phase: 'Layer 3 Up'. Baseline configuration flagged tool as UNWORN.,0
+3,2026-05-01 03:02:06.100,medium,Critical anomaly window observed during process phase: 'Layer 3 Up'. Baseline configuration flagged tool as UNWORN.,0
+3,2026-05-01 03:02:06.200,low,Critical anomaly window observed during process phase: 'Layer 3 Up'. Baseline configuration flagged tool as UNWORN.,0
+3,2026-05-01 03:02:06.300,low,Critical anomaly window observed during process phase: 'Layer 3 Up'. Baseline configuration flagged tool as UNWORN.,0
+3,2026-05-01 03:02:06.400,low,Critical anomaly window observed during process phase: 'Layer 3 Up'. Baseline configuration flagged tool as UNWORN.,0
+3,2026-05-01 03:02:06.500,low,Critical anomaly window observed during process phase: 'Layer 3 Up'. Baseline configuration flagged tool as UNWORN.,0
+4,2026-05-01 04:00:06.600,low,Critical anomaly window observed during process phase: 'Prep'. Baseline configuration flagged tool as UNWORN.,0
+4,2026-05-01 04:00:06.700,medium,Critical anomaly window observed during process phase: 'Prep'. Baseline configuration flagged tool as UNWORN.,0
+4,2026-05-01 04:00:06.800,medium,Critical anomaly window observed during process phase: 'Prep'. Baseline configuration flagged tool as UNWORN.,0
+4,2026-05-01 04:00:06.900,medium,Critical anomaly window observed during process phase: 'Prep'. Baseline configuration flagged tool as UNWORN.,0
+4,2026-05-01 04:00:07.000,medium,Critical anomaly window observed during process phase: 'Prep'. Baseline configuration flagged tool as UNWORN.,0
+4,2026-05-01 04:00:07.100,medium,Critical anomaly window observed during process phase: 'Prep'. Baseline configuration flagged tool as UNWORN.,0
+4,2026-05-01 04:00:07.200,medium,Critical anomaly window observed during process phase: 'Prep'. Baseline configuration flagged tool as UNWORN.,0
+4,2026-05-01 04:00:07.900,high,Critical anomaly window observed during process phase: 'Prep'. Baseline configuration flagged tool as UNWORN.,0
+4,2026-05-01 04:00:08.000,high,Critical anomaly window observed during process phase: 'Prep'. Baseline configuration flagged tool as UNWORN.,0
+4,2026-05-01 04:00:08.100,high,Critical anomaly window observed during process phase: 'Prep'. Baseline configuration flagged tool as UNWORN.,0
+4,2026-05-01 04:00:08.200,high,Critical anomaly window observed during process phase: 'Prep'. Baseline configuration flagged tool as UNWORN.,0
+4,2026-05-01 04:00:08.300,high,Critical anomaly window observed during process phase: 'Prep'. Baseline configuration flagged tool as UNWORN.,0
+4,2026-05-01 04:00:08.400,high,Critical anomaly window observed during process phase: 'Prep'. Baseline configuration flagged tool as UNWORN.,0
+4,2026-05-01 04:00:08.500,high,Critical anomaly window observed during process phase: 'Prep'. Baseline configuration flagged tool as UNWORN.,0
+4,2026-05-01 04:00:08.600,high,Critical anomaly window observed during process phase: 'Prep'. Baseline configuration flagged tool as UNWORN.,0
+4,2026-05-01 04:00:08.700,high,Critical anomaly window observed during process phase: 'Prep'. Baseline configuration flagged tool as UNWORN.,0
+4,2026-05-01 04:00:08.800,high,Critical anomaly window observed during process phase: 'Prep'. Baseline configuration flagged tool as UNWORN.,0
+4,2026-05-01 04:00:08.900,high,Critical anomaly window observed during process phase: 'Prep'. Baseline configuration flagged tool as UNWORN.,0
+4,2026-05-01 04:00:09.000,high,Critical anomaly window observed during process phase: 'Prep'. Baseline configuration flagged tool as UNWORN.,0
+4,2026-05-01 04:00:09.100,high,Critical anomaly window observed during process phase: 'Prep'. Baseline configuration flagged tool as UNWORN.,0
+4,2026-05-01 04:00:09.200,high,Critical anomaly window observed during process phase: 'Prep'. Baseline configuration flagged tool as UNWORN.,0
+4,2026-05-01 04:00:09.300,high,Critical anomaly window observed during process phase: 'Prep'. Baseline configuration flagged tool as UNWORN.,0
+4,2026-05-01 04:00:09.400,high,Critical anomaly window observed during process phase: 'Prep'. Baseline configuration flagged tool as UNWORN.,0
+4,2026-05-01 04:00:09.500,high,Critical anomaly window observed during process phase: 'Prep'. Baseline configuration flagged tool as UNWORN.,0
+4,2026-05-01 04:00:09.600,high,Critical anomaly window observed during process phase: 'Prep'. Baseline configuration flagged tool as UNWORN.,0
+4,2026-05-01 04:00:09.700,high,Critical anomaly window observed during process phase: 'Prep'. Baseline configuration flagged tool as UNWORN.,0
+4,2026-05-01 04:00:09.800,high,Critical anomaly window observed during process phase: 'Prep'. Baseline configuration flagged tool as UNWORN.,0
+4,2026-05-01 04:00:09.900,high,Critical anomaly window observed during process phase: 'Prep'. Baseline configuration flagged tool as UNWORN.,0
+4,2026-05-01 04:00:10.000,high,Critical anomaly window observed during process phase: 'Prep'. Baseline configuration flagged tool as UNWORN.,0
+4,2026-05-01 04:00:10.100,high,Critical anomaly window observed during process phase: 'Prep'. Baseline configuration flagged tool as UNWORN.,0
+4,2026-05-01 04:00:10.400,medium,Critical anomaly window observed during process phase: 'Prep'. Baseline configuration flagged tool as UNWORN.,0
+4,2026-05-01 04:00:10.500,high,Critical anomaly window observed during process phase: 'Layer 1 Up'. Baseline configuration flagged tool as UNWORN.,0
+4,2026-05-01 04:00:10.600,medium,Critical anomaly window observed during process phase: 'Layer 1 Up'. Baseline configuration flagged tool as UNWORN.,0
+4,2026-05-01 04:00:10.700,high,Critical anomaly window observed during process phase: 'Layer 1 Up'. Baseline configuration flagged tool as UNWORN.,0
+4,2026-05-01 04:00:10.800,high,Critical anomaly window observed during process phase: 'Layer 1 Up'. Baseline configuration flagged tool as UNWORN.,0
+4,2026-05-01 04:00:16.100,medium,Critical anomaly window observed during process phase: 'Layer 1 Up'. Baseline configuration flagged tool as UNWORN.,0
+4,2026-05-01 04:00:16.200,medium,Critical anomaly window observed during process phase: 'Layer 1 Up'. Baseline configuration flagged tool as UNWORN.,0
+4,2026-05-01 04:00:16.300,medium,Critical anomaly window observed during process phase: 'Layer 1 Up'. Baseline configuration flagged tool as UNWORN.,0
+4,2026-05-01 04:00:16.400,medium,Critical anomaly window observed during process phase: 'Layer 1 Up'. Baseline configuration flagged tool as UNWORN.,0
+4,2026-05-01 04:00:16.500,medium,Critical anomaly window observed during process phase: 'Layer 1 Up'. Baseline configuration flagged tool as UNWORN.,0
+4,2026-05-01 04:00:16.600,low,Critical anomaly window observed during process phase: 'Layer 1 Up'. Baseline configuration flagged tool as UNWORN.,0
+4,2026-05-01 04:00:16.700,low,Critical anomaly window observed during process phase: 'Layer 1 Up'. Baseline configuration flagged tool as UNWORN.,0
+4,2026-05-01 04:00:16.800,low,Critical anomaly window observed during process phase: 'Layer 1 Up'. Baseline configuration flagged tool as UNWORN.,0
+4,2026-05-01 04:00:16.900,low,Critical anomaly window observed during process phase: 'Layer 1 Up'. Baseline configuration flagged tool as UNWORN.,0
+4,2026-05-01 04:00:19.100,medium,Critical anomaly window observed during process phase: 'Layer 1 Up'. Baseline configuration flagged tool as UNWORN.,0
+4,2026-05-01 04:00:19.200,medium,Critical anomaly window observed during process phase: 'Layer 1 Up'. Baseline configuration flagged tool as UNWORN.,0
+4,2026-05-01 04:00:19.300,low,Critical anomaly window observed during process phase: 'Layer 1 Up'. Baseline configuration flagged tool as UNWORN.,0
+4,2026-05-01 04:00:25.900,high,Critical anomaly window observed during process phase: 'Layer 1 Up'. Baseline configuration flagged tool as UNWORN.,0
+4,2026-05-01 04:00:26.000,high,Critical anomaly window observed during process phase: 'Layer 1 Up'. Baseline configuration flagged tool as UNWORN.,0
+4,2026-05-01 04:00:26.100,high,Critical anomaly window observed during process phase: 'Layer 1 Up'. Baseline configuration flagged tool as UNWORN.,0
+4,2026-05-01 04:00:31.500,medium,Critical anomaly window observed during process phase: 'Layer 1 Up'. Baseline configuration flagged tool as UNWORN.,0
+4,2026-05-01 04:00:31.600,medium,Critical anomaly window observed during process phase: 'Layer 1 Up'. Baseline configuration flagged tool as UNWORN.,0
+4,2026-05-01 04:00:31.700,high,Critical anomaly window observed during process phase: 'Layer 1 Up'. Baseline configuration flagged tool as UNWORN.,0
+4,2026-05-01 04:00:31.800,medium,Critical anomaly window observed during process phase: 'Layer 1 Up'. Baseline configuration flagged tool as UNWORN.,0
+4,2026-05-01 04:00:31.900,high,Critical anomaly window observed during process phase: 'Layer 1 Up'. Baseline configuration flagged tool as UNWORN.,0
+4,2026-05-01 04:00:32.000,medium,Critical anomaly window observed during process phase: 'Layer 1 Up'. Baseline configuration flagged tool as UNWORN.,0
+4,2026-05-01 04:00:32.100,medium,Critical anomaly window observed during process phase: 'Layer 1 Up'. Baseline configuration flagged tool as UNWORN.,0
+4,2026-05-01 04:00:32.200,high,Critical anomaly window observed during process phase: 'Layer 1 Up'. Baseline configuration flagged tool as UNWORN.,0
+4,2026-05-01 04:00:37.300,medium,Critical anomaly window observed during process phase: 'Layer 1 Up'. Baseline configuration flagged tool as UNWORN.,0
+5,2026-05-01 05:00:01.000,high,Critical anomaly window observed during process phase: 'Layer 1 Up'. Baseline configuration flagged tool as UNWORN.,0
+5,2026-05-01 05:00:01.100,high,Critical anomaly window observed during process phase: 'Layer 1 Up'. Baseline configuration flagged tool as UNWORN.,0
+5,2026-05-01 05:00:01.200,high,Critical anomaly window observed during process phase: 'Layer 1 Up'. Baseline configuration flagged tool as UNWORN.,0
+5,2026-05-01 05:00:01.300,high,Critical anomaly window observed during process phase: 'Layer 1 Up'. Baseline configuration flagged tool as UNWORN.,0
+5,2026-05-01 05:00:01.400,medium,Critical anomaly window observed during process phase: 'Layer 1 Up'. Baseline configuration flagged tool as UNWORN.,0
+5,2026-05-01 05:00:01.600,low,Critical anomaly window observed during process phase: 'Layer 1 Up'. Baseline configuration flagged tool as UNWORN.,0
+5,2026-05-01 05:00:01.900,low,Critical anomaly window observed during process phase: 'Layer 1 Up'. Baseline configuration flagged tool as UNWORN.,0
+5,2026-05-01 05:00:02.000,low,Critical anomaly window observed during process phase: 'Layer 1 Up'. Baseline configuration flagged tool as UNWORN.,0
+5,2026-05-01 05:00:02.300,low,Critical anomaly window observed during process phase: 'Layer 1 Up'. Baseline configuration flagged tool as UNWORN.,0
+5,2026-05-01 05:00:02.500,medium,Critical anomaly window observed during process phase: 'Layer 1 Up'. Baseline configuration flagged tool as UNWORN.,0
+5,2026-05-01 05:00:02.800,low,Critical anomaly window observed during process phase: 'Layer 1 Up'. Baseline configuration flagged tool as UNWORN.,0
+5,2026-05-01 05:00:05.000,medium,Critical anomaly window observed during process phase: 'Layer 1 Up'. Baseline configuration flagged tool as UNWORN.,0
+5,2026-05-01 05:00:05.100,medium,Critical anomaly window observed during process phase: 'Layer 1 Up'. Baseline configuration flagged tool as UNWORN.,0
+5,2026-05-01 05:00:05.200,medium,Critical anomaly window observed during process phase: 'Layer 1 Up'. Baseline configuration flagged tool as UNWORN.,0
+5,2026-05-01 05:00:05.300,medium,Critical anomaly window observed during process phase: 'Layer 1 Up'. Baseline configuration flagged tool as UNWORN.,0
+5,2026-05-01 05:00:05.400,medium,Critical anomaly window observed during process phase: 'Layer 1 Up'. Baseline configuration flagged tool as UNWORN.,0
+5,2026-05-01 05:00:05.500,medium,Critical anomaly window observed during process phase: 'Layer 1 Up'. Baseline configuration flagged tool as UNWORN.,0
+5,2026-05-01 05:00:05.600,medium,Critical anomaly window observed during process phase: 'Layer 1 Up'. Baseline configuration flagged tool as UNWORN.,0
+5,2026-05-01 05:00:05.700,medium,Critical anomaly window observed during process phase: 'Layer 1 Up'. Baseline configuration flagged tool as UNWORN.,0
+5,2026-05-01 05:00:05.800,low,Critical anomaly window observed during process phase: 'Layer 1 Up'. Baseline configuration flagged tool as UNWORN.,0
+5,2026-05-01 05:00:05.900,low,Critical anomaly window observed during process phase: 'Layer 1 Up'. Baseline configuration flagged tool as UNWORN.,0
+5,2026-05-01 05:00:07.300,medium,Critical anomaly window observed during process phase: 'Layer 1 Up'. Baseline configuration flagged tool as UNWORN.,0
+5,2026-05-01 05:00:07.600,low,Critical anomaly window observed during process phase: 'Layer 1 Up'. Baseline configuration flagged tool as UNWORN.,0
+5,2026-05-01 05:00:07.800,medium,Critical anomaly window observed during process phase: 'Layer 1 Up'. Baseline configuration flagged tool as UNWORN.,0
+5,2026-05-01 05:00:07.900,medium,Critical anomaly window observed during process phase: 'Layer 1 Up'. Baseline configuration flagged tool as UNWORN.,0
+5,2026-05-01 05:00:08.000,medium,Critical anomaly window observed during process phase: 'Layer 1 Up'. Baseline configuration flagged tool as UNWORN.,0
+5,2026-05-01 05:00:08.100,medium,Critical anomaly window observed during process phase: 'Layer 1 Up'. Baseline configuration flagged tool as UNWORN.,0
+5,2026-05-01 05:00:12.400,high,Critical anomaly window observed during process phase: 'End'. Baseline configuration flagged tool as UNWORN.,0
+5,2026-05-01 05:00:12.500,high,Critical anomaly window observed during process phase: 'End'. Baseline configuration flagged tool as UNWORN.,0
+5,2026-05-01 05:00:12.600,high,Critical anomaly window observed during process phase: 'End'. Baseline configuration flagged tool as UNWORN.,0
+5,2026-05-01 05:00:12.700,high,Critical anomaly window observed during process phase: 'End'. Baseline configuration flagged tool as UNWORN.,0
+5,2026-05-01 05:00:12.800,high,Critical anomaly window observed during process phase: 'End'. Baseline configuration flagged tool as UNWORN.,0
+5,2026-05-01 05:00:12.900,high,Critical anomaly window observed during process phase: 'End'. Baseline configuration flagged tool as UNWORN.,0
+5,2026-05-01 05:00:13.000,low,Critical anomaly window observed during process phase: 'End'. Baseline configuration flagged tool as UNWORN.,0
+5,2026-05-01 05:00:13.200,low,Critical anomaly window observed during process phase: 'End'. Baseline configuration flagged tool as UNWORN.,0
+5,2026-05-01 05:00:13.300,high,Critical anomaly window observed during process phase: 'End'. Baseline configuration flagged tool as UNWORN.,0
+5,2026-05-01 05:00:14.500,high,Critical anomaly window observed during process phase: 'End'. Baseline configuration flagged tool as UNWORN.,0
+5,2026-05-01 05:00:14.600,medium,Critical anomaly window observed during process phase: 'End'. Baseline configuration flagged tool as UNWORN.,0
+5,2026-05-01 05:00:14.700,high,Critical anomaly window observed during process phase: 'End'. Baseline configuration flagged tool as UNWORN.,0
+5,2026-05-01 05:00:14.800,high,Critical anomaly window observed during process phase: 'End'. Baseline configuration flagged tool as UNWORN.,0
+5,2026-05-01 05:00:14.900,medium,Critical anomaly window observed during process phase: 'End'. Baseline configuration flagged tool as UNWORN.,0
+5,2026-05-01 05:00:29.500,medium,Critical anomaly window observed during process phase: 'End'. Baseline configuration flagged tool as UNWORN.,0
+5,2026-05-01 05:00:29.600,medium,Critical anomaly window observed during process phase: 'End'. Baseline configuration flagged tool as UNWORN.,0
+5,2026-05-01 05:00:29.700,high,Critical anomaly window observed during process phase: 'End'. Baseline configuration flagged tool as UNWORN.,0
+5,2026-05-01 05:00:29.800,medium,Critical anomaly window observed during process phase: 'End'. Baseline configuration flagged tool as UNWORN.,0
+5,2026-05-01 05:00:29.900,high,Critical anomaly window observed during process phase: 'End'. Baseline configuration flagged tool as UNWORN.,0
+5,2026-05-01 05:00:37.200,high,Critical anomaly window observed during process phase: 'End'. Baseline configuration flagged tool as UNWORN.,0
+5,2026-05-01 05:00:37.300,high,Critical anomaly window observed during process phase: 'End'. Baseline configuration flagged tool as UNWORN.,0
+5,2026-05-01 05:00:37.400,high,Critical anomaly window observed during process phase: 'End'. Baseline configuration flagged tool as UNWORN.,0
+5,2026-05-01 05:00:37.500,high,Critical anomaly window observed during process phase: 'End'. Baseline configuration flagged tool as UNWORN.,0
+5,2026-05-01 05:00:37.600,high,Critical anomaly window observed during process phase: 'End'. Baseline configuration flagged tool as UNWORN.,0
+5,2026-05-01 05:00:37.700,high,Critical anomaly window observed during process phase: 'End'. Baseline configuration flagged tool as UNWORN.,0
+5,2026-05-01 05:00:37.800,high,Critical anomaly window observed during process phase: 'End'. Baseline configuration flagged tool as UNWORN.,0
+5,2026-05-01 05:00:37.900,high,Critical anomaly window observed during process phase: 'End'. Baseline configuration flagged tool as UNWORN.,0
+5,2026-05-01 05:00:38.000,high,Critical anomaly window observed during process phase: 'End'. Baseline configuration flagged tool as UNWORN.,0
+5,2026-05-01 05:00:38.100,high,Critical anomaly window observed during process phase: 'End'. Baseline configuration flagged tool as UNWORN.,0
+5,2026-05-01 05:00:39.200,low,Critical anomaly window observed during process phase: 'End'. Baseline configuration flagged tool as UNWORN.,0
+5,2026-05-01 05:00:39.900,low,Critical anomaly window observed during process phase: 'End'. Baseline configuration flagged tool as UNWORN.,0
+5,2026-05-01 05:00:40.000,low,Critical anomaly window observed during process phase: 'End'. Baseline configuration flagged tool as UNWORN.,0
+5,2026-05-01 05:00:40.200,high,Critical anomaly window observed during process phase: 'End'. Baseline configuration flagged tool as UNWORN.,0
+5,2026-05-01 05:00:40.300,high,Critical anomaly window observed during process phase: 'End'. Baseline configuration flagged tool as UNWORN.,0
+5,2026-05-01 05:00:40.400,high,Critical anomaly window observed during process phase: 'End'. Baseline configuration flagged tool as UNWORN.,0
+5,2026-05-01 05:00:40.500,high,Critical anomaly window observed during process phase: 'End'. Baseline configuration flagged tool as UNWORN.,0
+5,2026-05-01 05:00:40.600,high,Critical anomaly window observed during process phase: 'End'. Baseline configuration flagged tool as UNWORN.,0
+5,2026-05-01 05:00:40.700,high,Critical anomaly window observed during process phase: 'End'. Baseline configuration flagged tool as UNWORN.,0
+5,2026-05-01 05:00:40.800,high,Critical anomaly window observed during process phase: 'End'. Baseline configuration flagged tool as UNWORN.,0
+5,2026-05-01 05:00:40.900,high,Critical anomaly window observed during process phase: 'End'. Baseline configuration flagged tool as UNWORN.,0
+5,2026-05-01 05:00:41.000,high,Critical anomaly window observed during process phase: 'End'. Baseline configuration flagged tool as UNWORN.,0
+5,2026-05-01 05:00:41.100,high,Critical anomaly window observed during process phase: 'End'. Baseline configuration flagged tool as UNWORN.,0
+5,2026-05-01 05:00:42.700,low,Critical anomaly window observed during process phase: 'End'. Baseline configuration flagged tool as UNWORN.,0
+5,2026-05-01 05:00:42.900,low,Critical anomaly window observed during process phase: 'End'. Baseline configuration flagged tool as UNWORN.,0
+6,2026-05-01 06:00:06.500,high,Critical anomaly window observed during process phase: 'Prep'. Baseline configuration flagged tool as WORN.,0
+6,2026-05-01 06:00:06.600,high,Critical anomaly window observed during process phase: 'Prep'. Baseline configuration flagged tool as WORN.,0
+6,2026-05-01 06:00:06.700,high,Critical anomaly window observed during process phase: 'Prep'. Baseline configuration flagged tool as WORN.,0
+6,2026-05-01 06:00:06.800,high,Critical anomaly window observed during process phase: 'Prep'. Baseline configuration flagged tool as WORN.,0
+6,2026-05-01 06:00:06.900,high,Critical anomaly window observed during process phase: 'Prep'. Baseline configuration flagged tool as WORN.,0
+6,2026-05-01 06:00:07.000,high,Critical anomaly window observed during process phase: 'Prep'. Baseline configuration flagged tool as WORN.,0
+6,2026-05-01 06:00:07.100,low,Critical anomaly window observed during process phase: 'Prep'. Baseline configuration flagged tool as WORN.,0
+6,2026-05-01 06:00:07.400,high,Critical anomaly window observed during process phase: 'Layer 1 Up'. Baseline configuration flagged tool as WORN.,0
+6,2026-05-01 06:00:08.400,low,Critical anomaly window observed during process phase: 'Layer 1 Up'. Baseline configuration flagged tool as WORN.,0
+6,2026-05-01 06:00:52.700,medium,Critical anomaly window observed during process phase: 'Repositioning'. Baseline configuration flagged tool as WORN.,0
+6,2026-05-01 06:00:52.800,high,Critical anomaly window observed during process phase: 'Repositioning'. Baseline configuration flagged tool as WORN.,0
+6,2026-05-01 06:00:52.900,high,Critical anomaly window observed during process phase: 'Repositioning'. Baseline configuration flagged tool as WORN.,0
+6,2026-05-01 06:00:53.000,high,Critical anomaly window observed during process phase: 'Repositioning'. Baseline configuration flagged tool as WORN.,0
+6,2026-05-01 06:00:55.900,medium,Critical anomaly window observed during process phase: 'Repositioning'. Baseline configuration flagged tool as WORN.,0
+6,2026-05-01 06:00:56.000,medium,Critical anomaly window observed during process phase: 'Repositioning'. Baseline configuration flagged tool as WORN.,0
+6,2026-05-01 06:01:06.400,medium,Critical anomaly window observed during process phase: 'Layer 2 Up'. Baseline configuration flagged tool as WORN.,0
+6,2026-05-01 06:01:06.500,medium,Critical anomaly window observed during process phase: 'Layer 2 Up'. Baseline configuration flagged tool as WORN.,0
+6,2026-05-01 06:01:06.600,medium,Critical anomaly window observed during process phase: 'Layer 2 Up'. Baseline configuration flagged tool as WORN.,0
+6,2026-05-01 06:01:06.700,medium,Critical anomaly window observed during process phase: 'Layer 2 Up'. Baseline configuration flagged tool as WORN.,0
+6,2026-05-01 06:01:32.200,high,Critical anomaly window observed during process phase: 'Repositioning'. Baseline configuration flagged tool as WORN.,0
+6,2026-05-01 06:01:32.300,high,Critical anomaly window observed during process phase: 'Repositioning'. Baseline configuration flagged tool as WORN.,0
+6,2026-05-01 06:01:32.400,high,Critical anomaly window observed during process phase: 'Repositioning'. Baseline configuration flagged tool as WORN.,0
+6,2026-05-01 06:01:32.500,high,Critical anomaly window observed during process phase: 'Repositioning'. Baseline configuration flagged tool as WORN.,0
+6,2026-05-01 06:01:32.600,high,Critical anomaly window observed during process phase: 'Repositioning'. Baseline configuration flagged tool as WORN.,0
+6,2026-05-01 06:01:32.700,high,Critical anomaly window observed during process phase: 'Repositioning'. Baseline configuration flagged tool as WORN.,0
+6,2026-05-01 06:01:32.800,high,Critical anomaly window observed during process phase: 'Repositioning'. Baseline configuration flagged tool as WORN.,0
+6,2026-05-01 06:01:32.900,high,Critical anomaly window observed during process phase: 'Repositioning'. Baseline configuration flagged tool as WORN.,0
+6,2026-05-01 06:01:33.000,high,Critical anomaly window observed during process phase: 'Repositioning'. Baseline configuration flagged tool as WORN.,0
+6,2026-05-01 06:01:33.100,low,Critical anomaly window observed during process phase: 'Repositioning'. Baseline configuration flagged tool as WORN.,0
+6,2026-05-01 06:01:35.200,high,Critical anomaly window observed during process phase: 'Repositioning'. Baseline configuration flagged tool as WORN.,0
+6,2026-05-01 06:01:35.300,high,Critical anomaly window observed during process phase: 'Repositioning'. Baseline configuration flagged tool as WORN.,0
+6,2026-05-01 06:01:35.400,high,Critical anomaly window observed during process phase: 'Repositioning'. Baseline configuration flagged tool as WORN.,0
+6,2026-05-01 06:01:35.500,high,Critical anomaly window observed during process phase: 'Repositioning'. Baseline configuration flagged tool as WORN.,0
+6,2026-05-01 06:01:35.600,high,Critical anomaly window observed during process phase: 'Repositioning'. Baseline configuration flagged tool as WORN.,0
+6,2026-05-01 06:01:35.700,high,Critical anomaly window observed during process phase: 'Repositioning'. Baseline configuration flagged tool as WORN.,0
+6,2026-05-01 06:01:35.800,high,Critical anomaly window observed during process phase: 'Repositioning'. Baseline configuration flagged tool as WORN.,0
+6,2026-05-01 06:01:35.900,high,Critical anomaly window observed during process phase: 'Repositioning'. Baseline configuration flagged tool as WORN.,0
+6,2026-05-01 06:01:36.000,high,Critical anomaly window observed during process phase: 'Repositioning'. Baseline configuration flagged tool as WORN.,0
+6,2026-05-01 06:01:36.100,medium,Critical anomaly window observed during process phase: 'Repositioning'. Baseline configuration flagged tool as WORN.,0
+6,2026-05-01 06:01:41.100,medium,Critical anomaly window observed during process phase: 'Layer 3 Up'. Baseline configuration flagged tool as WORN.,0
+6,2026-05-01 06:01:41.200,medium,Critical anomaly window observed during process phase: 'Layer 3 Up'. Baseline configuration flagged tool as WORN.,0
+6,2026-05-01 06:01:45.200,medium,Critical anomaly window observed during process phase: 'Layer 3 Up'. Baseline configuration flagged tool as WORN.,0
+6,2026-05-01 06:01:45.300,medium,Critical anomaly window observed during process phase: 'Layer 3 Up'. Baseline configuration flagged tool as WORN.,0
+6,2026-05-01 06:01:45.400,medium,Critical anomaly window observed during process phase: 'Layer 3 Up'. Baseline configuration flagged tool as WORN.,0
+6,2026-05-01 06:01:45.500,medium,Critical anomaly window observed during process phase: 'Layer 3 Up'. Baseline configuration flagged tool as WORN.,0
+6,2026-05-01 06:01:45.600,medium,Critical anomaly window observed during process phase: 'Layer 3 Up'. Baseline configuration flagged tool as WORN.,0
+6,2026-05-01 06:01:45.700,medium,Critical anomaly window observed during process phase: 'Layer 3 Up'. Baseline configuration flagged tool as WORN.,0
+6,2026-05-01 06:01:45.800,medium,Critical anomaly window observed during process phase: 'Layer 3 Up'. Baseline configuration flagged tool as WORN.,0
+6,2026-05-01 06:01:45.900,medium,Critical anomaly window observed during process phase: 'Layer 3 Up'. Baseline configuration flagged tool as WORN.,0
+6,2026-05-01 06:01:46.000,medium,Critical anomaly window observed during process phase: 'Layer 3 Up'. Baseline configuration flagged tool as WORN.,0
+6,2026-05-01 06:01:46.100,medium,Critical anomaly window observed during process phase: 'Layer 3 Up'. Baseline configuration flagged tool as WORN.,0
+6,2026-05-01 06:02:06.500,medium,Critical anomaly window observed during process phase: 'Layer 3 Down'. Baseline configuration flagged tool as WORN.,0
+6,2026-05-01 06:02:06.600,medium,Critical anomaly window observed during process phase: 'End'. Baseline configuration flagged tool as WORN.,0
+6,2026-05-01 06:02:06.700,low,Critical anomaly window observed during process phase: 'End'. Baseline configuration flagged tool as WORN.,0
+6,2026-05-01 06:02:06.800,low,Critical anomaly window observed during process phase: 'End'. Baseline configuration flagged tool as WORN.,0
+7,2026-05-01 07:00:02.000,low,Critical anomaly window observed during process phase: 'Prep'. Baseline configuration flagged tool as WORN.,0
+7,2026-05-01 07:00:02.500,low,Critical anomaly window observed during process phase: 'Prep'. Baseline configuration flagged tool as WORN.,0
+7,2026-05-01 07:00:05.000,high,Critical anomaly window observed during process phase: 'Prep'. Baseline configuration flagged tool as WORN.,0
+7,2026-05-01 07:00:05.100,medium,Critical anomaly window observed during process phase: 'Layer 1 Up'. Baseline configuration flagged tool as WORN.,0
+7,2026-05-01 07:00:05.200,high,Critical anomaly window observed during process phase: 'Layer 1 Up'. Baseline configuration flagged tool as WORN.,0
+7,2026-05-01 07:00:05.300,high,Critical anomaly window observed during process phase: 'Layer 1 Up'. Baseline configuration flagged tool as WORN.,0
+7,2026-05-01 07:00:05.400,high,Critical anomaly window observed during process phase: 'Layer 1 Up'. Baseline configuration flagged tool as WORN.,0
+7,2026-05-01 07:00:05.500,low,Critical anomaly window observed during process phase: 'Layer 1 Up'. Baseline configuration flagged tool as WORN.,0
+7,2026-05-01 07:00:06.500,low,Critical anomaly window observed during process phase: 'Layer 1 Up'. Baseline configuration flagged tool as WORN.,0
+7,2026-05-01 07:00:07.000,high,Critical anomaly window observed during process phase: 'Layer 1 Up'. Baseline configuration flagged tool as WORN.,0
+7,2026-05-01 07:00:07.100,high,Critical anomaly window observed during process phase: 'Layer 1 Up'. Baseline configuration flagged tool as WORN.,0
+7,2026-05-01 07:00:07.200,high,Critical anomaly window observed during process phase: 'Layer 1 Up'. Baseline configuration flagged tool as WORN.,0
+7,2026-05-01 07:00:07.300,high,Critical anomaly window observed during process phase: 'Layer 1 Up'. Baseline configuration flagged tool as WORN.,0
+7,2026-05-01 07:00:07.400,high,Critical anomaly window observed during process phase: 'Layer 1 Up'. Baseline configuration flagged tool as WORN.,0
+7,2026-05-01 07:00:07.500,high,Critical anomaly window observed during process phase: 'Layer 1 Up'. Baseline configuration flagged tool as WORN.,0
+7,2026-05-01 07:00:07.600,high,Critical anomaly window observed during process phase: 'Layer 1 Up'. Baseline configuration flagged tool as WORN.,0
+7,2026-05-01 07:00:07.700,low,Critical anomaly window observed during process phase: 'Layer 1 Up'. Baseline configuration flagged tool as WORN.,0
+7,2026-05-01 07:00:10.000,medium,Critical anomaly window observed during process phase: 'Layer 1 Up'. Baseline configuration flagged tool as WORN.,0
+7,2026-05-01 07:00:10.700,low,Critical anomaly window observed during process phase: 'Layer 1 Up'. Baseline configuration flagged tool as WORN.,0
+7,2026-05-01 07:00:10.900,medium,Critical anomaly window observed during process phase: 'Layer 1 Up'. Baseline configuration flagged tool as WORN.,0
+7,2026-05-01 07:00:11.000,medium,Critical anomaly window observed during process phase: 'Layer 1 Up'. Baseline configuration flagged tool as WORN.,0
+7,2026-05-01 07:00:11.100,medium,Critical anomaly window observed during process phase: 'Layer 1 Up'. Baseline configuration flagged tool as WORN.,0
+7,2026-05-01 07:00:11.200,medium,Critical anomaly window observed during process phase: 'Layer 1 Up'. Baseline configuration flagged tool as WORN.,0
+7,2026-05-01 07:00:11.300,medium,Critical anomaly window observed during process phase: 'Layer 1 Up'. Baseline configuration flagged tool as WORN.,0
+7,2026-05-01 07:00:11.400,low,Critical anomaly window observed during process phase: 'Layer 1 Up'. Baseline configuration flagged tool as WORN.,0
+7,2026-05-01 07:00:11.500,low,Critical anomaly window observed during process phase: 'Layer 1 Up'. Baseline configuration flagged tool as WORN.,0
+7,2026-05-01 07:00:11.600,low,Critical anomaly window observed during process phase: 'Layer 1 Up'. Baseline configuration flagged tool as WORN.,0
+7,2026-05-01 07:00:13.100,high,Critical anomaly window observed during process phase: 'Layer 1 Up'. Baseline configuration flagged tool as WORN.,0
+7,2026-05-01 07:00:13.200,low,Critical anomaly window observed during process phase: 'Layer 1 Up'. Baseline configuration flagged tool as WORN.,0
+7,2026-05-01 07:00:13.900,low,Critical anomaly window observed during process phase: 'Layer 1 Up'. Baseline configuration flagged tool as WORN.,0
+7,2026-05-01 07:00:14.100,high,Critical anomaly window observed during process phase: 'Layer 1 Up'. Baseline configuration flagged tool as WORN.,0
+7,2026-05-01 07:00:14.200,medium,Critical anomaly window observed during process phase: 'Layer 1 Up'. Baseline configuration flagged tool as WORN.,0
+7,2026-05-01 07:00:14.300,medium,Critical anomaly window observed during process phase: 'Layer 1 Up'. Baseline configuration flagged tool as WORN.,0
+7,2026-05-01 07:00:14.400,medium,Critical anomaly window observed during process phase: 'Layer 1 Up'. Baseline configuration flagged tool as WORN.,0
+7,2026-05-01 07:00:14.500,medium,Critical anomaly window observed during process phase: 'Layer 1 Up'. Baseline configuration flagged tool as WORN.,0
+7,2026-05-01 07:00:14.600,medium,Critical anomaly window observed during process phase: 'Layer 1 Up'. Baseline configuration flagged tool as WORN.,0
+7,2026-05-01 07:00:14.700,medium,Critical anomaly window observed during process phase: 'Layer 1 Up'. Baseline configuration flagged tool as WORN.,0
+7,2026-05-01 07:00:14.800,medium,Critical anomaly window observed during process phase: 'Layer 1 Up'. Baseline configuration flagged tool as WORN.,0
+7,2026-05-01 07:00:14.900,medium,Critical anomaly window observed during process phase: 'Layer 1 Up'. Baseline configuration flagged tool as WORN.,0
+7,2026-05-01 07:00:15.000,low,Critical anomaly window observed during process phase: 'Layer 1 Up'. Baseline configuration flagged tool as WORN.,0
+7,2026-05-01 07:00:15.100,low,Critical anomaly window observed during process phase: 'Layer 1 Up'. Baseline configuration flagged tool as WORN.,0
+7,2026-05-01 07:00:15.800,high,Critical anomaly window observed during process phase: 'Layer 1 Up'. Baseline configuration flagged tool as WORN.,0
+7,2026-05-01 07:00:15.900,medium,Critical anomaly window observed during process phase: 'Layer 1 Up'. Baseline configuration flagged tool as WORN.,0
+7,2026-05-01 07:00:16.200,high,Critical anomaly window observed during process phase: 'Layer 1 Up'. Baseline configuration flagged tool as WORN.,0
+7,2026-05-01 07:00:16.300,high,Critical anomaly window observed during process phase: 'Layer 1 Up'. Baseline configuration flagged tool as WORN.,0
+7,2026-05-01 07:00:16.400,high,Critical anomaly window observed during process phase: 'Layer 1 Up'. Baseline configuration flagged tool as WORN.,0
+7,2026-05-01 07:00:16.500,high,Critical anomaly window observed during process phase: 'Layer 1 Up'. Baseline configuration flagged tool as WORN.,0
+7,2026-05-01 07:00:16.600,high,Critical anomaly window observed during process phase: 'Layer 1 Up'. Baseline configuration flagged tool as WORN.,0
+7,2026-05-01 07:00:16.700,high,Critical anomaly window observed during process phase: 'Layer 1 Up'. Baseline configuration flagged tool as WORN.,0
+7,2026-05-01 07:00:16.800,high,Critical anomaly window observed during process phase: 'Layer 1 Up'. Baseline configuration flagged tool as WORN.,0
+7,2026-05-01 07:00:16.900,high,Critical anomaly window observed during process phase: 'Layer 1 Up'. Baseline configuration flagged tool as WORN.,0
+7,2026-05-01 07:00:18.200,low,Critical anomaly window observed during process phase: 'Layer 1 Up'. Baseline configuration flagged tool as WORN.,0
+7,2026-05-01 07:00:18.400,low,Critical anomaly window observed during process phase: 'Layer 1 Up'. Baseline configuration flagged tool as WORN.,0
+7,2026-05-01 07:00:18.800,medium,Critical anomaly window observed during process phase: 'Layer 1 Up'. Baseline configuration flagged tool as WORN.,0
+7,2026-05-01 07:00:18.900,low,Critical anomaly window observed during process phase: 'Layer 1 Up'. Baseline configuration flagged tool as WORN.,0
+7,2026-05-01 07:00:19.000,low,Critical anomaly window observed during process phase: 'Layer 1 Up'. Baseline configuration flagged tool as WORN.,0
+7,2026-05-01 07:00:20.300,medium,Critical anomaly window observed during process phase: 'Layer 1 Up'. Baseline configuration flagged tool as WORN.,0
+7,2026-05-01 07:00:20.400,low,Critical anomaly window observed during process phase: 'Layer 1 Up'. Baseline configuration flagged tool as WORN.,0
+7,2026-05-01 07:00:20.600,medium,Critical anomaly window observed during process phase: 'Layer 1 Up'. Baseline configuration flagged tool as WORN.,0
+7,2026-05-01 07:00:20.700,medium,Critical anomaly window observed during process phase: 'Layer 1 Up'. Baseline configuration flagged tool as WORN.,0
+7,2026-05-01 07:00:20.800,low,Critical anomaly window observed during process phase: 'Layer 1 Up'. Baseline configuration flagged tool as WORN.,0
+7,2026-05-01 07:00:20.900,low,Critical anomaly window observed during process phase: 'Layer 1 Up'. Baseline configuration flagged tool as WORN.,0
+7,2026-05-01 07:00:21.100,low,Critical anomaly window observed during process phase: 'Layer 1 Up'. Baseline configuration flagged tool as WORN.,0
+7,2026-05-01 07:00:22.100,medium,Critical anomaly window observed during process phase: 'Layer 1 Up'. Baseline configuration flagged tool as WORN.,0
+7,2026-05-01 07:00:22.400,medium,Critical anomaly window observed during process phase: 'Layer 1 Up'. Baseline configuration flagged tool as WORN.,0
+7,2026-05-01 07:00:22.700,medium,Critical anomaly window observed during process phase: 'Layer 1 Up'. Baseline configuration flagged tool as WORN.,0
+7,2026-05-01 07:00:22.800,low,Critical anomaly window observed during process phase: 'Layer 1 Up'. Baseline configuration flagged tool as WORN.,0
+7,2026-05-01 07:00:22.900,low,Critical anomaly window observed during process phase: 'Layer 1 Up'. Baseline configuration flagged tool as WORN.,0
+7,2026-05-01 07:00:23.100,low,Critical anomaly window observed during process phase: 'Layer 1 Up'. Baseline configuration flagged tool as WORN.,0
+7,2026-05-01 07:00:23.200,medium,Critical anomaly window observed during process phase: 'Layer 1 Up'. Baseline configuration flagged tool as WORN.,0
+7,2026-05-01 07:00:23.500,low,Critical anomaly window observed during process phase: 'Layer 1 Up'. Baseline configuration flagged tool as WORN.,0
+7,2026-05-01 07:00:23.800,low,Critical anomaly window observed during process phase: 'Layer 1 Up'. Baseline configuration flagged tool as WORN.,0
+7,2026-05-01 07:00:24.200,low,Critical anomaly window observed during process phase: 'Layer 1 Up'. Baseline configuration flagged tool as WORN.,0
+7,2026-05-01 07:00:24.600,low,Critical anomaly window observed during process phase: 'Layer 1 Down'. Baseline configuration flagged tool as WORN.,0
+7,2026-05-01 07:00:24.900,medium,Critical anomaly window observed during process phase: 'Layer 1 Down'. Baseline configuration flagged tool as WORN.,0
+7,2026-05-01 07:00:25.600,medium,Critical anomaly window observed during process phase: 'Layer 1 Down'. Baseline configuration flagged tool as WORN.,0
+7,2026-05-01 07:00:25.700,high,Critical anomaly window observed during process phase: 'Layer 1 Down'. Baseline configuration flagged tool as WORN.,0
+7,2026-05-01 07:00:27.700,low,Critical anomaly window observed during process phase: 'Layer 1 Down'. Baseline configuration flagged tool as WORN.,0
+7,2026-05-01 07:00:28.100,low,Critical anomaly window observed during process phase: 'Layer 1 Down'. Baseline configuration flagged tool as WORN.,0
+7,2026-05-01 07:00:28.200,low,Critical anomaly window observed during process phase: 'Layer 1 Down'. Baseline configuration flagged tool as WORN.,0
+7,2026-05-01 07:00:29.500,low,Critical anomaly window observed during process phase: 'Layer 1 Down'. Baseline configuration flagged tool as WORN.,0
+7,2026-05-01 07:00:29.700,low,Critical anomaly window observed during process phase: 'Layer 1 Down'. Baseline configuration flagged tool as WORN.,0
+7,2026-05-01 07:00:29.900,medium,Critical anomaly window observed during process phase: 'Layer 1 Down'. Baseline configuration flagged tool as WORN.,0
+7,2026-05-01 07:00:30.300,low,Critical anomaly window observed during process phase: 'Layer 1 Down'. Baseline configuration flagged tool as WORN.,0
+7,2026-05-01 07:00:32.600,low,Critical anomaly window observed during process phase: 'Layer 1 Down'. Baseline configuration flagged tool as WORN.,0
+7,2026-05-01 07:00:32.700,low,Critical anomaly window observed during process phase: 'Layer 1 Down'. Baseline configuration flagged tool as WORN.,0
+7,2026-05-01 07:00:32.800,low,Critical anomaly window observed during process phase: 'Layer 1 Down'. Baseline configuration flagged tool as WORN.,0
+7,2026-05-01 07:00:32.900,medium,Critical anomaly window observed during process phase: 'Layer 1 Down'. Baseline configuration flagged tool as WORN.,0
+7,2026-05-01 07:00:33.200,medium,Critical anomaly window observed during process phase: 'Layer 1 Down'. Baseline configuration flagged tool as WORN.,0
+7,2026-05-01 07:00:33.600,medium,Critical anomaly window observed during process phase: 'Layer 1 Down'. Baseline configuration flagged tool as WORN.,0
+7,2026-05-01 07:00:33.700,medium,Critical anomaly window observed during process phase: 'Layer 1 Down'. Baseline configuration flagged tool as WORN.,0
+7,2026-05-01 07:00:36.800,medium,Critical anomaly window observed during process phase: 'Repositioning'. Baseline configuration flagged tool as WORN.,0
+7,2026-05-01 07:00:36.900,high,Critical anomaly window observed during process phase: 'Repositioning'. Baseline configuration flagged tool as WORN.,0
+7,2026-05-01 07:00:37.000,medium,Critical anomaly window observed during process phase: 'Repositioning'. Baseline configuration flagged tool as WORN.,0
+7,2026-05-01 07:00:37.100,medium,Critical anomaly window observed during process phase: 'Repositioning'. Baseline configuration flagged tool as WORN.,0
+7,2026-05-01 07:00:37.200,high,Critical anomaly window observed during process phase: 'Repositioning'. Baseline configuration flagged tool as WORN.,0
+7,2026-05-01 07:00:37.300,high,Critical anomaly window observed during process phase: 'Repositioning'. Baseline configuration flagged tool as WORN.,0
+7,2026-05-01 07:00:37.400,high,Critical anomaly window observed during process phase: 'Repositioning'. Baseline configuration flagged tool as WORN.,0
+7,2026-05-01 07:00:37.500,high,Critical anomaly window observed during process phase: 'Repositioning'. Baseline configuration flagged tool as WORN.,0
+7,2026-05-01 07:00:37.600,high,Critical anomaly window observed during process phase: 'Repositioning'. Baseline configuration flagged tool as WORN.,0
+7,2026-05-01 07:00:37.700,low,Critical anomaly window observed during process phase: 'Repositioning'. Baseline configuration flagged tool as WORN.,0
+7,2026-05-01 07:00:38.100,high,Critical anomaly window observed during process phase: 'Repositioning'. Baseline configuration flagged tool as WORN.,0
+7,2026-05-01 07:00:38.300,medium,Critical anomaly window observed during process phase: 'Repositioning'. Baseline configuration flagged tool as WORN.,0
+7,2026-05-01 07:00:38.400,medium,Critical anomaly window observed during process phase: 'Repositioning'. Baseline configuration flagged tool as WORN.,0
+7,2026-05-01 07:00:38.600,medium,Critical anomaly window observed during process phase: 'Repositioning'. Baseline configuration flagged tool as WORN.,0
+7,2026-05-01 07:00:39.700,low,Critical anomaly window observed during process phase: 'Repositioning'. Baseline configuration flagged tool as WORN.,0
+7,2026-05-01 07:00:40.600,medium,Critical anomaly window observed during process phase: 'Repositioning'. Baseline configuration flagged tool as WORN.,0
+7,2026-05-01 07:00:40.800,low,Critical anomaly window observed during process phase: 'Repositioning'. Baseline configuration flagged tool as WORN.,0
+7,2026-05-01 07:00:41.200,medium,Critical anomaly window observed during process phase: 'Repositioning'. Baseline configuration flagged tool as WORN.,0
+7,2026-05-01 07:00:41.400,low,Critical anomaly window observed during process phase: 'Repositioning'. Baseline configuration flagged tool as WORN.,0
+7,2026-05-01 07:00:41.500,medium,Critical anomaly window observed during process phase: 'Repositioning'. Baseline configuration flagged tool as WORN.,0
+7,2026-05-01 07:00:41.800,high,Critical anomaly window observed during process phase: 'Repositioning'. Baseline configuration flagged tool as WORN.,0
+7,2026-05-01 07:00:41.900,high,Critical anomaly window observed during process phase: 'Repositioning'. Baseline configuration flagged tool as WORN.,0
+7,2026-05-01 07:00:42.000,high,Critical anomaly window observed during process phase: 'Repositioning'. Baseline configuration flagged tool as WORN.,0
+7,2026-05-01 07:00:42.100,high,Critical anomaly window observed during process phase: 'Repositioning'. Baseline configuration flagged tool as WORN.,0
+7,2026-05-01 07:00:42.200,high,Critical anomaly window observed during process phase: 'Repositioning'. Baseline configuration flagged tool as WORN.,0
+7,2026-05-01 07:00:42.300,high,Critical anomaly window observed during process phase: 'Repositioning'. Baseline configuration flagged tool as WORN.,0
+7,2026-05-01 07:00:42.400,high,Critical anomaly window observed during process phase: 'Repositioning'. Baseline configuration flagged tool as WORN.,0
+7,2026-05-01 07:00:42.500,high,Critical anomaly window observed during process phase: 'Repositioning'. Baseline configuration flagged tool as WORN.,0
+7,2026-05-01 07:00:42.600,high,Critical anomaly window observed during process phase: 'Repositioning'. Baseline configuration flagged tool as WORN.,0
+7,2026-05-01 07:00:42.700,high,Critical anomaly window observed during process phase: 'Repositioning'. Baseline configuration flagged tool as WORN.,0
+7,2026-05-01 07:00:42.800,high,Critical anomaly window observed during process phase: 'Repositioning'. Baseline configuration flagged tool as WORN.,0
+7,2026-05-01 07:00:43.100,low,Critical anomaly window observed during process phase: 'Repositioning'. Baseline configuration flagged tool as WORN.,0
+7,2026-05-01 07:00:43.400,medium,Critical anomaly window observed during process phase: 'Repositioning'. Baseline configuration flagged tool as WORN.,0
+7,2026-05-01 07:00:43.900,low,Critical anomaly window observed during process phase: 'Repositioning'. Baseline configuration flagged tool as WORN.,0
+7,2026-05-01 07:00:44.800,high,Critical anomaly window observed during process phase: 'Repositioning'. Baseline configuration flagged tool as WORN.,0
+7,2026-05-01 07:00:45.400,medium,Critical anomaly window observed during process phase: 'Repositioning'. Baseline configuration flagged tool as WORN.,0
+7,2026-05-01 07:00:45.500,low,Critical anomaly window observed during process phase: 'Repositioning'. Baseline configuration flagged tool as WORN.,0
+7,2026-05-01 07:00:45.800,low,Critical anomaly window observed during process phase: 'Repositioning'. Baseline configuration flagged tool as WORN.,0
+7,2026-05-01 07:00:46.200,low,Critical anomaly window observed during process phase: 'Repositioning'. Baseline configuration flagged tool as WORN.,0
+7,2026-05-01 07:00:46.500,low,Critical anomaly window observed during process phase: 'Repositioning'. Baseline configuration flagged tool as WORN.,0
+7,2026-05-01 07:00:46.800,medium,Critical anomaly window observed during process phase: 'Repositioning'. Baseline configuration flagged tool as WORN.,0
+7,2026-05-01 07:00:47.100,low,Critical anomaly window observed during process phase: 'Repositioning'. Baseline configuration flagged tool as WORN.,0
+7,2026-05-01 07:00:49.300,medium,Critical anomaly window observed during process phase: 'Repositioning'. Baseline configuration flagged tool as WORN.,0
+7,2026-05-01 07:00:49.400,medium,Critical anomaly window observed during process phase: 'Repositioning'. Baseline configuration flagged tool as WORN.,0
+7,2026-05-01 07:00:49.500,medium,Critical anomaly window observed during process phase: 'Repositioning'. Baseline configuration flagged tool as WORN.,0
+7,2026-05-01 07:00:51.600,low,Critical anomaly window observed during process phase: 'Layer 2 Up'. Baseline configuration flagged tool as WORN.,0
+7,2026-05-01 07:00:51.800,medium,Critical anomaly window observed during process phase: 'Layer 2 Up'. Baseline configuration flagged tool as WORN.,0
+7,2026-05-01 07:00:51.900,low,Critical anomaly window observed during process phase: 'Layer 2 Up'. Baseline configuration flagged tool as WORN.,0
+7,2026-05-01 07:00:53.400,low,Critical anomaly window observed during process phase: 'Layer 2 Up'. Baseline configuration flagged tool as WORN.,0
+7,2026-05-01 07:00:53.500,low,Critical anomaly window observed during process phase: 'Layer 2 Up'. Baseline configuration flagged tool as WORN.,0
+7,2026-05-01 07:00:53.600,low,Critical anomaly window observed during process phase: 'Layer 2 Up'. Baseline configuration flagged tool as WORN.,0
+7,2026-05-01 07:00:54.100,low,Critical anomaly window observed during process phase: 'Layer 2 Up'. Baseline configuration flagged tool as WORN.,0
+7,2026-05-01 07:00:54.200,low,Critical anomaly window observed during process phase: 'Layer 2 Up'. Baseline configuration flagged tool as WORN.,0
+7,2026-05-01 07:00:55.400,medium,Critical anomaly window observed during process phase: 'End'. Baseline configuration flagged tool as WORN.,0
+8,2026-05-01 08:00:00.100,low,Critical anomaly window observed during process phase: 'Prep'. Baseline configuration flagged tool as WORN.,0
+8,2026-05-01 08:00:00.200,low,Critical anomaly window observed during process phase: 'Prep'. Baseline configuration flagged tool as WORN.,0
+8,2026-05-01 08:00:00.600,low,Critical anomaly window observed during process phase: 'Prep'. Baseline configuration flagged tool as WORN.,0
+8,2026-05-01 08:00:00.800,medium,Critical anomaly window observed during process phase: 'Prep'. Baseline configuration flagged tool as WORN.,0
+8,2026-05-01 08:00:02.200,medium,Critical anomaly window observed during process phase: 'Prep'. Baseline configuration flagged tool as WORN.,0
+8,2026-05-01 08:00:02.300,high,Critical anomaly window observed during process phase: 'Prep'. Baseline configuration flagged tool as WORN.,0
+8,2026-05-01 08:00:02.400,high,Critical anomaly window observed during process phase: 'Prep'. Baseline configuration flagged tool as WORN.,0
+8,2026-05-01 08:00:02.500,high,Critical anomaly window observed during process phase: 'Prep'. Baseline configuration flagged tool as WORN.,0
+8,2026-05-01 08:00:02.600,high,Critical anomaly window observed during process phase: 'Prep'. Baseline configuration flagged tool as WORN.,0
+8,2026-05-01 08:00:02.700,high,Critical anomaly window observed during process phase: 'Prep'. Baseline configuration flagged tool as WORN.,0
+8,2026-05-01 08:00:02.800,high,Critical anomaly window observed during process phase: 'Prep'. Baseline configuration flagged tool as WORN.,0
+8,2026-05-01 08:00:02.900,high,Critical anomaly window observed during process phase: 'Prep'. Baseline configuration flagged tool as WORN.,0
+8,2026-05-01 08:00:03.000,high,Critical anomaly window observed during process phase: 'Prep'. Baseline configuration flagged tool as WORN.,0
+8,2026-05-01 08:00:03.100,high,Critical anomaly window observed during process phase: 'Prep'. Baseline configuration flagged tool as WORN.,0
+8,2026-05-01 08:00:03.200,high,Critical anomaly window observed during process phase: 'Prep'. Baseline configuration flagged tool as WORN.,0
+8,2026-05-01 08:00:03.300,high,Critical anomaly window observed during process phase: 'Prep'. Baseline configuration flagged tool as WORN.,0
+8,2026-05-01 08:00:03.400,high,Critical anomaly window observed during process phase: 'Prep'. Baseline configuration flagged tool as WORN.,0
+8,2026-05-01 08:00:03.500,high,Critical anomaly window observed during process phase: 'Prep'. Baseline configuration flagged tool as WORN.,0
+8,2026-05-01 08:00:03.600,high,Critical anomaly window observed during process phase: 'Prep'. Baseline configuration flagged tool as WORN.,0
+8,2026-05-01 08:00:03.700,high,Critical anomaly window observed during process phase: 'Prep'. Baseline configuration flagged tool as WORN.,0
+8,2026-05-01 08:00:03.800,low,Critical anomaly window observed during process phase: 'Prep'. Baseline configuration flagged tool as WORN.,0
+8,2026-05-01 08:00:04.300,low,Critical anomaly window observed during process phase: 'Layer 1 Up'. Baseline configuration flagged tool as WORN.,0
+8,2026-05-01 08:00:04.400,low,Critical anomaly window observed during process phase: 'Layer 1 Up'. Baseline configuration flagged tool as WORN.,0
+8,2026-05-01 08:00:05.000,medium,Critical anomaly window observed during process phase: 'Layer 1 Up'. Baseline configuration flagged tool as WORN.,0
+8,2026-05-01 08:00:06.200,medium,Critical anomaly window observed during process phase: 'Layer 1 Up'. Baseline configuration flagged tool as WORN.,0
+8,2026-05-01 08:00:06.500,low,Critical anomaly window observed during process phase: 'Layer 1 Up'. Baseline configuration flagged tool as WORN.,0
+8,2026-05-01 08:00:08.900,low,Critical anomaly window observed during process phase: 'Layer 1 Down'. Baseline configuration flagged tool as WORN.,0
+8,2026-05-01 08:00:09.600,medium,Critical anomaly window observed during process phase: 'Layer 1 Down'. Baseline configuration flagged tool as WORN.,0
+8,2026-05-01 08:00:10.500,medium,Critical anomaly window observed during process phase: 'Repositioning'. Baseline configuration flagged tool as WORN.,0
+8,2026-05-01 08:00:10.600,medium,Critical anomaly window observed during process phase: 'Repositioning'. Baseline configuration flagged tool as WORN.,0
+8,2026-05-01 08:00:10.700,medium,Critical anomaly window observed during process phase: 'Repositioning'. Baseline configuration flagged tool as WORN.,0
+8,2026-05-01 08:00:10.800,medium,Critical anomaly window observed during process phase: 'Repositioning'. Baseline configuration flagged tool as WORN.,0
+8,2026-05-01 08:00:10.900,medium,Critical anomaly window observed during process phase: 'Repositioning'. Baseline configuration flagged tool as WORN.,0
+8,2026-05-01 08:00:11.000,medium,Critical anomaly window observed during process phase: 'Repositioning'. Baseline configuration flagged tool as WORN.,0
+8,2026-05-01 08:00:11.100,low,Critical anomaly window observed during process phase: 'Repositioning'. Baseline configuration flagged tool as WORN.,0
+8,2026-05-01 08:00:11.200,low,Critical anomaly window observed during process phase: 'Repositioning'. Baseline configuration flagged tool as WORN.,0
+8,2026-05-01 08:00:11.300,low,Critical anomaly window observed during process phase: 'Repositioning'. Baseline configuration flagged tool as WORN.,0
+8,2026-05-01 08:00:11.800,medium,Critical anomaly window observed during process phase: 'Repositioning'. Baseline configuration flagged tool as WORN.,0
+8,2026-05-01 08:00:11.900,medium,Critical anomaly window observed during process phase: 'Repositioning'. Baseline configuration flagged tool as WORN.,0
+8,2026-05-01 08:00:12.000,medium,Critical anomaly window observed during process phase: 'Repositioning'. Baseline configuration flagged tool as WORN.,0
+8,2026-05-01 08:00:12.100,medium,Critical anomaly window observed during process phase: 'Repositioning'. Baseline configuration flagged tool as WORN.,0
+8,2026-05-01 08:00:12.200,medium,Critical anomaly window observed during process phase: 'Repositioning'. Baseline configuration flagged tool as WORN.,0
+8,2026-05-01 08:00:12.300,medium,Critical anomaly window observed during process phase: 'Repositioning'. Baseline configuration flagged tool as WORN.,0
+8,2026-05-01 08:00:12.400,medium,Critical anomaly window observed during process phase: 'Repositioning'. Baseline configuration flagged tool as WORN.,0
+8,2026-05-01 08:00:12.500,high,Critical anomaly window observed during process phase: 'Repositioning'. Baseline configuration flagged tool as WORN.,0
+8,2026-05-01 08:00:12.600,medium,Critical anomaly window observed during process phase: 'Layer 2 Up'. Baseline configuration flagged tool as WORN.,0
+8,2026-05-01 08:00:12.700,high,Critical anomaly window observed during process phase: 'Layer 2 Up'. Baseline configuration flagged tool as WORN.,0
+8,2026-05-01 08:00:12.800,high,Critical anomaly window observed during process phase: 'Layer 2 Up'. Baseline configuration flagged tool as WORN.,0
+8,2026-05-01 08:00:12.900,high,Critical anomaly window observed during process phase: 'Layer 2 Up'. Baseline configuration flagged tool as WORN.,0
+8,2026-05-01 08:00:13.000,low,Critical anomaly window observed during process phase: 'Layer 2 Up'. Baseline configuration flagged tool as WORN.,0
+8,2026-05-01 08:00:13.100,low,Critical anomaly window observed during process phase: 'Layer 2 Up'. Baseline configuration flagged tool as WORN.,0
+8,2026-05-01 08:00:13.200,low,Critical anomaly window observed during process phase: 'Layer 2 Up'. Baseline configuration flagged tool as WORN.,0
+8,2026-05-01 08:00:13.500,low,Critical anomaly window observed during process phase: 'Layer 2 Up'. Baseline configuration flagged tool as WORN.,0
+8,2026-05-01 08:00:13.600,low,Critical anomaly window observed during process phase: 'Layer 2 Up'. Baseline configuration flagged tool as WORN.,0
+8,2026-05-01 08:00:13.700,low,Critical anomaly window observed during process phase: 'Layer 2 Up'. Baseline configuration flagged tool as WORN.,0
+8,2026-05-01 08:00:13.900,low,Critical anomaly window observed during process phase: 'Layer 2 Up'. Baseline configuration flagged tool as WORN.,0
+8,2026-05-01 08:00:14.000,medium,Critical anomaly window observed during process phase: 'Layer 2 Up'. Baseline configuration flagged tool as WORN.,0
+8,2026-05-01 08:00:14.300,low,Critical anomaly window observed during process phase: 'Layer 2 Up'. Baseline configuration flagged tool as WORN.,0
+8,2026-05-01 08:00:14.600,low,Critical anomaly window observed during process phase: 'Layer 2 Up'. Baseline configuration flagged tool as WORN.,0
+8,2026-05-01 08:00:14.900,low,Critical anomaly window observed during process phase: 'Layer 2 Up'. Baseline configuration flagged tool as WORN.,0
+8,2026-05-01 08:00:15.500,low,Critical anomaly window observed during process phase: 'Layer 2 Up'. Baseline configuration flagged tool as WORN.,0
+8,2026-05-01 08:00:16.000,low,Critical anomaly window observed during process phase: 'Layer 2 Up'. Baseline configuration flagged tool as WORN.,0
+8,2026-05-01 08:00:17.900,low,Critical anomaly window observed during process phase: 'Layer 2 Up'. Baseline configuration flagged tool as WORN.,0
+8,2026-05-01 08:00:18.000,medium,Critical anomaly window observed during process phase: 'Layer 2 Up'. Baseline configuration flagged tool as WORN.,0
+8,2026-05-01 08:00:18.700,low,Critical anomaly window observed during process phase: 'Layer 2 Up'. Baseline configuration flagged tool as WORN.,0
+8,2026-05-01 08:00:18.800,low,Critical anomaly window observed during process phase: 'Layer 2 Up'. Baseline configuration flagged tool as WORN.,0
+8,2026-05-01 08:00:19.100,low,Critical anomaly window observed during process phase: 'Layer 2 Up'. Baseline configuration flagged tool as WORN.,0
+8,2026-05-01 08:00:19.300,high,Critical anomaly window observed during process phase: 'Layer 2 Up'. Baseline configuration flagged tool as WORN.,0
+8,2026-05-01 08:00:19.600,low,Critical anomaly window observed during process phase: 'Layer 2 Up'. Baseline configuration flagged tool as WORN.,0
+8,2026-05-01 08:00:22.100,medium,Critical anomaly window observed during process phase: 'Layer 2 Up'. Baseline configuration flagged tool as WORN.,0
+8,2026-05-01 08:00:22.200,low,Critical anomaly window observed during process phase: 'Layer 2 Up'. Baseline configuration flagged tool as WORN.,0
+8,2026-05-01 08:00:22.800,low,Critical anomaly window observed during process phase: 'Layer 2 Up'. Baseline configuration flagged tool as WORN.,0
+8,2026-05-01 08:00:23.500,low,Critical anomaly window observed during process phase: 'Layer 2 Up'. Baseline configuration flagged tool as WORN.,0
+8,2026-05-01 08:00:23.600,medium,Critical anomaly window observed during process phase: 'Layer 2 Up'. Baseline configuration flagged tool as WORN.,0
+8,2026-05-01 08:00:23.700,low,Critical anomaly window observed during process phase: 'Layer 2 Up'. Baseline configuration flagged tool as WORN.,0
+8,2026-05-01 08:00:23.900,low,Critical anomaly window observed during process phase: 'Layer 2 Up'. Baseline configuration flagged tool as WORN.,0
+8,2026-05-01 08:00:24.100,low,Critical anomaly window observed during process phase: 'Layer 2 Up'. Baseline configuration flagged tool as WORN.,0
+8,2026-05-01 08:00:24.800,low,Critical anomaly window observed during process phase: 'Layer 2 Up'. Baseline configuration flagged tool as WORN.,0
+8,2026-05-01 08:00:28.700,low,Critical anomaly window observed during process phase: 'Layer 2 Up'. Baseline configuration flagged tool as WORN.,0
+8,2026-05-01 08:00:28.800,low,Critical anomaly window observed during process phase: 'Layer 2 Up'. Baseline configuration flagged tool as WORN.,0
+8,2026-05-01 08:00:29.000,low,Critical anomaly window observed during process phase: 'Layer 2 Up'. Baseline configuration flagged tool as WORN.,0
+8,2026-05-01 08:00:29.200,low,Critical anomaly window observed during process phase: 'Layer 2 Up'. Baseline configuration flagged tool as WORN.,0
+8,2026-05-01 08:00:29.400,low,Critical anomaly window observed during process phase: 'Layer 2 Up'. Baseline configuration flagged tool as WORN.,0
+8,2026-05-01 08:00:31.100,high,Critical anomaly window observed during process phase: 'Layer 2 Down'. Baseline configuration flagged tool as WORN.,0
+8,2026-05-01 08:00:31.200,high,Critical anomaly window observed during process phase: 'Layer 2 Down'. Baseline configuration flagged tool as WORN.,0
+8,2026-05-01 08:00:31.300,high,Critical anomaly window observed during process phase: 'Layer 2 Down'. Baseline configuration flagged tool as WORN.,0
+8,2026-05-01 08:00:31.400,high,Critical anomaly window observed during process phase: 'Layer 2 Down'. Baseline configuration flagged tool as WORN.,0
+8,2026-05-01 08:00:31.500,high,Critical anomaly window observed during process phase: 'Layer 2 Down'. Baseline configuration flagged tool as WORN.,0
+8,2026-05-01 08:00:31.600,high,Critical anomaly window observed during process phase: 'Layer 2 Down'. Baseline configuration flagged tool as WORN.,0
+8,2026-05-01 08:00:31.700,high,Critical anomaly window observed during process phase: 'Layer 2 Down'. Baseline configuration flagged tool as WORN.,0
+8,2026-05-01 08:00:31.800,high,Critical anomaly window observed during process phase: 'Layer 2 Down'. Baseline configuration flagged tool as WORN.,0
+8,2026-05-01 08:00:31.900,high,Critical anomaly window observed during process phase: 'Layer 2 Down'. Baseline configuration flagged tool as WORN.,0
+8,2026-05-01 08:00:32.000,high,Critical anomaly window observed during process phase: 'Layer 2 Down'. Baseline configuration flagged tool as WORN.,0
+8,2026-05-01 08:00:36.000,low,Critical anomaly window observed during process phase: 'Layer 2 Down'. Baseline configuration flagged tool as WORN.,0
+8,2026-05-01 08:00:36.200,low,Critical anomaly window observed during process phase: 'Layer 2 Down'. Baseline configuration flagged tool as WORN.,0
+8,2026-05-01 08:00:36.400,low,Critical anomaly window observed during process phase: 'Layer 2 Down'. Baseline configuration flagged tool as WORN.,0
+8,2026-05-01 08:00:37.400,low,Critical anomaly window observed during process phase: 'Repositioning'. Baseline configuration flagged tool as WORN.,0
+8,2026-05-01 08:00:37.800,low,Critical anomaly window observed during process phase: 'Repositioning'. Baseline configuration flagged tool as WORN.,0
+8,2026-05-01 08:00:40.300,medium,Critical anomaly window observed during process phase: 'Repositioning'. Baseline configuration flagged tool as WORN.,0
+8,2026-05-01 08:00:40.600,low,Critical anomaly window observed during process phase: 'Repositioning'. Baseline configuration flagged tool as WORN.,0
+8,2026-05-01 08:00:41.300,low,Critical anomaly window observed during process phase: 'Repositioning'. Baseline configuration flagged tool as WORN.,0
+8,2026-05-01 08:00:41.600,low,Critical anomaly window observed during process phase: 'Repositioning'. Baseline configuration flagged tool as WORN.,0
+8,2026-05-01 08:00:42.000,low,Critical anomaly window observed during process phase: 'Repositioning'. Baseline configuration flagged tool as WORN.,0
+8,2026-05-01 08:00:42.100,low,Critical anomaly window observed during process phase: 'Repositioning'. Baseline configuration flagged tool as WORN.,0
+8,2026-05-01 08:00:43.100,medium,Critical anomaly window observed during process phase: 'Repositioning'. Baseline configuration flagged tool as WORN.,0
+8,2026-05-01 08:00:43.200,low,Critical anomaly window observed during process phase: 'Repositioning'. Baseline configuration flagged tool as WORN.,0
+8,2026-05-01 08:00:43.400,medium,Critical anomaly window observed during process phase: 'Repositioning'. Baseline configuration flagged tool as WORN.,0
+8,2026-05-01 08:00:43.500,medium,Critical anomaly window observed during process phase: 'Repositioning'. Baseline configuration flagged tool as WORN.,0
+8,2026-05-01 08:00:44.600,low,Critical anomaly window observed during process phase: 'Layer 3 Up'. Baseline configuration flagged tool as WORN.,0
+8,2026-05-01 08:00:45.200,low,Critical anomaly window observed during process phase: 'Layer 3 Up'. Baseline configuration flagged tool as WORN.,0
+8,2026-05-01 08:00:45.500,low,Critical anomaly window observed during process phase: 'Layer 3 Up'. Baseline configuration flagged tool as WORN.,0
+8,2026-05-01 08:00:45.700,low,Critical anomaly window observed during process phase: 'Layer 3 Up'. Baseline configuration flagged tool as WORN.,0
+8,2026-05-01 08:00:46.500,medium,Critical anomaly window observed during process phase: 'Layer 3 Up'. Baseline configuration flagged tool as WORN.,0
+8,2026-05-01 08:00:46.600,medium,Critical anomaly window observed during process phase: 'Layer 3 Up'. Baseline configuration flagged tool as WORN.,0
+8,2026-05-01 08:00:47.700,low,Critical anomaly window observed during process phase: 'Layer 3 Up'. Baseline configuration flagged tool as WORN.,0
+8,2026-05-01 08:00:48.100,low,Critical anomaly window observed during process phase: 'Layer 3 Up'. Baseline configuration flagged tool as WORN.,0
+8,2026-05-01 08:00:48.400,low,Critical anomaly window observed during process phase: 'Layer 3 Up'. Baseline configuration flagged tool as WORN.,0
+8,2026-05-01 08:00:48.700,low,Critical anomaly window observed during process phase: 'Layer 3 Up'. Baseline configuration flagged tool as WORN.,0
+8,2026-05-01 08:00:49.000,low,Critical anomaly window observed during process phase: 'Layer 3 Up'. Baseline configuration flagged tool as WORN.,0
+8,2026-05-01 08:00:49.300,medium,Critical anomaly window observed during process phase: 'Layer 3 Up'. Baseline configuration flagged tool as WORN.,0
+8,2026-05-01 08:00:49.700,low,Critical anomaly window observed during process phase: 'Layer 3 Down'. Baseline configuration flagged tool as WORN.,0
+8,2026-05-01 08:00:50.000,low,Critical anomaly window observed during process phase: 'Layer 3 Down'. Baseline configuration flagged tool as WORN.,0
+8,2026-05-01 08:00:50.800,medium,Critical anomaly window observed during process phase: 'Layer 3 Down'. Baseline configuration flagged tool as WORN.,0
+8,2026-05-01 08:00:51.100,low,Critical anomaly window observed during process phase: 'Layer 3 Down'. Baseline configuration flagged tool as WORN.,0
+8,2026-05-01 08:00:51.200,low,Critical anomaly window observed during process phase: 'Layer 3 Down'. Baseline configuration flagged tool as WORN.,0
+8,2026-05-01 08:00:52.600,low,Critical anomaly window observed during process phase: 'Layer 3 Down'. Baseline configuration flagged tool as WORN.,0
+8,2026-05-01 08:00:52.700,low,Critical anomaly window observed during process phase: 'Layer 3 Down'. Baseline configuration flagged tool as WORN.,0
+8,2026-05-01 08:00:53.200,low,Critical anomaly window observed during process phase: 'Layer 3 Down'. Baseline configuration flagged tool as WORN.,0
+8,2026-05-01 08:00:55.600,medium,Critical anomaly window observed during process phase: 'End'. Baseline configuration flagged tool as WORN.,0
+8,2026-05-01 08:00:55.800,low,Critical anomaly window observed during process phase: 'End'. Baseline configuration flagged tool as WORN.,0
+8,2026-05-01 08:00:55.900,low,Critical anomaly window observed during process phase: 'End'. Baseline configuration flagged tool as WORN.,0
+8,2026-05-01 08:00:56.000,low,Critical anomaly window observed during process phase: 'End'. Baseline configuration flagged tool as WORN.,0
+8,2026-05-01 08:00:56.100,medium,Critical anomaly window observed during process phase: 'End'. Baseline configuration flagged tool as WORN.,0
+8,2026-05-01 08:00:56.300,low,Critical anomaly window observed during process phase: 'End'. Baseline configuration flagged tool as WORN.,0
+8,2026-05-01 08:00:56.400,low,Critical anomaly window observed during process phase: 'End'. Baseline configuration flagged tool as WORN.,0
+8,2026-05-01 08:00:58.700,low,Critical anomaly window observed during process phase: 'End'. Baseline configuration flagged tool as WORN.,0
+9,2026-05-01 09:00:00.600,low,Critical anomaly window observed during process phase: 'Prep'. Baseline configuration flagged tool as WORN.,0
+9,2026-05-01 09:00:03.800,low,Critical anomaly window observed during process phase: 'Layer 1 Up'. Baseline configuration flagged tool as WORN.,0
+9,2026-05-01 09:00:05.100,low,Critical anomaly window observed during process phase: 'Layer 1 Up'. Baseline configuration flagged tool as WORN.,0
+9,2026-05-01 09:00:05.500,low,Critical anomaly window observed during process phase: 'Layer 1 Up'. Baseline configuration flagged tool as WORN.,0
+9,2026-05-01 09:00:07.000,high,Critical anomaly window observed during process phase: 'Layer 1 Up'. Baseline configuration flagged tool as WORN.,0
+9,2026-05-01 09:00:07.100,high,Critical anomaly window observed during process phase: 'Layer 1 Up'. Baseline configuration flagged tool as WORN.,0
+9,2026-05-01 09:00:07.200,high,Critical anomaly window observed during process phase: 'Layer 1 Up'. Baseline configuration flagged tool as WORN.,0
+9,2026-05-01 09:00:07.500,medium,Critical anomaly window observed during process phase: 'Layer 1 Up'. Baseline configuration flagged tool as WORN.,0
+9,2026-05-01 09:00:07.600,high,Critical anomaly window observed during process phase: 'Layer 1 Up'. Baseline configuration flagged tool as WORN.,0
+9,2026-05-01 09:00:07.700,high,Critical anomaly window observed during process phase: 'Layer 1 Up'. Baseline configuration flagged tool as WORN.,0
+9,2026-05-01 09:00:07.800,high,Critical anomaly window observed during process phase: 'Layer 1 Up'. Baseline configuration flagged tool as WORN.,0
+9,2026-05-01 09:00:07.900,high,Critical anomaly window observed during process phase: 'Layer 1 Up'. Baseline configuration flagged tool as WORN.,0
+9,2026-05-01 09:00:09.200,low,Critical anomaly window observed during process phase: 'Layer 1 Up'. Baseline configuration flagged tool as WORN.,0
+9,2026-05-01 09:00:09.300,medium,Critical anomaly window observed during process phase: 'Layer 1 Up'. Baseline configuration flagged tool as WORN.,0
+9,2026-05-01 09:00:11.600,medium,Critical anomaly window observed during process phase: 'Layer 1 Down'. Baseline configuration flagged tool as WORN.,0
+9,2026-05-01 09:00:11.700,medium,Critical anomaly window observed during process phase: 'Layer 1 Down'. Baseline configuration flagged tool as WORN.,0
+9,2026-05-01 09:00:11.800,low,Critical anomaly window observed during process phase: 'Layer 1 Down'. Baseline configuration flagged tool as WORN.,0
+9,2026-05-01 09:00:12.200,medium,Critical anomaly window observed during process phase: 'Layer 1 Down'. Baseline configuration flagged tool as WORN.,0
+9,2026-05-01 09:00:12.400,low,Critical anomaly window observed during process phase: 'Layer 1 Down'. Baseline configuration flagged tool as WORN.,0
+9,2026-05-01 09:00:12.900,low,Critical anomaly window observed during process phase: 'Layer 1 Down'. Baseline configuration flagged tool as WORN.,0
+9,2026-05-01 09:00:13.200,high,Critical anomaly window observed during process phase: 'Layer 1 Down'. Baseline configuration flagged tool as WORN.,0
+9,2026-05-01 09:00:13.300,high,Critical anomaly window observed during process phase: 'Layer 1 Down'. Baseline configuration flagged tool as WORN.,0
+9,2026-05-01 09:00:13.400,high,Critical anomaly window observed during process phase: 'Layer 1 Down'. Baseline configuration flagged tool as WORN.,0
+9,2026-05-01 09:00:13.500,high,Critical anomaly window observed during process phase: 'Layer 1 Down'. Baseline configuration flagged tool as WORN.,0
+9,2026-05-01 09:00:13.600,high,Critical anomaly window observed during process phase: 'Layer 1 Down'. Baseline configuration flagged tool as WORN.,0
+9,2026-05-01 09:00:13.700,high,Critical anomaly window observed during process phase: 'Layer 1 Down'. Baseline configuration flagged tool as WORN.,0
+9,2026-05-01 09:00:13.800,high,Critical anomaly window observed during process phase: 'Layer 1 Down'. Baseline configuration flagged tool as WORN.,0
+9,2026-05-01 09:00:13.900,high,Critical anomaly window observed during process phase: 'Layer 1 Down'. Baseline configuration flagged tool as WORN.,0
+9,2026-05-01 09:00:14.000,high,Critical anomaly window observed during process phase: 'Layer 1 Down'. Baseline configuration flagged tool as WORN.,0
+9,2026-05-01 09:00:14.100,high,Critical anomaly window observed during process phase: 'Layer 1 Down'. Baseline configuration flagged tool as WORN.,0
+9,2026-05-01 09:00:17.000,medium,Critical anomaly window observed during process phase: 'Layer 1 Down'. Baseline configuration flagged tool as WORN.,0
+9,2026-05-01 09:00:17.100,medium,Critical anomaly window observed during process phase: 'Layer 1 Down'. Baseline configuration flagged tool as WORN.,0
+9,2026-05-01 09:00:17.600,low,Critical anomaly window observed during process phase: 'Layer 1 Down'. Baseline configuration flagged tool as WORN.,0
+9,2026-05-01 09:00:17.700,low,Critical anomaly window observed during process phase: 'Layer 1 Down'. Baseline configuration flagged tool as WORN.,0
+9,2026-05-01 09:00:18.000,low,Critical anomaly window observed during process phase: 'Layer 1 Down'. Baseline configuration flagged tool as WORN.,0
+9,2026-05-01 09:00:21.000,low,Critical anomaly window observed during process phase: 'Layer 1 Down'. Baseline configuration flagged tool as WORN.,0
+9,2026-05-01 09:00:21.500,medium,Critical anomaly window observed during process phase: 'Layer 1 Down'. Baseline configuration flagged tool as WORN.,0
+9,2026-05-01 09:00:25.400,high,Critical anomaly window observed during process phase: 'Repositioning'. Baseline configuration flagged tool as WORN.,0
+9,2026-05-01 09:00:25.500,high,Critical anomaly window observed during process phase: 'Repositioning'. Baseline configuration flagged tool as WORN.,0
+9,2026-05-01 09:00:25.600,medium,Critical anomaly window observed during process phase: 'Repositioning'. Baseline configuration flagged tool as WORN.,0
+9,2026-05-01 09:00:27.400,low,Critical anomaly window observed during process phase: 'Layer 2 Up'. Baseline configuration flagged tool as WORN.,0
+9,2026-05-01 09:00:28.900,medium,Critical anomaly window observed during process phase: 'Layer 2 Up'. Baseline configuration flagged tool as WORN.,0
+9,2026-05-01 09:00:32.000,low,Critical anomaly window observed during process phase: 'Layer 2 Up'. Baseline configuration flagged tool as WORN.,0
+9,2026-05-01 09:00:32.800,low,Critical anomaly window observed during process phase: 'Layer 2 Up'. Baseline configuration flagged tool as WORN.,0
+9,2026-05-01 09:00:34.600,medium,Critical anomaly window observed during process phase: 'Layer 2 Up'. Baseline configuration flagged tool as WORN.,0
+9,2026-05-01 09:00:35.400,medium,Critical anomaly window observed during process phase: 'Layer 2 Up'. Baseline configuration flagged tool as WORN.,0
+9,2026-05-01 09:00:35.500,medium,Critical anomaly window observed during process phase: 'Layer 2 Up'. Baseline configuration flagged tool as WORN.,0
+9,2026-05-01 09:00:35.600,medium,Critical anomaly window observed during process phase: 'Layer 2 Up'. Baseline configuration flagged tool as WORN.,0
+9,2026-05-01 09:00:35.700,low,Critical anomaly window observed during process phase: 'Layer 2 Up'. Baseline configuration flagged tool as WORN.,0
+9,2026-05-01 09:00:37.400,low,Critical anomaly window observed during process phase: 'Layer 2 Down'. Baseline configuration flagged tool as WORN.,0
+9,2026-05-01 09:00:37.500,low,Critical anomaly window observed during process phase: 'Layer 2 Down'. Baseline configuration flagged tool as WORN.,0
+9,2026-05-01 09:00:39.100,low,Critical anomaly window observed during process phase: 'Layer 2 Down'. Baseline configuration flagged tool as WORN.,0
+9,2026-05-01 09:00:39.800,medium,Critical anomaly window observed during process phase: 'Layer 2 Down'. Baseline configuration flagged tool as WORN.,0
+9,2026-05-01 09:00:39.900,medium,Critical anomaly window observed during process phase: 'Layer 2 Down'. Baseline configuration flagged tool as WORN.,0
+9,2026-05-01 09:00:40.000,medium,Critical anomaly window observed during process phase: 'Layer 2 Down'. Baseline configuration flagged tool as WORN.,0
+9,2026-05-01 09:00:40.100,medium,Critical anomaly window observed during process phase: 'Layer 2 Down'. Baseline configuration flagged tool as WORN.,0
+9,2026-05-01 09:00:40.200,medium,Critical anomaly window observed during process phase: 'Layer 2 Down'. Baseline configuration flagged tool as WORN.,0
+9,2026-05-01 09:00:40.300,medium,Critical anomaly window observed during process phase: 'Layer 2 Down'. Baseline configuration flagged tool as WORN.,0
+9,2026-05-01 09:00:40.400,medium,Critical anomaly window observed during process phase: 'Layer 2 Down'. Baseline configuration flagged tool as WORN.,0
+9,2026-05-01 09:00:40.500,medium,Critical anomaly window observed during process phase: 'Layer 2 Down'. Baseline configuration flagged tool as WORN.,0
+9,2026-05-01 09:00:40.600,medium,Critical anomaly window observed during process phase: 'Layer 2 Down'. Baseline configuration flagged tool as WORN.,0
+9,2026-05-01 09:00:40.700,medium,Critical anomaly window observed during process phase: 'Layer 2 Down'. Baseline configuration flagged tool as WORN.,0
+9,2026-05-01 09:00:41.100,low,Critical anomaly window observed during process phase: 'Layer 2 Down'. Baseline configuration flagged tool as WORN.,0
+9,2026-05-01 09:00:42.300,high,Critical anomaly window observed during process phase: 'Layer 2 Down'. Baseline configuration flagged tool as WORN.,0
+9,2026-05-01 09:00:42.400,medium,Critical anomaly window observed during process phase: 'Layer 2 Down'. Baseline configuration flagged tool as WORN.,0
+9,2026-05-01 09:00:43.400,low,Critical anomaly window observed during process phase: 'Layer 2 Down'. Baseline configuration flagged tool as WORN.,0
+9,2026-05-01 09:00:44.900,medium,Critical anomaly window observed during process phase: 'Layer 2 Down'. Baseline configuration flagged tool as WORN.,0
+9,2026-05-01 09:00:53.600,low,Critical anomaly window observed during process phase: 'Layer 3 Up'. Baseline configuration flagged tool as WORN.,0
+9,2026-05-01 09:00:54.400,low,Critical anomaly window observed during process phase: 'Layer 3 Up'. Baseline configuration flagged tool as WORN.,0
+9,2026-05-01 09:00:54.900,high,Critical anomaly window observed during process phase: 'Layer 3 Up'. Baseline configuration flagged tool as WORN.,0
+9,2026-05-01 09:00:55.000,high,Critical anomaly window observed during process phase: 'Layer 3 Up'. Baseline configuration flagged tool as WORN.,0
+9,2026-05-01 09:00:55.100,high,Critical anomaly window observed during process phase: 'Layer 3 Up'. Baseline configuration flagged tool as WORN.,0
+9,2026-05-01 09:00:55.200,high,Critical anomaly window observed during process phase: 'Layer 3 Up'. Baseline configuration flagged tool as WORN.,0
+9,2026-05-01 09:00:55.300,high,Critical anomaly window observed during process phase: 'Layer 3 Up'. Baseline configuration flagged tool as WORN.,0
+9,2026-05-01 09:00:55.400,high,Critical anomaly window observed during process phase: 'Layer 3 Up'. Baseline configuration flagged tool as WORN.,0
+9,2026-05-01 09:00:55.500,high,Critical anomaly window observed during process phase: 'Layer 3 Up'. Baseline configuration flagged tool as WORN.,0
+9,2026-05-01 09:00:55.600,high,Critical anomaly window observed during process phase: 'Layer 3 Up'. Baseline configuration flagged tool as WORN.,0
+9,2026-05-01 09:00:55.700,high,Critical anomaly window observed during process phase: 'Layer 3 Up'. Baseline configuration flagged tool as WORN.,0
+9,2026-05-01 09:00:55.800,high,Critical anomaly window observed during process phase: 'Layer 3 Up'. Baseline configuration flagged tool as WORN.,0
+9,2026-05-01 09:00:56.100,low,Critical anomaly window observed during process phase: 'Layer 3 Up'. Baseline configuration flagged tool as WORN.,0
+9,2026-05-01 09:00:58.500,low,Critical anomaly window observed during process phase: 'Layer 3 Up'. Baseline configuration flagged tool as WORN.,0
+9,2026-05-01 09:01:00.600,low,Critical anomaly window observed during process phase: 'Layer 3 Down'. Baseline configuration flagged tool as WORN.,0
+9,2026-05-01 09:01:07.900,low,Critical anomaly window observed during process phase: 'Layer 3 Down'. Baseline configuration flagged tool as WORN.,0
+9,2026-05-01 09:01:09.500,low,Critical anomaly window observed during process phase: 'Layer 3 Down'. Baseline configuration flagged tool as WORN.,0
+9,2026-05-01 09:01:10.400,low,Critical anomaly window observed during process phase: 'Layer 3 Down'. Baseline configuration flagged tool as WORN.,0
+9,2026-05-01 09:01:10.800,low,Critical anomaly window observed during process phase: 'Layer 3 Down'. Baseline configuration flagged tool as WORN.,0
+10,2026-05-01 10:00:01.700,low,Critical anomaly window observed during process phase: 'Prep'. Baseline configuration flagged tool as WORN.,0
+10,2026-05-01 10:00:01.800,medium,Critical anomaly window observed during process phase: 'Prep'. Baseline configuration flagged tool as WORN.,0
+10,2026-05-01 10:00:01.900,low,Critical anomaly window observed during process phase: 'Prep'. Baseline configuration flagged tool as WORN.,0
+10,2026-05-01 10:00:08.400,low,Critical anomaly window observed during process phase: 'Layer 1 Up'. Baseline configuration flagged tool as WORN.,0
+10,2026-05-01 10:00:13.000,high,Critical anomaly window observed during process phase: 'Layer 1 Up'. Baseline configuration flagged tool as WORN.,0
+10,2026-05-01 10:00:13.100,high,Critical anomaly window observed during process phase: 'Layer 1 Up'. Baseline configuration flagged tool as WORN.,0
+10,2026-05-01 10:00:18.300,low,Critical anomaly window observed during process phase: 'Layer 1 Up'. Baseline configuration flagged tool as WORN.,0
+10,2026-05-01 10:00:20.000,low,Critical anomaly window observed during process phase: 'Layer 1 Up'. Baseline configuration flagged tool as WORN.,0
+10,2026-05-01 10:00:28.600,low,Critical anomaly window observed during process phase: 'Layer 1 Down'. Baseline configuration flagged tool as WORN.,0
+10,2026-05-01 10:00:41.300,high,Critical anomaly window observed during process phase: 'Repositioning'. Baseline configuration flagged tool as WORN.,0
+10,2026-05-01 10:00:41.400,high,Critical anomaly window observed during process phase: 'Repositioning'. Baseline configuration flagged tool as WORN.,0
+10,2026-05-01 10:00:41.500,high,Critical anomaly window observed during process phase: 'Repositioning'. Baseline configuration flagged tool as WORN.,0
+10,2026-05-01 10:00:41.600,high,Critical anomaly window observed during process phase: 'Repositioning'. Baseline configuration flagged tool as WORN.,0
+10,2026-05-01 10:00:41.900,medium,Critical anomaly window observed during process phase: 'Repositioning'. Baseline configuration flagged tool as WORN.,0
+10,2026-05-01 10:00:42.000,high,Critical anomaly window observed during process phase: 'Layer 2 Up'. Baseline configuration flagged tool as WORN.,0
+10,2026-05-01 10:00:42.100,high,Critical anomaly window observed during process phase: 'Layer 2 Up'. Baseline configuration flagged tool as WORN.,0
+10,2026-05-01 10:00:42.200,high,Critical anomaly window observed during process phase: 'Layer 2 Up'. Baseline configuration flagged tool as WORN.,0
+10,2026-05-01 10:00:48.600,medium,Critical anomaly window observed during process phase: 'Layer 2 Up'. Baseline configuration flagged tool as WORN.,0
+10,2026-05-01 10:00:48.700,medium,Critical anomaly window observed during process phase: 'Layer 2 Up'. Baseline configuration flagged tool as WORN.,0
+10,2026-05-01 10:00:48.800,medium,Critical anomaly window observed during process phase: 'Layer 2 Up'. Baseline configuration flagged tool as WORN.,0
+10,2026-05-01 10:00:48.900,medium,Critical anomaly window observed during process phase: 'Layer 2 Up'. Baseline configuration flagged tool as WORN.,0
+10,2026-05-01 10:00:49.000,medium,Critical anomaly window observed during process phase: 'Layer 2 Up'. Baseline configuration flagged tool as WORN.,0
+10,2026-05-01 10:00:49.100,medium,Critical anomaly window observed during process phase: 'Layer 2 Up'. Baseline configuration flagged tool as WORN.,0
+10,2026-05-01 10:00:49.200,medium,Critical anomaly window observed during process phase: 'Layer 2 Up'. Baseline configuration flagged tool as WORN.,0
+10,2026-05-01 10:00:50.300,low,Critical anomaly window observed during process phase: 'Layer 2 Up'. Baseline configuration flagged tool as WORN.,0
+10,2026-05-01 10:01:04.100,low,Critical anomaly window observed during process phase: 'Layer 2 Up'. Baseline configuration flagged tool as WORN.,0
+10,2026-05-01 10:01:25.300,medium,Critical anomaly window observed during process phase: 'Repositioning'. Baseline configuration flagged tool as WORN.,0
+10,2026-05-01 10:01:25.400,medium,Critical anomaly window observed during process phase: 'Repositioning'. Baseline configuration flagged tool as WORN.,0
+10,2026-05-01 10:01:28.300,high,Critical anomaly window observed during process phase: 'Layer 3 Up'. Baseline configuration flagged tool as WORN.,0
+10,2026-05-01 10:01:28.400,high,Critical anomaly window observed during process phase: 'Layer 3 Up'. Baseline configuration flagged tool as WORN.,0
+10,2026-05-01 10:01:28.500,high,Critical anomaly window observed during process phase: 'Layer 3 Up'. Baseline configuration flagged tool as WORN.,0
+10,2026-05-01 10:01:28.600,high,Critical anomaly window observed during process phase: 'Layer 3 Up'. Baseline configuration flagged tool as WORN.,0
+10,2026-05-01 10:01:28.700,high,Critical anomaly window observed during process phase: 'Layer 3 Up'. Baseline configuration flagged tool as WORN.,0
+10,2026-05-01 10:01:28.800,high,Critical anomaly window observed during process phase: 'Layer 3 Up'. Baseline configuration flagged tool as WORN.,0
+10,2026-05-01 10:01:28.900,high,Critical anomaly window observed during process phase: 'Layer 3 Up'. Baseline configuration flagged tool as WORN.,0
+10,2026-05-01 10:01:29.000,high,Critical anomaly window observed during process phase: 'Layer 3 Up'. Baseline configuration flagged tool as WORN.,0
+10,2026-05-01 10:01:29.100,high,Critical anomaly window observed during process phase: 'Layer 3 Up'. Baseline configuration flagged tool as WORN.,0
+10,2026-05-01 10:01:29.200,high,Critical anomaly window observed during process phase: 'Layer 3 Up'. Baseline configuration flagged tool as WORN.,0
+10,2026-05-01 10:01:29.300,high,Critical anomaly window observed during process phase: 'Layer 3 Up'. Baseline configuration flagged tool as WORN.,0
+10,2026-05-01 10:01:48.900,high,Critical anomaly window observed during process phase: 'Layer 3 Down'. Baseline configuration flagged tool as WORN.,0
+10,2026-05-01 10:01:49.000,high,Critical anomaly window observed during process phase: 'Layer 3 Down'. Baseline configuration flagged tool as WORN.,0
+10,2026-05-01 10:01:49.100,high,Critical anomaly window observed during process phase: 'Layer 3 Down'. Baseline configuration flagged tool as WORN.,0
+10,2026-05-01 10:01:49.200,high,Critical anomaly window observed during process phase: 'Layer 3 Down'. Baseline configuration flagged tool as WORN.,0
+10,2026-05-01 10:01:49.300,high,Critical anomaly window observed during process phase: 'Layer 3 Down'. Baseline configuration flagged tool as WORN.,0
+10,2026-05-01 10:01:49.400,high,Critical anomaly window observed during process phase: 'Layer 3 Down'. Baseline configuration flagged tool as WORN.,0
+10,2026-05-01 10:01:49.500,high,Critical anomaly window observed during process phase: 'Layer 3 Down'. Baseline configuration flagged tool as WORN.,0
+10,2026-05-01 10:01:49.600,high,Critical anomaly window observed during process phase: 'Layer 3 Down'. Baseline configuration flagged tool as WORN.,0
+10,2026-05-01 10:01:49.700,high,Critical anomaly window observed during process phase: 'Layer 3 Down'. Baseline configuration flagged tool as WORN.,0
+10,2026-05-01 10:01:49.800,high,Critical anomaly window observed during process phase: 'Layer 3 Down'. Baseline configuration flagged tool as WORN.,0
+10,2026-05-01 10:01:51.000,medium,Critical anomaly window observed during process phase: 'Layer 3 Down'. Baseline configuration flagged tool as WORN.,0
+10,2026-05-01 10:01:51.100,medium,Critical anomaly window observed during process phase: 'Layer 3 Down'. Baseline configuration flagged tool as WORN.,0
+10,2026-05-01 10:01:51.200,medium,Critical anomaly window observed during process phase: 'Layer 3 Down'. Baseline configuration flagged tool as WORN.,0
+10,2026-05-01 10:01:51.300,low,Critical anomaly window observed during process phase: 'Layer 3 Down'. Baseline configuration flagged tool as WORN.,0
+10,2026-05-01 10:01:51.400,medium,Critical anomaly window observed during process phase: 'Layer 3 Down'. Baseline configuration flagged tool as WORN.,0
+10,2026-05-01 10:01:51.500,medium,Critical anomaly window observed during process phase: 'Layer 3 Down'. Baseline configuration flagged tool as WORN.,0
+10,2026-05-01 10:01:51.600,low,Critical anomaly window observed during process phase: 'Layer 3 Down'. Baseline configuration flagged tool as WORN.,0
+10,2026-05-01 10:01:51.700,low,Critical anomaly window observed during process phase: 'Layer 3 Down'. Baseline configuration flagged tool as WORN.,0
+10,2026-05-01 10:01:51.900,low,Critical anomaly window observed during process phase: 'Layer 3 Down'. Baseline configuration flagged tool as WORN.,0
+10,2026-05-01 10:01:55.900,high,Critical anomaly window observed during process phase: 'End'. Baseline configuration flagged tool as WORN.,0
+11,2026-05-01 11:00:25.800,low,Critical anomaly window observed during process phase: 'Layer 1 Up'. Baseline configuration flagged tool as UNWORN.,0
+11,2026-05-01 11:00:28.200,low,Critical anomaly window observed during process phase: 'Layer 1 Up'. Baseline configuration flagged tool as UNWORN.,0
+11,2026-05-01 11:00:47.900,low,Critical anomaly window observed during process phase: 'Layer 1 Up'. Baseline configuration flagged tool as UNWORN.,0
+11,2026-05-01 11:00:48.000,medium,Critical anomaly window observed during process phase: 'Layer 1 Up'. Baseline configuration flagged tool as UNWORN.,0
+11,2026-05-01 11:00:48.100,medium,Critical anomaly window observed during process phase: 'Layer 1 Up'. Baseline configuration flagged tool as UNWORN.,0
+11,2026-05-01 11:01:06.400,high,Critical anomaly window observed during process phase: 'Repositioning'. Baseline configuration flagged tool as UNWORN.,0
+11,2026-05-01 11:01:06.500,high,Critical anomaly window observed during process phase: 'Repositioning'. Baseline configuration flagged tool as UNWORN.,0
+11,2026-05-01 11:01:06.600,high,Critical anomaly window observed during process phase: 'Repositioning'. Baseline configuration flagged tool as UNWORN.,0
+11,2026-05-01 11:01:06.700,high,Critical anomaly window observed during process phase: 'Repositioning'. Baseline configuration flagged tool as UNWORN.,0
+11,2026-05-01 11:01:06.800,high,Critical anomaly window observed during process phase: 'Repositioning'. Baseline configuration flagged tool as UNWORN.,0
+11,2026-05-01 11:01:06.900,high,Critical anomaly window observed during process phase: 'Repositioning'. Baseline configuration flagged tool as UNWORN.,0
+11,2026-05-01 11:01:07.000,high,Critical anomaly window observed during process phase: 'Repositioning'. Baseline configuration flagged tool as UNWORN.,0
+11,2026-05-01 11:01:07.100,high,Critical anomaly window observed during process phase: 'Repositioning'. Baseline configuration flagged tool as UNWORN.,0
+11,2026-05-01 11:01:07.200,high,Critical anomaly window observed during process phase: 'Repositioning'. Baseline configuration flagged tool as UNWORN.,0
+11,2026-05-01 11:01:07.300,high,Critical anomaly window observed during process phase: 'Repositioning'. Baseline configuration flagged tool as UNWORN.,0
+11,2026-05-01 11:01:11.400,low,Critical anomaly window observed during process phase: 'Repositioning'. Baseline configuration flagged tool as UNWORN.,0
+11,2026-05-01 11:01:41.500,medium,Critical anomaly window observed during process phase: 'Layer 2 Up'. Baseline configuration flagged tool as UNWORN.,0
+11,2026-05-01 11:02:12.200,medium,Critical anomaly window observed during process phase: 'Layer 2 Down'. Baseline configuration flagged tool as UNWORN.,0
+11,2026-05-01 11:02:46.800,medium,Critical anomaly window observed during process phase: 'Layer 3 Up'. Baseline configuration flagged tool as UNWORN.,0
+11,2026-05-01 11:02:46.900,medium,Critical anomaly window observed during process phase: 'Layer 3 Up'. Baseline configuration flagged tool as UNWORN.,0
+11,2026-05-01 11:02:47.000,medium,Critical anomaly window observed during process phase: 'Layer 3 Up'. Baseline configuration flagged tool as UNWORN.,0
+11,2026-05-01 11:02:47.100,medium,Critical anomaly window observed during process phase: 'Layer 3 Up'. Baseline configuration flagged tool as UNWORN.,0
+11,2026-05-01 11:02:47.200,medium,Critical anomaly window observed during process phase: 'Layer 3 Up'. Baseline configuration flagged tool as UNWORN.,0
+11,2026-05-01 11:03:00.800,high,Critical anomaly window observed during process phase: 'Layer 3 Up'. Baseline configuration flagged tool as UNWORN.,0
+11,2026-05-01 11:03:00.900,high,Critical anomaly window observed during process phase: 'Layer 3 Up'. Baseline configuration flagged tool as UNWORN.,0
+11,2026-05-01 11:03:01.000,high,Critical anomaly window observed during process phase: 'Layer 3 Up'. Baseline configuration flagged tool as UNWORN.,0
+11,2026-05-01 11:03:01.100,high,Critical anomaly window observed during process phase: 'Layer 3 Up'. Baseline configuration flagged tool as UNWORN.,0
+11,2026-05-01 11:03:01.200,high,Critical anomaly window observed during process phase: 'Layer 3 Up'. Baseline configuration flagged tool as UNWORN.,0
+11,2026-05-01 11:03:01.300,high,Critical anomaly window observed during process phase: 'Layer 3 Up'. Baseline configuration flagged tool as UNWORN.,0
+11,2026-05-01 11:03:01.400,high,Critical anomaly window observed during process phase: 'Layer 3 Up'. Baseline configuration flagged tool as UNWORN.,0
+11,2026-05-01 11:03:01.500,high,Critical anomaly window observed during process phase: 'Layer 3 Up'. Baseline configuration flagged tool as UNWORN.,0
+11,2026-05-01 11:03:01.600,high,Critical anomaly window observed during process phase: 'Layer 3 Up'. Baseline configuration flagged tool as UNWORN.,0
+11,2026-05-01 11:03:01.700,high,Critical anomaly window observed during process phase: 'Layer 3 Up'. Baseline configuration flagged tool as UNWORN.,0
+11,2026-05-01 11:03:01.800,high,Critical anomaly window observed during process phase: 'Layer 3 Up'. Baseline configuration flagged tool as UNWORN.,0
+11,2026-05-01 11:03:07.100,high,Critical anomaly window observed during process phase: 'Layer 3 Down'. Baseline configuration flagged tool as UNWORN.,0
+11,2026-05-01 11:03:07.200,high,Critical anomaly window observed during process phase: 'Layer 3 Down'. Baseline configuration flagged tool as UNWORN.,0
+11,2026-05-01 11:03:07.300,high,Critical anomaly window observed during process phase: 'Layer 3 Down'. Baseline configuration flagged tool as UNWORN.,0
+11,2026-05-01 11:03:07.400,high,Critical anomaly window observed during process phase: 'Layer 3 Down'. Baseline configuration flagged tool as UNWORN.,0
+11,2026-05-01 11:03:07.500,medium,Critical anomaly window observed during process phase: 'Layer 3 Down'. Baseline configuration flagged tool as UNWORN.,0
+11,2026-05-01 11:03:07.800,high,Critical anomaly window observed during process phase: 'Layer 3 Down'. Baseline configuration flagged tool as UNWORN.,0
+11,2026-05-01 11:03:07.900,medium,Critical anomaly window observed during process phase: 'Layer 3 Down'. Baseline configuration flagged tool as UNWORN.,0
+11,2026-05-01 11:03:08.000,high,Critical anomaly window observed during process phase: 'Layer 3 Down'. Baseline configuration flagged tool as UNWORN.,0
+11,2026-05-01 11:03:18.200,high,Critical anomaly window observed during process phase: 'Layer 3 Down'. Baseline configuration flagged tool as UNWORN.,0
+11,2026-05-01 11:03:18.300,high,Critical anomaly window observed during process phase: 'Layer 3 Down'. Baseline configuration flagged tool as UNWORN.,0
+11,2026-05-01 11:03:18.400,low,Critical anomaly window observed during process phase: 'Layer 3 Down'. Baseline configuration flagged tool as UNWORN.,0
+11,2026-05-01 11:03:22.200,medium,Critical anomaly window observed during process phase: 'End'. Baseline configuration flagged tool as UNWORN.,0
+11,2026-05-01 11:03:22.300,medium,Critical anomaly window observed during process phase: 'End'. Baseline configuration flagged tool as UNWORN.,0
+11,2026-05-01 11:03:22.400,medium,Critical anomaly window observed during process phase: 'End'. Baseline configuration flagged tool as UNWORN.,0
+11,2026-05-01 11:03:22.500,medium,Critical anomaly window observed during process phase: 'End'. Baseline configuration flagged tool as UNWORN.,0
+11,2026-05-01 11:03:22.600,low,Critical anomaly window observed during process phase: 'End'. Baseline configuration flagged tool as UNWORN.,0
+11,2026-05-01 11:03:22.700,low,Critical anomaly window observed during process phase: 'End'. Baseline configuration flagged tool as UNWORN.,0
+11,2026-05-01 11:03:22.800,low,Critical anomaly window observed during process phase: 'End'. Baseline configuration flagged tool as UNWORN.,0
+11,2026-05-01 11:03:22.900,medium,Critical anomaly window observed during process phase: 'End'. Baseline configuration flagged tool as UNWORN.,0
+11,2026-05-01 11:03:23.000,low,Critical anomaly window observed during process phase: 'End'. Baseline configuration flagged tool as UNWORN.,0
+11,2026-05-01 11:03:23.100,low,Critical anomaly window observed during process phase: 'End'. Baseline configuration flagged tool as UNWORN.,0
+11,2026-05-01 11:03:25.600,low,Critical anomaly window observed during process phase: 'End'. Baseline configuration flagged tool as UNWORN.,0
+11,2026-05-01 11:03:37.200,medium,Critical anomaly window observed during process phase: 'End'. Baseline configuration flagged tool as UNWORN.,0
+12,2026-05-01 12:00:44.300,medium,Critical anomaly window observed during process phase: 'Layer 1 Down'. Baseline configuration flagged tool as UNWORN.,0
+12,2026-05-01 12:00:44.400,medium,Critical anomaly window observed during process phase: 'Layer 1 Down'. Baseline configuration flagged tool as UNWORN.,0
+12,2026-05-01 12:00:50.700,high,Critical anomaly window observed during process phase: 'Layer 1 Down'. Baseline configuration flagged tool as UNWORN.,0
+12,2026-05-01 12:00:50.800,high,Critical anomaly window observed during process phase: 'Layer 1 Down'. Baseline configuration flagged tool as UNWORN.,0
+12,2026-05-01 12:00:50.900,high,Critical anomaly window observed during process phase: 'Layer 1 Down'. Baseline configuration flagged tool as UNWORN.,0
+12,2026-05-01 12:00:51.000,high,Critical anomaly window observed during process phase: 'Layer 1 Down'. Baseline configuration flagged tool as UNWORN.,0
+12,2026-05-01 12:00:51.100,high,Critical anomaly window observed during process phase: 'Layer 1 Down'. Baseline configuration flagged tool as UNWORN.,0
+12,2026-05-01 12:00:51.200,high,Critical anomaly window observed during process phase: 'Layer 1 Down'. Baseline configuration flagged tool as UNWORN.,0
+12,2026-05-01 12:00:51.300,high,Critical anomaly window observed during process phase: 'Layer 1 Down'. Baseline configuration flagged tool as UNWORN.,0
+12,2026-05-01 12:00:51.400,high,Critical anomaly window observed during process phase: 'Layer 1 Down'. Baseline configuration flagged tool as UNWORN.,0
+12,2026-05-01 12:00:51.500,high,Critical anomaly window observed during process phase: 'Layer 1 Down'. Baseline configuration flagged tool as UNWORN.,0
+12,2026-05-01 12:00:51.600,high,Critical anomaly window observed during process phase: 'Layer 1 Down'. Baseline configuration flagged tool as UNWORN.,0
+12,2026-05-01 12:00:54.000,medium,Critical anomaly window observed during process phase: 'Layer 1 Down'. Baseline configuration flagged tool as UNWORN.,0
+12,2026-05-01 12:00:54.100,medium,Critical anomaly window observed during process phase: 'Layer 1 Down'. Baseline configuration flagged tool as UNWORN.,0
+12,2026-05-01 12:00:54.200,medium,Critical anomaly window observed during process phase: 'Layer 1 Down'. Baseline configuration flagged tool as UNWORN.,0
+12,2026-05-01 12:00:54.300,medium,Critical anomaly window observed during process phase: 'Layer 1 Down'. Baseline configuration flagged tool as UNWORN.,0
+12,2026-05-01 12:00:54.400,medium,Critical anomaly window observed during process phase: 'Layer 1 Down'. Baseline configuration flagged tool as UNWORN.,0
+12,2026-05-01 12:00:54.500,medium,Critical anomaly window observed during process phase: 'Layer 1 Down'. Baseline configuration flagged tool as UNWORN.,0
+12,2026-05-01 12:00:54.600,medium,Critical anomaly window observed during process phase: 'Layer 1 Down'. Baseline configuration flagged tool as UNWORN.,0
+12,2026-05-01 12:00:54.700,medium,Critical anomaly window observed during process phase: 'Layer 1 Down'. Baseline configuration flagged tool as UNWORN.,0
+12,2026-05-01 12:02:18.600,medium,Critical anomaly window observed during process phase: 'Layer 2 Down'. Baseline configuration flagged tool as UNWORN.,0
+12,2026-05-01 12:02:18.700,medium,Critical anomaly window observed during process phase: 'Layer 2 Down'. Baseline configuration flagged tool as UNWORN.,0
+12,2026-05-01 12:02:40.600,medium,Critical anomaly window observed during process phase: 'Layer 3 Up'. Baseline configuration flagged tool as UNWORN.,0
+12,2026-05-01 12:02:40.700,high,Critical anomaly window observed during process phase: 'Layer 3 Up'. Baseline configuration flagged tool as UNWORN.,0
+12,2026-05-01 12:02:40.800,medium,Critical anomaly window observed during process phase: 'Layer 3 Up'. Baseline configuration flagged tool as UNWORN.,0
+12,2026-05-01 12:02:40.900,high,Critical anomaly window observed during process phase: 'Layer 3 Up'. Baseline configuration flagged tool as UNWORN.,0
+12,2026-05-01 12:02:41.000,high,Critical anomaly window observed during process phase: 'Layer 3 Up'. Baseline configuration flagged tool as UNWORN.,0
+12,2026-05-01 12:02:41.100,medium,Critical anomaly window observed during process phase: 'Layer 3 Up'. Baseline configuration flagged tool as UNWORN.,0
+12,2026-05-01 12:03:10.800,medium,Critical anomaly window observed during process phase: 'Layer 3 Down'. Baseline configuration flagged tool as UNWORN.,0
+12,2026-05-01 12:03:10.900,medium,Critical anomaly window observed during process phase: 'Layer 3 Down'. Baseline configuration flagged tool as UNWORN.,0
+12,2026-05-01 12:03:11.000,medium,Critical anomaly window observed during process phase: 'Layer 3 Down'. Baseline configuration flagged tool as UNWORN.,0
+12,2026-05-01 12:03:11.100,medium,Critical anomaly window observed during process phase: 'Layer 3 Down'. Baseline configuration flagged tool as UNWORN.,0
+12,2026-05-01 12:03:11.200,medium,Critical anomaly window observed during process phase: 'Layer 3 Down'. Baseline configuration flagged tool as UNWORN.,0
+12,2026-05-01 12:03:11.300,low,Critical anomaly window observed during process phase: 'Layer 3 Down'. Baseline configuration flagged tool as UNWORN.,0
+12,2026-05-01 12:03:11.400,low,Critical anomaly window observed during process phase: 'Layer 3 Down'. Baseline configuration flagged tool as UNWORN.,0
+12,2026-05-01 12:03:11.500,low,Critical anomaly window observed during process phase: 'Layer 3 Down'. Baseline configuration flagged tool as UNWORN.,0
+12,2026-05-01 12:03:27.000,high,Critical anomaly window observed during process phase: 'Layer 3 Down'. Baseline configuration flagged tool as UNWORN.,0
+12,2026-05-01 12:03:27.100,medium,Critical anomaly window observed during process phase: 'Layer 3 Down'. Baseline configuration flagged tool as UNWORN.,0
+12,2026-05-01 12:03:27.200,high,Critical anomaly window observed during process phase: 'Layer 3 Down'. Baseline configuration flagged tool as UNWORN.,0
+12,2026-05-01 12:03:27.300,high,Critical anomaly window observed during process phase: 'Layer 3 Down'. Baseline configuration flagged tool as UNWORN.,0
+12,2026-05-01 12:03:27.400,high,Critical anomaly window observed during process phase: 'Layer 3 Down'. Baseline configuration flagged tool as UNWORN.,0
+12,2026-05-01 12:03:27.500,high,Critical anomaly window observed during process phase: 'Layer 3 Down'. Baseline configuration flagged tool as UNWORN.,0
+12,2026-05-01 12:03:27.600,high,Critical anomaly window observed during process phase: 'Layer 3 Down'. Baseline configuration flagged tool as UNWORN.,0
+12,2026-05-01 12:03:27.700,high,Critical anomaly window observed during process phase: 'Layer 3 Down'. Baseline configuration flagged tool as UNWORN.,0
+12,2026-05-01 12:03:27.800,high,Critical anomaly window observed during process phase: 'Layer 3 Down'. Baseline configuration flagged tool as UNWORN.,0
+12,2026-05-01 12:03:27.900,high,Critical anomaly window observed during process phase: 'Layer 3 Down'. Baseline configuration flagged tool as UNWORN.,0
+12,2026-05-01 12:03:40.900,high,Critical anomaly window observed during process phase: 'End'. Baseline configuration flagged tool as UNWORN.,0
+12,2026-05-01 12:03:41.000,high,Critical anomaly window observed during process phase: 'End'. Baseline configuration flagged tool as UNWORN.,0
+12,2026-05-01 12:03:41.100,high,Critical anomaly window observed during process phase: 'End'. Baseline configuration flagged tool as UNWORN.,0
+12,2026-05-01 12:03:41.200,high,Critical anomaly window observed during process phase: 'End'. Baseline configuration flagged tool as UNWORN.,0
+12,2026-05-01 12:03:41.300,high,Critical anomaly window observed during process phase: 'End'. Baseline configuration flagged tool as UNWORN.,0
+12,2026-05-01 12:03:41.400,high,Critical anomaly window observed during process phase: 'End'. Baseline configuration flagged tool as UNWORN.,0
+13,2026-05-01 13:00:01.000,high,Critical anomaly window observed during process phase: 'Prep'. Baseline configuration flagged tool as WORN.,0
+13,2026-05-01 13:00:01.100,high,Critical anomaly window observed during process phase: 'Prep'. Baseline configuration flagged tool as WORN.,0
+13,2026-05-01 13:00:01.200,high,Critical anomaly window observed during process phase: 'Prep'. Baseline configuration flagged tool as WORN.,0
+13,2026-05-01 13:00:01.300,high,Critical anomaly window observed during process phase: 'Prep'. Baseline configuration flagged tool as WORN.,0
+13,2026-05-01 13:00:01.400,high,Critical anomaly window observed during process phase: 'Prep'. Baseline configuration flagged tool as WORN.,0
+13,2026-05-01 13:00:01.500,high,Critical anomaly window observed during process phase: 'Prep'. Baseline configuration flagged tool as WORN.,0
+13,2026-05-01 13:00:01.600,high,Critical anomaly window observed during process phase: 'Prep'. Baseline configuration flagged tool as WORN.,0
+13,2026-05-01 13:00:01.700,high,Critical anomaly window observed during process phase: 'Prep'. Baseline configuration flagged tool as WORN.,0
+13,2026-05-01 13:00:01.800,high,Critical anomaly window observed during process phase: 'Prep'. Baseline configuration flagged tool as WORN.,0
+13,2026-05-01 13:00:01.900,high,Critical anomaly window observed during process phase: 'Prep'. Baseline configuration flagged tool as WORN.,0
+13,2026-05-01 13:00:14.700,low,Critical anomaly window observed during process phase: 'Prep'. Baseline configuration flagged tool as WORN.,0
+13,2026-05-01 13:00:15.000,high,Critical anomaly window observed during process phase: 'Layer 1 Up'. Baseline configuration flagged tool as WORN.,0
+13,2026-05-01 13:00:15.100,medium,Critical anomaly window observed during process phase: 'Layer 1 Up'. Baseline configuration flagged tool as WORN.,0
+13,2026-05-01 13:00:15.200,high,Critical anomaly window observed during process phase: 'Layer 1 Up'. Baseline configuration flagged tool as WORN.,0
+13,2026-05-01 13:00:15.300,high,Critical anomaly window observed during process phase: 'Layer 1 Up'. Baseline configuration flagged tool as WORN.,0
+13,2026-05-01 13:00:15.400,medium,Critical anomaly window observed during process phase: 'Layer 1 Up'. Baseline configuration flagged tool as WORN.,0
+13,2026-05-01 13:00:17.300,low,Critical anomaly window observed during process phase: 'Layer 1 Up'. Baseline configuration flagged tool as WORN.,0
+13,2026-05-01 13:00:26.900,medium,Critical anomaly window observed during process phase: 'Layer 1 Up'. Baseline configuration flagged tool as WORN.,0
+13,2026-05-01 13:00:27.000,medium,Critical anomaly window observed during process phase: 'Layer 1 Up'. Baseline configuration flagged tool as WORN.,0
+13,2026-05-01 13:00:27.100,medium,Critical anomaly window observed during process phase: 'Layer 1 Up'. Baseline configuration flagged tool as WORN.,0
+13,2026-05-01 13:00:27.200,medium,Critical anomaly window observed during process phase: 'Layer 1 Up'. Baseline configuration flagged tool as WORN.,0
+13,2026-05-01 13:00:27.300,medium,Critical anomaly window observed during process phase: 'Layer 1 Up'. Baseline configuration flagged tool as WORN.,0
+13,2026-05-01 13:00:27.400,medium,Critical anomaly window observed during process phase: 'Layer 1 Up'. Baseline configuration flagged tool as WORN.,0
+13,2026-05-01 13:00:27.500,medium,Critical anomaly window observed during process phase: 'Layer 1 Up'. Baseline configuration flagged tool as WORN.,0
+13,2026-05-01 13:00:27.600,medium,Critical anomaly window observed during process phase: 'Layer 1 Up'. Baseline configuration flagged tool as WORN.,0
+13,2026-05-01 13:00:27.700,medium,Critical anomaly window observed during process phase: 'Layer 1 Up'. Baseline configuration flagged tool as WORN.,0
+13,2026-05-01 13:00:27.800,medium,Critical anomaly window observed during process phase: 'Layer 1 Up'. Baseline configuration flagged tool as WORN.,0
+13,2026-05-01 13:00:29.900,high,Critical anomaly window observed during process phase: 'Layer 1 Up'. Baseline configuration flagged tool as WORN.,0
+13,2026-05-01 13:00:30.000,high,Critical anomaly window observed during process phase: 'Layer 1 Up'. Baseline configuration flagged tool as WORN.,0
+13,2026-05-01 13:00:30.100,high,Critical anomaly window observed during process phase: 'Layer 1 Up'. Baseline configuration flagged tool as WORN.,0
+13,2026-05-01 13:00:30.200,high,Critical anomaly window observed during process phase: 'Layer 1 Up'. Baseline configuration flagged tool as WORN.,0
+13,2026-05-01 13:00:30.300,high,Critical anomaly window observed during process phase: 'Layer 1 Up'. Baseline configuration flagged tool as WORN.,0
+13,2026-05-01 13:00:30.400,high,Critical anomaly window observed during process phase: 'Layer 1 Up'. Baseline configuration flagged tool as WORN.,0
+13,2026-05-01 13:00:30.500,high,Critical anomaly window observed during process phase: 'Layer 1 Up'. Baseline configuration flagged tool as WORN.,0
+13,2026-05-01 13:00:30.600,high,Critical anomaly window observed during process phase: 'Layer 1 Up'. Baseline configuration flagged tool as WORN.,0
+13,2026-05-01 13:00:30.700,high,Critical anomaly window observed during process phase: 'Layer 1 Up'. Baseline configuration flagged tool as WORN.,0
+13,2026-05-01 13:00:30.800,high,Critical anomaly window observed during process phase: 'Layer 1 Up'. Baseline configuration flagged tool as WORN.,0
+13,2026-05-01 13:00:30.900,high,Critical anomaly window observed during process phase: 'Layer 1 Up'. Baseline configuration flagged tool as WORN.,0
+13,2026-05-01 13:00:42.200,low,Critical anomaly window observed during process phase: 'Layer 1 Up'. Baseline configuration flagged tool as WORN.,0
+13,2026-05-01 13:00:42.300,low,Critical anomaly window observed during process phase: 'Layer 1 Up'. Baseline configuration flagged tool as WORN.,0
+13,2026-05-01 13:00:42.400,medium,Critical anomaly window observed during process phase: 'Layer 1 Up'. Baseline configuration flagged tool as WORN.,0
+13,2026-05-01 13:00:56.100,medium,Critical anomaly window observed during process phase: 'Layer 1 Down'. Baseline configuration flagged tool as WORN.,0
+13,2026-05-01 13:00:56.200,medium,Critical anomaly window observed during process phase: 'Layer 1 Down'. Baseline configuration flagged tool as WORN.,0
+13,2026-05-01 13:00:56.300,low,Critical anomaly window observed during process phase: 'Layer 1 Down'. Baseline configuration flagged tool as WORN.,0
+13,2026-05-01 13:02:36.000,medium,Critical anomaly window observed during process phase: 'Repositioning'. Baseline configuration flagged tool as WORN.,0
+13,2026-05-01 13:02:36.100,medium,Critical anomaly window observed during process phase: 'Repositioning'. Baseline configuration flagged tool as WORN.,0
+13,2026-05-01 13:02:48.300,high,Critical anomaly window observed during process phase: 'Layer 3 Up'. Baseline configuration flagged tool as WORN.,0
+13,2026-05-01 13:02:48.400,high,Critical anomaly window observed during process phase: 'Layer 3 Up'. Baseline configuration flagged tool as WORN.,0
+13,2026-05-01 13:02:48.500,high,Critical anomaly window observed during process phase: 'Layer 3 Up'. Baseline configuration flagged tool as WORN.,0
+13,2026-05-01 13:02:48.600,high,Critical anomaly window observed during process phase: 'Layer 3 Up'. Baseline configuration flagged tool as WORN.,0
+13,2026-05-01 13:02:48.700,high,Critical anomaly window observed during process phase: 'Layer 3 Up'. Baseline configuration flagged tool as WORN.,0
+13,2026-05-01 13:02:55.200,medium,Critical anomaly window observed during process phase: 'Layer 3 Up'. Baseline configuration flagged tool as WORN.,0
+13,2026-05-01 13:02:55.300,medium,Critical anomaly window observed during process phase: 'Layer 3 Up'. Baseline configuration flagged tool as WORN.,0
+13,2026-05-01 13:02:55.400,low,Critical anomaly window observed during process phase: 'Layer 3 Up'. Baseline configuration flagged tool as WORN.,0
+13,2026-05-01 13:02:55.500,low,Critical anomaly window observed during process phase: 'Layer 3 Up'. Baseline configuration flagged tool as WORN.,0
+13,2026-05-01 13:02:55.600,low,Critical anomaly window observed during process phase: 'Layer 3 Up'. Baseline configuration flagged tool as WORN.,0
+14,2026-05-01 14:00:23.100,medium,Critical anomaly window observed during process phase: 'Layer 1 Up'. Baseline configuration flagged tool as WORN.,0
+14,2026-05-01 14:00:28.900,high,Critical anomaly window observed during process phase: 'Layer 1 Up'. Baseline configuration flagged tool as WORN.,0
+14,2026-05-01 14:00:29.000,high,Critical anomaly window observed during process phase: 'Layer 1 Up'. Baseline configuration flagged tool as WORN.,0
+14,2026-05-01 14:00:29.100,high,Critical anomaly window observed during process phase: 'Layer 1 Up'. Baseline configuration flagged tool as WORN.,0
+14,2026-05-01 14:00:44.000,high,Critical anomaly window observed during process phase: 'Layer 1 Up'. Baseline configuration flagged tool as WORN.,0
+14,2026-05-01 14:00:44.100,high,Critical anomaly window observed during process phase: 'Layer 1 Up'. Baseline configuration flagged tool as WORN.,0
+14,2026-05-01 14:00:44.200,high,Critical anomaly window observed during process phase: 'Layer 1 Up'. Baseline configuration flagged tool as WORN.,0
+14,2026-05-01 14:00:44.300,low,Critical anomaly window observed during process phase: 'Layer 1 Up'. Baseline configuration flagged tool as WORN.,0
+14,2026-05-01 14:00:44.600,high,Critical anomaly window observed during process phase: 'Layer 1 Up'. Baseline configuration flagged tool as WORN.,0
+14,2026-05-01 14:00:44.700,medium,Critical anomaly window observed during process phase: 'Layer 1 Up'. Baseline configuration flagged tool as WORN.,0
+14,2026-05-01 14:00:44.800,high,Critical anomaly window observed during process phase: 'Layer 1 Up'. Baseline configuration flagged tool as WORN.,0
+14,2026-05-01 14:00:44.900,high,Critical anomaly window observed during process phase: 'Layer 1 Up'. Baseline configuration flagged tool as WORN.,0
+14,2026-05-01 14:00:45.000,medium,Critical anomaly window observed during process phase: 'Layer 1 Up'. Baseline configuration flagged tool as WORN.,0
+14,2026-05-01 14:01:31.200,low,Critical anomaly window observed during process phase: 'Layer 1 Down'. Baseline configuration flagged tool as WORN.,0
+14,2026-05-01 14:02:00.200,medium,Critical anomaly window observed during process phase: 'Layer 2 Up'. Baseline configuration flagged tool as WORN.,0
+14,2026-05-01 14:02:27.700,high,Critical anomaly window observed during process phase: 'Layer 2 Down'. Baseline configuration flagged tool as WORN.,0
+14,2026-05-01 14:02:27.800,high,Critical anomaly window observed during process phase: 'Layer 2 Down'. Baseline configuration flagged tool as WORN.,0
+14,2026-05-01 14:02:27.900,high,Critical anomaly window observed during process phase: 'Layer 2 Down'. Baseline configuration flagged tool as WORN.,0
+14,2026-05-01 14:02:28.000,high,Critical anomaly window observed during process phase: 'Layer 2 Down'. Baseline configuration flagged tool as WORN.,0
+14,2026-05-01 14:02:28.100,high,Critical anomaly window observed during process phase: 'Layer 2 Down'. Baseline configuration flagged tool as WORN.,0
+14,2026-05-01 14:02:28.200,high,Critical anomaly window observed during process phase: 'Layer 2 Down'. Baseline configuration flagged tool as WORN.,0
+14,2026-05-01 14:02:28.300,high,Critical anomaly window observed during process phase: 'Layer 2 Down'. Baseline configuration flagged tool as WORN.,0
+14,2026-05-01 14:02:28.400,high,Critical anomaly window observed during process phase: 'Layer 2 Down'. Baseline configuration flagged tool as WORN.,0
+14,2026-05-01 14:02:28.500,high,Critical anomaly window observed during process phase: 'Layer 2 Down'. Baseline configuration flagged tool as WORN.,0
+14,2026-05-01 14:02:28.600,high,Critical anomaly window observed during process phase: 'Layer 2 Down'. Baseline configuration flagged tool as WORN.,0
+14,2026-05-01 14:02:42.300,medium,Critical anomaly window observed during process phase: 'Repositioning'. Baseline configuration flagged tool as WORN.,0
+14,2026-05-01 14:02:42.400,medium,Critical anomaly window observed during process phase: 'Repositioning'. Baseline configuration flagged tool as WORN.,0
+14,2026-05-01 14:03:29.200,medium,Critical anomaly window observed during process phase: 'Layer 3 Down'. Baseline configuration flagged tool as WORN.,0
+14,2026-05-01 14:03:29.300,medium,Critical anomaly window observed during process phase: 'Layer 3 Down'. Baseline configuration flagged tool as WORN.,0
+14,2026-05-01 14:03:29.400,medium,Critical anomaly window observed during process phase: 'Layer 3 Down'. Baseline configuration flagged tool as WORN.,0
+14,2026-05-01 14:03:29.500,medium,Critical anomaly window observed during process phase: 'Layer 3 Down'. Baseline configuration flagged tool as WORN.,0
+14,2026-05-01 14:03:29.600,medium,Critical anomaly window observed during process phase: 'Layer 3 Down'. Baseline configuration flagged tool as WORN.,0
+14,2026-05-01 14:03:29.700,medium,Critical anomaly window observed during process phase: 'Layer 3 Down'. Baseline configuration flagged tool as WORN.,0
+14,2026-05-01 14:03:29.800,medium,Critical anomaly window observed during process phase: 'Layer 3 Down'. Baseline configuration flagged tool as WORN.,0
+14,2026-05-01 14:03:33.900,medium,Critical anomaly window observed during process phase: 'Layer 3 Down'. Baseline configuration flagged tool as WORN.,0
+14,2026-05-01 14:03:34.000,medium,Critical anomaly window observed during process phase: 'Layer 3 Down'. Baseline configuration flagged tool as WORN.,0
+14,2026-05-01 14:03:34.100,medium,Critical anomaly window observed during process phase: 'Layer 3 Down'. Baseline configuration flagged tool as WORN.,0
+14,2026-05-01 14:03:34.200,medium,Critical anomaly window observed during process phase: 'Layer 3 Down'. Baseline configuration flagged tool as WORN.,0
+14,2026-05-01 14:03:34.300,medium,Critical anomaly window observed during process phase: 'Layer 3 Down'. Baseline configuration flagged tool as WORN.,0
+14,2026-05-01 14:03:34.400,medium,Critical anomaly window observed during process phase: 'Layer 3 Down'. Baseline configuration flagged tool as WORN.,0
+14,2026-05-01 14:03:34.500,medium,Critical anomaly window observed during process phase: 'Layer 3 Down'. Baseline configuration flagged tool as WORN.,0
+14,2026-05-01 14:03:34.600,medium,Critical anomaly window observed during process phase: 'Layer 3 Down'. Baseline configuration flagged tool as WORN.,0
+14,2026-05-01 14:03:34.700,low,Critical anomaly window observed during process phase: 'Layer 3 Down'. Baseline configuration flagged tool as WORN.,0
+14,2026-05-01 14:03:34.800,low,Critical anomaly window observed during process phase: 'Layer 3 Down'. Baseline configuration flagged tool as WORN.,0
+14,2026-05-01 14:03:52.200,medium,Critical anomaly window observed during process phase: 'End'. Baseline configuration flagged tool as WORN.,0
+14,2026-05-01 14:03:52.300,high,Critical anomaly window observed during process phase: 'End'. Baseline configuration flagged tool as WORN.,0
+14,2026-05-01 14:03:52.400,high,Critical anomaly window observed during process phase: 'End'. Baseline configuration flagged tool as WORN.,0
+14,2026-05-01 14:03:52.500,high,Critical anomaly window observed during process phase: 'End'. Baseline configuration flagged tool as WORN.,0
+14,2026-05-01 14:03:52.600,high,Critical anomaly window observed during process phase: 'End'. Baseline configuration flagged tool as WORN.,0
+14,2026-05-01 14:03:52.700,high,Critical anomaly window observed during process phase: 'End'. Baseline configuration flagged tool as WORN.,0
+14,2026-05-01 14:03:52.800,high,Critical anomaly window observed during process phase: 'End'. Baseline configuration flagged tool as WORN.,0
+14,2026-05-01 14:03:52.900,high,Critical anomaly window observed during process phase: 'End'. Baseline configuration flagged tool as WORN.,0
+14,2026-05-01 14:03:53.000,high,Critical anomaly window observed during process phase: 'End'. Baseline configuration flagged tool as WORN.,0
+14,2026-05-01 14:03:53.100,high,Critical anomaly window observed during process phase: 'End'. Baseline configuration flagged tool as WORN.,0
+15,2026-05-01 15:00:44.700,medium,Critical anomaly window observed during process phase: 'Repositioning'. Baseline configuration flagged tool as WORN.,0
+15,2026-05-01 15:00:59.800,high,Critical anomaly window observed during process phase: 'Layer 2 Down'. Baseline configuration flagged tool as WORN.,0
+15,2026-05-01 15:00:59.900,high,Critical anomaly window observed during process phase: 'Layer 2 Down'. Baseline configuration flagged tool as WORN.,0
+15,2026-05-01 15:01:00.000,high,Critical anomaly window observed during process phase: 'Layer 2 Down'. Baseline configuration flagged tool as WORN.,0
+15,2026-05-01 15:01:00.100,high,Critical anomaly window observed during process phase: 'Layer 2 Down'. Baseline configuration flagged tool as WORN.,0
+15,2026-05-01 15:01:00.200,high,Critical anomaly window observed during process phase: 'Layer 2 Down'. Baseline configuration flagged tool as WORN.,0
+15,2026-05-01 15:01:00.300,high,Critical anomaly window observed during process phase: 'Layer 2 Down'. Baseline configuration flagged tool as WORN.,0
+15,2026-05-01 15:01:00.400,high,Critical anomaly window observed during process phase: 'Layer 2 Down'. Baseline configuration flagged tool as WORN.,0
+15,2026-05-01 15:01:00.500,high,Critical anomaly window observed during process phase: 'Layer 2 Down'. Baseline configuration flagged tool as WORN.,0
+15,2026-05-01 15:01:00.600,high,Critical anomaly window observed during process phase: 'Layer 2 Down'. Baseline configuration flagged tool as WORN.,0
+15,2026-05-01 15:01:00.700,high,Critical anomaly window observed during process phase: 'Layer 2 Down'. Baseline configuration flagged tool as WORN.,0
+15,2026-05-01 15:01:02.900,high,Critical anomaly window observed during process phase: 'Layer 2 Down'. Baseline configuration flagged tool as WORN.,0
+15,2026-05-01 15:01:03.000,high,Critical anomaly window observed during process phase: 'Layer 2 Down'. Baseline configuration flagged tool as WORN.,0
+15,2026-05-01 15:01:03.100,high,Critical anomaly window observed during process phase: 'Layer 2 Down'. Baseline configuration flagged tool as WORN.,0
+15,2026-05-01 15:01:03.200,high,Critical anomaly window observed during process phase: 'Layer 2 Down'. Baseline configuration flagged tool as WORN.,0
+15,2026-05-01 15:01:03.300,high,Critical anomaly window observed during process phase: 'Layer 2 Down'. Baseline configuration flagged tool as WORN.,0
+15,2026-05-01 15:01:03.400,high,Critical anomaly window observed during process phase: 'Layer 2 Down'. Baseline configuration flagged tool as WORN.,0
+15,2026-05-01 15:01:03.500,high,Critical anomaly window observed during process phase: 'Layer 2 Down'. Baseline configuration flagged tool as WORN.,0
+15,2026-05-01 15:01:03.600,high,Critical anomaly window observed during process phase: 'Layer 2 Down'. Baseline configuration flagged tool as WORN.,0
+15,2026-05-01 15:01:03.700,high,Critical anomaly window observed during process phase: 'Layer 2 Down'. Baseline configuration flagged tool as WORN.,0
+15,2026-05-01 15:01:03.800,high,Critical anomaly window observed during process phase: 'Layer 2 Down'. Baseline configuration flagged tool as WORN.,0
+15,2026-05-01 15:01:28.500,medium,Critical anomaly window observed during process phase: 'Layer 3 Up'. Baseline configuration flagged tool as WORN.,0
+15,2026-05-01 15:01:28.600,medium,Critical anomaly window observed during process phase: 'Layer 3 Up'. Baseline configuration flagged tool as WORN.,0
+15,2026-05-01 15:01:28.700,medium,Critical anomaly window observed during process phase: 'Layer 3 Up'. Baseline configuration flagged tool as WORN.,0
+15,2026-05-01 15:01:28.800,low,Critical anomaly window observed during process phase: 'Layer 3 Up'. Baseline configuration flagged tool as WORN.,0
+15,2026-05-01 15:01:28.900,medium,Critical anomaly window observed during process phase: 'Layer 3 Up'. Baseline configuration flagged tool as WORN.,0
+15,2026-05-01 15:01:29.000,low,Critical anomaly window observed during process phase: 'Layer 3 Up'. Baseline configuration flagged tool as WORN.,0
+15,2026-05-01 15:01:29.100,low,Critical anomaly window observed during process phase: 'Layer 3 Up'. Baseline configuration flagged tool as WORN.,0
+15,2026-05-01 15:01:29.200,low,Critical anomaly window observed during process phase: 'Layer 3 Up'. Baseline configuration flagged tool as WORN.,0
+15,2026-05-01 15:01:37.400,medium,Critical anomaly window observed during process phase: 'Layer 3 Up'. Baseline configuration flagged tool as WORN.,0
+15,2026-05-01 15:01:43.800,medium,Critical anomaly window observed during process phase: 'Layer 3 Up'. Baseline configuration flagged tool as WORN.,0
+15,2026-05-01 15:01:43.900,medium,Critical anomaly window observed during process phase: 'Layer 3 Up'. Baseline configuration flagged tool as WORN.,0
+15,2026-05-01 15:01:44.000,medium,Critical anomaly window observed during process phase: 'Layer 3 Up'. Baseline configuration flagged tool as WORN.,0
+15,2026-05-01 15:01:44.100,medium,Critical anomaly window observed during process phase: 'Layer 3 Up'. Baseline configuration flagged tool as WORN.,0
+15,2026-05-01 15:01:44.200,medium,Critical anomaly window observed during process phase: 'Layer 3 Up'. Baseline configuration flagged tool as WORN.,0
+15,2026-05-01 15:01:44.300,high,Critical anomaly window observed during process phase: 'Layer 3 Up'. Baseline configuration flagged tool as WORN.,0
+15,2026-05-01 15:01:44.400,medium,Critical anomaly window observed during process phase: 'Layer 3 Up'. Baseline configuration flagged tool as WORN.,0
+15,2026-05-01 15:01:44.500,medium,Critical anomaly window observed during process phase: 'Layer 3 Up'. Baseline configuration flagged tool as WORN.,0
+15,2026-05-01 15:01:44.600,medium,Critical anomaly window observed during process phase: 'Layer 3 Up'. Baseline configuration flagged tool as WORN.,0
+15,2026-05-01 15:01:50.300,medium,Critical anomaly window observed during process phase: 'Layer 3 Down'. Baseline configuration flagged tool as WORN.,0
+15,2026-05-01 15:01:50.400,medium,Critical anomaly window observed during process phase: 'Layer 3 Down'. Baseline configuration flagged tool as WORN.,0
+15,2026-05-01 15:01:55.900,high,Critical anomaly window observed during process phase: 'End'. Baseline configuration flagged tool as WORN.,0
+15,2026-05-01 15:01:56.000,high,Critical anomaly window observed during process phase: 'End'. Baseline configuration flagged tool as WORN.,0
+15,2026-05-01 15:01:56.300,medium,Critical anomaly window observed during process phase: 'End'. Baseline configuration flagged tool as WORN.,0
+15,2026-05-01 15:01:56.400,high,Critical anomaly window observed during process phase: 'End'. Baseline configuration flagged tool as WORN.,0
+15,2026-05-01 15:01:56.500,medium,Critical anomaly window observed during process phase: 'End'. Baseline configuration flagged tool as WORN.,0
+15,2026-05-01 15:01:56.600,high,Critical anomaly window observed during process phase: 'End'. Baseline configuration flagged tool as WORN.,0
+15,2026-05-01 15:01:56.700,high,Critical anomaly window observed during process phase: 'End'. Baseline configuration flagged tool as WORN.,0
+15,2026-05-01 15:01:56.800,medium,Critical anomaly window observed during process phase: 'End'. Baseline configuration flagged tool as WORN.,0
+15,2026-05-01 15:02:16.700,high,Critical anomaly window observed during process phase: 'End'. Baseline configuration flagged tool as WORN.,0
+15,2026-05-01 15:02:16.800,high,Critical anomaly window observed during process phase: 'End'. Baseline configuration flagged tool as WORN.,0
+15,2026-05-01 15:02:16.900,high,Critical anomaly window observed during process phase: 'End'. Baseline configuration flagged tool as WORN.,0
+15,2026-05-01 15:02:17.000,high,Critical anomaly window observed during process phase: 'End'. Baseline configuration flagged tool as WORN.,0
+16,2026-05-01 16:00:00.000,medium,Critical anomaly window observed during process phase: 'Prep'. Baseline configuration flagged tool as WORN.,0
+16,2026-05-01 16:00:00.100,medium,Critical anomaly window observed during process phase: 'Prep'. Baseline configuration flagged tool as WORN.,0
+16,2026-05-01 16:00:00.200,medium,Critical anomaly window observed during process phase: 'Prep'. Baseline configuration flagged tool as WORN.,0
+16,2026-05-01 16:00:00.300,medium,Critical anomaly window observed during process phase: 'Prep'. Baseline configuration flagged tool as WORN.,0
+16,2026-05-01 16:00:00.400,medium,Critical anomaly window observed during process phase: 'Prep'. Baseline configuration flagged tool as WORN.,0
+16,2026-05-01 16:00:00.600,low,Critical anomaly window observed during process phase: 'Prep'. Baseline configuration flagged tool as WORN.,0
+16,2026-05-01 16:00:00.700,low,Critical anomaly window observed during process phase: 'Prep'. Baseline configuration flagged tool as WORN.,0
+16,2026-05-01 16:00:00.800,low,Critical anomaly window observed during process phase: 'Prep'. Baseline configuration flagged tool as WORN.,0
+16,2026-05-01 16:00:00.900,low,Critical anomaly window observed during process phase: 'Prep'. Baseline configuration flagged tool as WORN.,0
+16,2026-05-01 16:00:08.200,low,Critical anomaly window observed during process phase: 'Prep'. Baseline configuration flagged tool as WORN.,0
+16,2026-05-01 16:00:08.800,medium,Critical anomaly window observed during process phase: 'Prep'. Baseline configuration flagged tool as WORN.,0
+16,2026-05-01 16:00:08.900,low,Critical anomaly window observed during process phase: 'Prep'. Baseline configuration flagged tool as WORN.,0
+16,2026-05-01 16:00:12.800,low,Critical anomaly window observed during process phase: 'Layer 1 Up'. Baseline configuration flagged tool as WORN.,0
+16,2026-05-01 16:00:12.900,medium,Critical anomaly window observed during process phase: 'Layer 1 Up'. Baseline configuration flagged tool as WORN.,0
+16,2026-05-01 16:00:13.000,high,Critical anomaly window observed during process phase: 'Layer 1 Up'. Baseline configuration flagged tool as WORN.,0
+16,2026-05-01 16:00:13.100,medium,Critical anomaly window observed during process phase: 'Layer 1 Up'. Baseline configuration flagged tool as WORN.,0
+16,2026-05-01 16:00:14.200,medium,Critical anomaly window observed during process phase: 'Layer 1 Up'. Baseline configuration flagged tool as WORN.,0
+16,2026-05-01 16:00:14.400,medium,Critical anomaly window observed during process phase: 'Layer 1 Up'. Baseline configuration flagged tool as WORN.,0
+16,2026-05-01 16:00:14.500,medium,Critical anomaly window observed during process phase: 'Layer 1 Up'. Baseline configuration flagged tool as WORN.,0
+16,2026-05-01 16:00:14.600,low,Critical anomaly window observed during process phase: 'Layer 1 Up'. Baseline configuration flagged tool as WORN.,0
+16,2026-05-01 16:00:14.700,low,Critical anomaly window observed during process phase: 'Layer 1 Up'. Baseline configuration flagged tool as WORN.,0
+16,2026-05-01 16:00:14.800,low,Critical anomaly window observed during process phase: 'Layer 1 Up'. Baseline configuration flagged tool as WORN.,0
+16,2026-05-01 16:00:14.900,medium,Critical anomaly window observed during process phase: 'Layer 1 Up'. Baseline configuration flagged tool as WORN.,0
+16,2026-05-01 16:00:15.500,medium,Critical anomaly window observed during process phase: 'Layer 1 Up'. Baseline configuration flagged tool as WORN.,0
+16,2026-05-01 16:00:15.600,medium,Critical anomaly window observed during process phase: 'Layer 1 Up'. Baseline configuration flagged tool as WORN.,0
+16,2026-05-01 16:00:18.400,medium,Critical anomaly window observed during process phase: 'Layer 1 Up'. Baseline configuration flagged tool as WORN.,0
+16,2026-05-01 16:00:19.200,low,Critical anomaly window observed during process phase: 'Layer 1 Down'. Baseline configuration flagged tool as WORN.,0
+16,2026-05-01 16:00:19.400,low,Critical anomaly window observed during process phase: 'Layer 1 Down'. Baseline configuration flagged tool as WORN.,0
+16,2026-05-01 16:00:19.700,low,Critical anomaly window observed during process phase: 'Layer 1 Down'. Baseline configuration flagged tool as WORN.,0
+16,2026-05-01 16:00:20.400,low,Critical anomaly window observed during process phase: 'Layer 1 Down'. Baseline configuration flagged tool as WORN.,0
+16,2026-05-01 16:00:20.700,low,Critical anomaly window observed during process phase: 'Layer 1 Down'. Baseline configuration flagged tool as WORN.,0
+16,2026-05-01 16:00:21.100,medium,Critical anomaly window observed during process phase: 'Layer 1 Down'. Baseline configuration flagged tool as WORN.,0
+16,2026-05-01 16:00:22.700,high,Critical anomaly window observed during process phase: 'Layer 1 Down'. Baseline configuration flagged tool as WORN.,0
+16,2026-05-01 16:00:22.800,high,Critical anomaly window observed during process phase: 'Layer 1 Down'. Baseline configuration flagged tool as WORN.,0
+16,2026-05-01 16:00:22.900,high,Critical anomaly window observed during process phase: 'Layer 1 Down'. Baseline configuration flagged tool as WORN.,0
+16,2026-05-01 16:00:23.000,high,Critical anomaly window observed during process phase: 'Layer 1 Down'. Baseline configuration flagged tool as WORN.,0
+16,2026-05-01 16:00:23.100,high,Critical anomaly window observed during process phase: 'Layer 1 Down'. Baseline configuration flagged tool as WORN.,0
+16,2026-05-01 16:00:23.200,high,Critical anomaly window observed during process phase: 'Layer 1 Down'. Baseline configuration flagged tool as WORN.,0
+16,2026-05-01 16:00:23.500,medium,Critical anomaly window observed during process phase: 'Layer 1 Down'. Baseline configuration flagged tool as WORN.,0
+16,2026-05-01 16:00:23.600,medium,Critical anomaly window observed during process phase: 'Layer 1 Down'. Baseline configuration flagged tool as WORN.,0
+16,2026-05-01 16:00:25.700,low,Critical anomaly window observed during process phase: 'Layer 1 Down'. Baseline configuration flagged tool as WORN.,0
+16,2026-05-01 16:00:26.400,low,Critical anomaly window observed during process phase: 'Layer 1 Down'. Baseline configuration flagged tool as WORN.,0
+16,2026-05-01 16:00:26.700,high,Critical anomaly window observed during process phase: 'Layer 1 Down'. Baseline configuration flagged tool as WORN.,0
+16,2026-05-01 16:00:26.800,high,Critical anomaly window observed during process phase: 'Layer 1 Down'. Baseline configuration flagged tool as WORN.,0
+16,2026-05-01 16:00:26.900,high,Critical anomaly window observed during process phase: 'Layer 1 Down'. Baseline configuration flagged tool as WORN.,0
+16,2026-05-01 16:00:27.000,high,Critical anomaly window observed during process phase: 'Layer 1 Down'. Baseline configuration flagged tool as WORN.,0
+16,2026-05-01 16:00:27.100,high,Critical anomaly window observed during process phase: 'Layer 1 Down'. Baseline configuration flagged tool as WORN.,0
+16,2026-05-01 16:00:27.200,high,Critical anomaly window observed during process phase: 'Layer 1 Down'. Baseline configuration flagged tool as WORN.,0
+16,2026-05-01 16:00:27.300,high,Critical anomaly window observed during process phase: 'Layer 1 Down'. Baseline configuration flagged tool as WORN.,0
+16,2026-05-01 16:00:27.400,high,Critical anomaly window observed during process phase: 'Layer 1 Down'. Baseline configuration flagged tool as WORN.,0
+16,2026-05-01 16:00:27.500,high,Critical anomaly window observed during process phase: 'Layer 1 Down'. Baseline configuration flagged tool as WORN.,0
+16,2026-05-01 16:00:27.600,high,Critical anomaly window observed during process phase: 'Layer 1 Down'. Baseline configuration flagged tool as WORN.,0
+16,2026-05-01 16:00:28.700,low,Critical anomaly window observed during process phase: 'Layer 1 Down'. Baseline configuration flagged tool as WORN.,0
+16,2026-05-01 16:00:29.400,medium,Critical anomaly window observed during process phase: 'Layer 1 Down'. Baseline configuration flagged tool as WORN.,0
+16,2026-05-01 16:00:29.500,medium,Critical anomaly window observed during process phase: 'Layer 1 Down'. Baseline configuration flagged tool as WORN.,0
+16,2026-05-01 16:00:32.800,high,Critical anomaly window observed during process phase: 'Layer 1 Down'. Baseline configuration flagged tool as WORN.,0
+16,2026-05-01 16:00:32.900,high,Critical anomaly window observed during process phase: 'Layer 1 Down'. Baseline configuration flagged tool as WORN.,0
+16,2026-05-01 16:00:33.000,high,Critical anomaly window observed during process phase: 'Layer 1 Down'. Baseline configuration flagged tool as WORN.,0
+16,2026-05-01 16:00:33.100,high,Critical anomaly window observed during process phase: 'Layer 1 Down'. Baseline configuration flagged tool as WORN.,0
+16,2026-05-01 16:00:33.200,low,Critical anomaly window observed during process phase: 'Layer 1 Down'. Baseline configuration flagged tool as WORN.,0
+16,2026-05-01 16:00:33.700,low,Critical anomaly window observed during process phase: 'Repositioning'. Baseline configuration flagged tool as WORN.,0
+16,2026-05-01 16:00:38.000,medium,Critical anomaly window observed during process phase: 'End'. Baseline configuration flagged tool as WORN.,0
+16,2026-05-01 16:00:38.100,medium,Critical anomaly window observed during process phase: 'End'. Baseline configuration flagged tool as WORN.,0
+16,2026-05-01 16:00:38.200,medium,Critical anomaly window observed during process phase: 'End'. Baseline configuration flagged tool as WORN.,0
+16,2026-05-01 16:00:38.300,medium,Critical anomaly window observed during process phase: 'End'. Baseline configuration flagged tool as WORN.,0
+16,2026-05-01 16:00:38.400,medium,Critical anomaly window observed during process phase: 'End'. Baseline configuration flagged tool as WORN.,0
+16,2026-05-01 16:00:38.500,medium,Critical anomaly window observed during process phase: 'End'. Baseline configuration flagged tool as WORN.,0
+16,2026-05-01 16:00:38.600,medium,Critical anomaly window observed during process phase: 'End'. Baseline configuration flagged tool as WORN.,0
+16,2026-05-01 16:00:38.700,medium,Critical anomaly window observed during process phase: 'End'. Baseline configuration flagged tool as WORN.,0
+16,2026-05-01 16:00:38.800,medium,Critical anomaly window observed during process phase: 'End'. Baseline configuration flagged tool as WORN.,0
+16,2026-05-01 16:00:39.900,high,Critical anomaly window observed during process phase: 'End'. Baseline configuration flagged tool as WORN.,0
+16,2026-05-01 16:00:40.000,high,Critical anomaly window observed during process phase: 'End'. Baseline configuration flagged tool as WORN.,0
+16,2026-05-01 16:00:40.100,high,Critical anomaly window observed during process phase: 'End'. Baseline configuration flagged tool as WORN.,0
+16,2026-05-01 16:00:40.200,high,Critical anomaly window observed during process phase: 'End'. Baseline configuration flagged tool as WORN.,0
+16,2026-05-01 16:00:40.300,medium,Critical anomaly window observed during process phase: 'End'. Baseline configuration flagged tool as WORN.,0
+16,2026-05-01 16:00:40.400,medium,Critical anomaly window observed during process phase: 'End'. Baseline configuration flagged tool as WORN.,0
+16,2026-05-01 16:00:40.500,medium,Critical anomaly window observed during process phase: 'End'. Baseline configuration flagged tool as WORN.,0
+16,2026-05-01 16:00:40.800,low,Critical anomaly window observed during process phase: 'End'. Baseline configuration flagged tool as WORN.,0
+16,2026-05-01 16:00:51.200,low,Critical anomaly window observed during process phase: 'End'. Baseline configuration flagged tool as WORN.,0
+16,2026-05-01 16:00:51.400,low,Critical anomaly window observed during process phase: 'End'. Baseline configuration flagged tool as WORN.,0
+16,2026-05-01 16:00:51.700,low,Critical anomaly window observed during process phase: 'End'. Baseline configuration flagged tool as WORN.,0
+16,2026-05-01 16:00:56.400,low,Critical anomaly window observed during process phase: 'End'. Baseline configuration flagged tool as WORN.,0
+16,2026-05-01 16:00:56.700,low,Critical anomaly window observed during process phase: 'End'. Baseline configuration flagged tool as WORN.,0
+16,2026-05-01 16:00:58.200,high,Critical anomaly window observed during process phase: 'End'. Baseline configuration flagged tool as WORN.,0
+16,2026-05-01 16:00:58.300,high,Critical anomaly window observed during process phase: 'End'. Baseline configuration flagged tool as WORN.,0
+16,2026-05-01 16:00:58.400,high,Critical anomaly window observed during process phase: 'End'. Baseline configuration flagged tool as WORN.,0
+16,2026-05-01 16:00:58.500,high,Critical anomaly window observed during process phase: 'End'. Baseline configuration flagged tool as WORN.,0
+16,2026-05-01 16:00:58.600,high,Critical anomaly window observed during process phase: 'End'. Baseline configuration flagged tool as WORN.,0
+16,2026-05-01 16:00:58.700,high,Critical anomaly window observed during process phase: 'End'. Baseline configuration flagged tool as WORN.,0
+16,2026-05-01 16:00:58.800,high,Critical anomaly window observed during process phase: 'End'. Baseline configuration flagged tool as WORN.,0
+16,2026-05-01 16:00:58.900,high,Critical anomaly window observed during process phase: 'End'. Baseline configuration flagged tool as WORN.,0
+16,2026-05-01 16:00:59.000,high,Critical anomaly window observed during process phase: 'End'. Baseline configuration flagged tool as WORN.,0
+16,2026-05-01 16:00:59.100,high,Critical anomaly window observed during process phase: 'End'. Baseline configuration flagged tool as WORN.,0
+17,2026-05-01 17:00:02.900,medium,Critical anomaly window observed during process phase: 'Prep'. Baseline configuration flagged tool as UNWORN.,0
+17,2026-05-01 17:00:46.200,medium,Critical anomaly window observed during process phase: 'Layer 1 Down'. Baseline configuration flagged tool as UNWORN.,0
+17,2026-05-01 17:00:46.300,medium,Critical anomaly window observed during process phase: 'Layer 1 Down'. Baseline configuration flagged tool as UNWORN.,0
+17,2026-05-01 17:00:46.400,medium,Critical anomaly window observed during process phase: 'Layer 1 Down'. Baseline configuration flagged tool as UNWORN.,0
+17,2026-05-01 17:00:46.500,medium,Critical anomaly window observed during process phase: 'Layer 1 Down'. Baseline configuration flagged tool as UNWORN.,0
+17,2026-05-01 17:00:46.600,medium,Critical anomaly window observed during process phase: 'Layer 1 Down'. Baseline configuration flagged tool as UNWORN.,0
+17,2026-05-01 17:00:46.700,medium,Critical anomaly window observed during process phase: 'Layer 1 Down'. Baseline configuration flagged tool as UNWORN.,0
+17,2026-05-01 17:00:46.800,medium,Critical anomaly window observed during process phase: 'Layer 1 Down'. Baseline configuration flagged tool as UNWORN.,0
+17,2026-05-01 17:00:46.900,medium,Critical anomaly window observed during process phase: 'Layer 1 Down'. Baseline configuration flagged tool as UNWORN.,0
+17,2026-05-01 17:00:47.000,medium,Critical anomaly window observed during process phase: 'Layer 1 Down'. Baseline configuration flagged tool as UNWORN.,0
+17,2026-05-01 17:00:47.100,medium,Critical anomaly window observed during process phase: 'Layer 1 Down'. Baseline configuration flagged tool as UNWORN.,0
+17,2026-05-01 17:01:24.400,medium,Critical anomaly window observed during process phase: 'Layer 2 Up'. Baseline configuration flagged tool as UNWORN.,0
+17,2026-05-01 17:01:24.500,medium,Critical anomaly window observed during process phase: 'Layer 2 Up'. Baseline configuration flagged tool as UNWORN.,0
+17,2026-05-01 17:01:42.000,medium,Critical anomaly window observed during process phase: 'Layer 2 Up'. Baseline configuration flagged tool as UNWORN.,0
+17,2026-05-01 17:01:42.100,high,Critical anomaly window observed during process phase: 'Layer 2 Up'. Baseline configuration flagged tool as UNWORN.,0
+17,2026-05-01 17:02:56.700,medium,Critical anomaly window observed during process phase: 'Layer 3 Down'. Baseline configuration flagged tool as UNWORN.,0
+17,2026-05-01 17:02:56.800,medium,Critical anomaly window observed during process phase: 'Layer 3 Down'. Baseline configuration flagged tool as UNWORN.,0
+17,2026-05-01 17:02:56.900,medium,Critical anomaly window observed during process phase: 'Layer 3 Down'. Baseline configuration flagged tool as UNWORN.,0
+17,2026-05-01 17:02:57.000,medium,Critical anomaly window observed during process phase: 'Layer 3 Down'. Baseline configuration flagged tool as UNWORN.,0
+17,2026-05-01 17:02:57.100,low,Critical anomaly window observed during process phase: 'Layer 3 Down'. Baseline configuration flagged tool as UNWORN.,0
+17,2026-05-01 17:02:57.200,medium,Critical anomaly window observed during process phase: 'Layer 3 Down'. Baseline configuration flagged tool as UNWORN.,0
+17,2026-05-01 17:02:57.300,low,Critical anomaly window observed during process phase: 'Layer 3 Down'. Baseline configuration flagged tool as UNWORN.,0
+17,2026-05-01 17:02:57.400,low,Critical anomaly window observed during process phase: 'Layer 3 Down'. Baseline configuration flagged tool as UNWORN.,0
+17,2026-05-01 17:03:18.900,high,Critical anomaly window observed during process phase: 'End'. Baseline configuration flagged tool as UNWORN.,0
+17,2026-05-01 17:03:19.000,high,Critical anomaly window observed during process phase: 'End'. Baseline configuration flagged tool as UNWORN.,0
+17,2026-05-01 17:03:19.100,high,Critical anomaly window observed during process phase: 'End'. Baseline configuration flagged tool as UNWORN.,0
+17,2026-05-01 17:03:19.200,high,Critical anomaly window observed during process phase: 'End'. Baseline configuration flagged tool as UNWORN.,0
+17,2026-05-01 17:03:19.300,medium,Critical anomaly window observed during process phase: 'End'. Baseline configuration flagged tool as UNWORN.,0
+17,2026-05-01 17:03:23.100,low,Critical anomaly window observed during process phase: 'End'. Baseline configuration flagged tool as UNWORN.,0
+17,2026-05-01 17:03:23.200,low,Critical anomaly window observed during process phase: 'End'. Baseline configuration flagged tool as UNWORN.,0
+17,2026-05-01 17:03:23.300,low,Critical anomaly window observed during process phase: 'End'. Baseline configuration flagged tool as UNWORN.,0
+17,2026-05-01 17:03:23.400,low,Critical anomaly window observed during process phase: 'End'. Baseline configuration flagged tool as UNWORN.,0
+17,2026-05-01 17:03:23.500,low,Critical anomaly window observed during process phase: 'End'. Baseline configuration flagged tool as UNWORN.,0
+17,2026-05-01 17:03:23.800,high,Critical anomaly window observed during process phase: 'End'. Baseline configuration flagged tool as UNWORN.,0
+18,2026-05-01 18:00:32.300,high,Critical anomaly window observed during process phase: 'Layer 1 Up'. Baseline configuration flagged tool as WORN.,0
+18,2026-05-01 18:00:32.400,high,Critical anomaly window observed during process phase: 'Layer 1 Up'. Baseline configuration flagged tool as WORN.,0
+18,2026-05-01 18:00:32.500,high,Critical anomaly window observed during process phase: 'Layer 1 Up'. Baseline configuration flagged tool as WORN.,0
+18,2026-05-01 18:00:32.600,high,Critical anomaly window observed during process phase: 'Layer 1 Up'. Baseline configuration flagged tool as WORN.,0
+18,2026-05-01 18:00:32.700,high,Critical anomaly window observed during process phase: 'Layer 1 Up'. Baseline configuration flagged tool as WORN.,0
+18,2026-05-01 18:00:32.800,high,Critical anomaly window observed during process phase: 'Layer 1 Up'. Baseline configuration flagged tool as WORN.,0
+18,2026-05-01 18:00:32.900,high,Critical anomaly window observed during process phase: 'Layer 1 Up'. Baseline configuration flagged tool as WORN.,0
+18,2026-05-01 18:00:33.000,high,Critical anomaly window observed during process phase: 'Layer 1 Up'. Baseline configuration flagged tool as WORN.,0
+18,2026-05-01 18:00:33.100,high,Critical anomaly window observed during process phase: 'Layer 1 Up'. Baseline configuration flagged tool as WORN.,0
+18,2026-05-01 18:00:33.200,high,Critical anomaly window observed during process phase: 'Layer 1 Up'. Baseline configuration flagged tool as WORN.,0
+18,2026-05-01 18:01:54.700,high,Critical anomaly window observed during process phase: 'Layer 2 Up'. Baseline configuration flagged tool as WORN.,0
+18,2026-05-01 18:01:54.800,high,Critical anomaly window observed during process phase: 'Layer 2 Up'. Baseline configuration flagged tool as WORN.,0
+18,2026-05-01 18:01:54.900,high,Critical anomaly window observed during process phase: 'Layer 2 Up'. Baseline configuration flagged tool as WORN.,0
+18,2026-05-01 18:01:55.000,high,Critical anomaly window observed during process phase: 'Layer 2 Up'. Baseline configuration flagged tool as WORN.,0
+18,2026-05-01 18:01:55.100,high,Critical anomaly window observed during process phase: 'Layer 2 Up'. Baseline configuration flagged tool as WORN.,0
+18,2026-05-01 18:01:55.200,high,Critical anomaly window observed during process phase: 'Layer 2 Up'. Baseline configuration flagged tool as WORN.,0
+18,2026-05-01 18:01:55.300,high,Critical anomaly window observed during process phase: 'Layer 2 Up'. Baseline configuration flagged tool as WORN.,0
+18,2026-05-01 18:01:55.400,high,Critical anomaly window observed during process phase: 'Layer 2 Up'. Baseline configuration flagged tool as WORN.,0
+18,2026-05-01 18:01:55.500,high,Critical anomaly window observed during process phase: 'Layer 2 Down'. Baseline configuration flagged tool as WORN.,0
+18,2026-05-01 18:01:55.600,high,Critical anomaly window observed during process phase: 'Layer 2 Down'. Baseline configuration flagged tool as WORN.,0
+18,2026-05-01 18:01:55.700,high,Critical anomaly window observed during process phase: 'Layer 2 Down'. Baseline configuration flagged tool as WORN.,0
+18,2026-05-01 18:02:04.400,low,Critical anomaly window observed during process phase: 'Layer 2 Down'. Baseline configuration flagged tool as WORN.,0
+18,2026-05-01 18:02:04.500,medium,Critical anomaly window observed during process phase: 'Layer 2 Down'. Baseline configuration flagged tool as WORN.,0
+18,2026-05-01 18:02:04.600,medium,Critical anomaly window observed during process phase: 'Layer 2 Down'. Baseline configuration flagged tool as WORN.,0
+18,2026-05-01 18:02:04.700,medium,Critical anomaly window observed during process phase: 'Layer 2 Down'. Baseline configuration flagged tool as WORN.,0
+18,2026-05-01 18:02:04.800,medium,Critical anomaly window observed during process phase: 'Layer 2 Down'. Baseline configuration flagged tool as WORN.,0
+18,2026-05-01 18:02:04.900,medium,Critical anomaly window observed during process phase: 'Layer 2 Down'. Baseline configuration flagged tool as WORN.,0
+18,2026-05-01 18:02:05.000,medium,Critical anomaly window observed during process phase: 'Layer 2 Down'. Baseline configuration flagged tool as WORN.,0
+18,2026-05-01 18:02:29.100,medium,Critical anomaly window observed during process phase: 'Layer 3 Up'. Baseline configuration flagged tool as WORN.,0
+18,2026-05-01 18:02:44.300,high,Critical anomaly window observed during process phase: 'Layer 3 Up'. Baseline configuration flagged tool as WORN.,0
+18,2026-05-01 18:02:44.400,high,Critical anomaly window observed during process phase: 'Layer 3 Up'. Baseline configuration flagged tool as WORN.,0
+18,2026-05-01 18:02:44.500,high,Critical anomaly window observed during process phase: 'Layer 3 Up'. Baseline configuration flagged tool as WORN.,0
+18,2026-05-01 18:02:44.800,high,Critical anomaly window observed during process phase: 'Layer 3 Up'. Baseline configuration flagged tool as WORN.,0
+18,2026-05-01 18:02:44.900,medium,Critical anomaly window observed during process phase: 'Layer 3 Up'. Baseline configuration flagged tool as WORN.,0
+18,2026-05-01 18:02:45.000,high,Critical anomaly window observed during process phase: 'Layer 3 Up'. Baseline configuration flagged tool as WORN.,0
+18,2026-05-01 18:02:45.100,high,Critical anomaly window observed during process phase: 'Layer 3 Up'. Baseline configuration flagged tool as WORN.,0
+18,2026-05-01 18:02:45.200,high,Critical anomaly window observed during process phase: 'Layer 3 Up'. Baseline configuration flagged tool as WORN.,0
+18,2026-05-01 18:02:58.500,medium,Critical anomaly window observed during process phase: 'Layer 3 Down'. Baseline configuration flagged tool as WORN.,0
+18,2026-05-01 18:02:59.600,medium,Critical anomaly window observed during process phase: 'Layer 3 Down'. Baseline configuration flagged tool as WORN.,0
+18,2026-05-01 18:02:59.700,medium,Critical anomaly window observed during process phase: 'Layer 3 Down'. Baseline configuration flagged tool as WORN.,0
+18,2026-05-01 18:03:07.300,low,Critical anomaly window observed during process phase: 'Layer 3 Down'. Baseline configuration flagged tool as WORN.,0
+18,2026-05-01 18:03:07.400,high,Critical anomaly window observed during process phase: 'Layer 3 Down'. Baseline configuration flagged tool as WORN.,0
+18,2026-05-01 18:03:07.500,high,Critical anomaly window observed during process phase: 'Layer 3 Down'. Baseline configuration flagged tool as WORN.,0
+18,2026-05-01 18:03:15.600,medium,Critical anomaly window observed during process phase: 'Layer 3 Down'. Baseline configuration flagged tool as WORN.,0
+18,2026-05-01 18:03:15.700,medium,Critical anomaly window observed during process phase: 'Layer 3 Down'. Baseline configuration flagged tool as WORN.,0
+18,2026-05-01 18:03:15.800,medium,Critical anomaly window observed during process phase: 'Layer 3 Down'. Baseline configuration flagged tool as WORN.,0
+18,2026-05-01 18:03:15.900,medium,Critical anomaly window observed during process phase: 'Layer 3 Down'. Baseline configuration flagged tool as WORN.,0
+18,2026-05-01 18:03:16.000,medium,Critical anomaly window observed during process phase: 'Layer 3 Down'. Baseline configuration flagged tool as WORN.,0
+18,2026-05-01 18:03:16.100,low,Critical anomaly window observed during process phase: 'Layer 3 Down'. Baseline configuration flagged tool as WORN.,0
+18,2026-05-01 18:03:16.200,low,Critical anomaly window observed during process phase: 'Layer 3 Down'. Baseline configuration flagged tool as WORN.,0
+18,2026-05-01 18:03:16.300,low,Critical anomaly window observed during process phase: 'Layer 3 Down'. Baseline configuration flagged tool as WORN.,0
+18,2026-05-01 18:03:16.400,low,Critical anomaly window observed during process phase: 'Layer 3 Down'. Baseline configuration flagged tool as WORN.,0
+18,2026-05-01 18:03:16.500,low,Critical anomaly window observed during process phase: 'Layer 3 Down'. Baseline configuration flagged tool as WORN.,0

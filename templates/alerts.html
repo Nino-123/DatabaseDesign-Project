@@ -1,0 +1,266 @@
+{% extends "base.html" %}
+{% block title %}Active Alerts Log — JBNU Smart Factory{% endblock %}
+
+{% block content %}
+<div class="sf-page-wrapper">
+
+  <!-- ══════════════════════════════════════════ -->
+  <!--  PAGE HEADER                               -->
+  <!-- ══════════════════════════════════════════ -->
+  <div class="sf-page-header px-4 py-3 d-flex align-items-center justify-content-between">
+    <div>
+      <h1 class="sf-page-title mb-0">Active Alerts Log</h1>
+      <p class="sf-page-sub mb-0">Human-in-the-loop incident management &amp; operator resolution</p>
+    </div>
+    <a href="{{ url_for('dashboard') }}" class="btn sf-btn-ghost">
+      <i class="bi bi-arrow-left me-1"></i> Back to Dashboard
+    </a>
+  </div>
+
+  <div class="px-4 pb-4">
+
+    <!-- ══════════════════════════════════════════ -->
+    <!--  KPI COUNTER GRID                          -->
+    <!-- ══════════════════════════════════════════ -->
+    <div class="row g-3 mb-4">
+      <div class="col-6 col-md-3">
+        <div class="sf-card sf-kpi-card">
+          <div class="sf-kpi-card-icon text-secondary">
+            <i class="bi bi-list-ul"></i>
+          </div>
+          <div class="sf-kpi-number">{{ all_alerts | length }}</div>
+          <div class="sf-kpi-label">Total Incidents</div>
+        </div>
+      </div>
+      <div class="col-6 col-md-3">
+        <div class="sf-card sf-kpi-card">
+          <div class="sf-kpi-card-icon text-danger">
+            <i class="bi bi-exclamation-octagon-fill"></i>
+          </div>
+          <div class="sf-kpi-number text-danger">
+            {{ all_alerts | selectattr('resolved', 'equalto', 0) | list | length }}
+          </div>
+          <div class="sf-kpi-label">Unresolved</div>
+        </div>
+      </div>
+      <div class="col-6 col-md-3">
+        <div class="sf-card sf-kpi-card">
+          <div class="sf-kpi-card-icon text-success">
+            <i class="bi bi-check-circle-fill"></i>
+          </div>
+          <div class="sf-kpi-number text-success">
+            {{ all_alerts | selectattr('resolved', 'equalto', 1) | list | length }}
+          </div>
+          <div class="sf-kpi-label">Resolved</div>
+        </div>
+      </div>
+      <div class="col-6 col-md-3">
+        <div class="sf-card sf-kpi-card">
+          <div class="sf-kpi-card-icon text-danger">
+            <i class="bi bi-fire"></i>
+          </div>
+          <div class="sf-kpi-number text-danger">
+            {{ all_alerts | selectattr('severity', 'equalto', 'high') | selectattr('resolved', 'equalto', 0) | list | length }}
+          </div>
+          <div class="sf-kpi-label">High Severity Open</div>
+        </div>
+      </div>
+    </div>
+
+    <!-- ══════════════════════════════════════════ -->
+    <!--  INCIDENT TABLE                            -->
+    <!-- ══════════════════════════════════════════ -->
+    <div class="sf-card">
+      <div class="sf-card-header d-flex align-items-center justify-content-between">
+        <span><i class="bi bi-table me-2"></i>Comprehensive Incident Ledger</span>
+        <span class="sf-chart-badge font-mono">{{ all_alerts | length }} RECORDS</span>
+      </div>
+      <div class="sf-card-body p-0">
+        <div class="table-responsive">
+          <table class="table sf-table mb-0">
+            <thead>
+              <tr>
+                <th>Alert ID</th>
+                <th>CNC Unit</th>
+                <th>Timestamp</th>
+                <th>Severity</th>
+                <th>Anomaly Context</th>
+                <th>Status</th>
+                <th>Action</th>
+              </tr>
+            </thead>
+            <tbody>
+              {% for alert in all_alerts %}
+              <tr class="{% if alert.resolved == 0 and alert.severity == 'high' %}sf-row-critical{% elif alert.resolved == 0 %}sf-row-open{% else %}sf-row-resolved{% endif %}">
+
+                <!-- Alert ID -->
+                <td class="font-mono text-muted">#{{ alert.alert_id }}</td>
+
+                <!-- CNC Unit -->
+                <td class="font-mono">
+                  <i class="bi bi-gear-wide-connected me-1"></i>{{ alert.equipment_id }}
+                </td>
+
+                <!-- Timestamp -->
+                <td class="font-mono sf-ts">{{ alert.triggered_at.strftime('%Y-%m-%d %H:%M:%S') if alert.triggered_at else '' }}</td>
+
+                <!-- Severity Badge -->
+                <td>
+                  {% if alert.severity == 'high' %}
+                    <span class="badge bg-danger sf-severity-badge">
+                      <i class="bi bi-exclamation-octagon me-1"></i>HIGH
+                    </span>
+                  {% elif alert.severity == 'medium' %}
+                    <span class="badge bg-warning text-dark sf-severity-badge">
+                      <i class="bi bi-exclamation-triangle me-1"></i>MEDIUM
+                    </span>
+                  {% else %}
+                    <span class="badge bg-secondary sf-severity-badge">
+                      <i class="bi bi-info-circle me-1"></i>LOW
+                    </span>
+                  {% endif %}
+                </td>
+
+                <!-- Anomaly Message -->
+                <td class="sf-alert-msg">{{ alert.message }}</td>
+
+                <!-- Status -->
+                <td>
+                  {% if alert.resolved == 1 %}
+                    <span class="sf-status-pill sf-status-ok py-1 px-2">
+                      <i class="bi bi-check2-circle me-1"></i>Resolved
+                    </span>
+                  {% else %}
+                    <span class="sf-status-pill sf-status-crit py-1 px-2">
+                      <i class="bi bi-clock-history me-1"></i>Open
+                    </span>
+                  {% endif %}
+                </td>
+
+                <!-- Action -->
+                <td>
+                  {% if alert.resolved == 0 %}
+                    <button
+                      type="button"
+                      class="btn sf-btn-resolve btn-sm"
+                      data-bs-toggle="modal"
+                      data-bs-target="#resolveModal"
+                      data-alert-id="{{ alert.alert_id }}"
+                      data-equipment-id="{{ alert.equipment_id }}"
+                      data-alert-msg="{{ alert.message }}">
+                      <i class="bi bi-wrench-adjustable me-1"></i>Resolve Anomaly
+                    </button>
+                  {% else %}
+                    <span class="text-muted font-mono" style="font-size:0.78rem;">—</span>
+                  {% endif %}
+                </td>
+
+              </tr>
+              {% else %}
+              <tr>
+                <td colspan="7" class="text-center py-5 text-muted">
+                  <i class="bi bi-check-circle display-6 d-block mb-2 text-success"></i>
+                  No incidents logged in the system.
+                </td>
+              </tr>
+              {% endfor %}
+            </tbody>
+          </table>
+        </div>
+      </div>
+    </div>
+
+  </div><!-- /px-4 -->
+</div><!-- /wrapper -->
+
+<!-- ═══════════════════════════════════════════════════════ -->
+<!--  RESOLUTION MODAL                                       -->
+<!-- ═══════════════════════════════════════════════════════ -->
+<div class="modal fade" id="resolveModal" tabindex="-1" aria-labelledby="resolveModalLabel" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered">
+    <div class="modal-content sf-modal-content">
+
+      <div class="modal-header sf-modal-header">
+        <div>
+          <h5 class="modal-title sf-modal-title" id="resolveModalLabel">
+            <i class="bi bi-wrench-adjustable-circle me-2"></i>Resolve Anomaly Incident
+          </h5>
+          <p class="sf-modal-sub mb-0">Complete all fields before submitting the resolution record.</p>
+        </div>
+        <button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal" aria-label="Close"></button>
+      </div>
+
+      <div class="modal-body sf-modal-body">
+        <!-- Anomaly context display -->
+        <div class="sf-modal-context-block mb-4">
+          <span class="sf-meta-label d-block mb-1">Anomaly Context</span>
+          <p class="sf-modal-context-msg mb-0" id="modal-alert-msg">—</p>
+        </div>
+
+        <!-- Resolution Form -->
+        <form method="POST" action="/resolve-alert" id="resolveForm">
+          <!-- Hidden fields -->
+          <input type="hidden" name="alert_id"      id="modal-alert-id" value="" />
+          <input type="hidden" name="equipment_id"  id="modal-equip-id" value="" />
+
+          <!-- Operator Name -->
+          <div class="mb-3">
+            <label for="operator_name" class="sf-label">
+              <i class="bi bi-person-badge me-1"></i>Operator / Technician Name
+            </label>
+            <input
+              type="text"
+              class="form-control sf-input"
+              id="operator_name"
+              name="operator_name"
+              placeholder="e.g. Kim Jisoo — Maintenance Lead"
+              required />
+          </div>
+
+          <!-- Action Taken -->
+          <div class="mb-4">
+            <label for="action_taken" class="sf-label">
+              <i class="bi bi-clipboard-check me-1"></i>Action Taken Details
+            </label>
+            <textarea
+              class="form-control sf-input"
+              id="action_taken"
+              name="action_taken"
+              rows="4"
+              placeholder="Describe the corrective action performed, components replaced, calibration steps taken, or reason for dismissal..."
+              required></textarea>
+          </div>
+
+          <!-- Submit -->
+          <div class="d-flex gap-2 justify-content-end">
+            <button type="button" class="btn sf-btn-ghost" data-bs-dismiss="modal">
+              <i class="bi bi-x-lg me-1"></i>Cancel
+            </button>
+            <button type="submit" class="btn sf-btn-primary">
+              <i class="bi bi-check2-circle me-1"></i>Submit Resolution
+            </button>
+          </div>
+        </form>
+      </div>
+
+    </div>
+  </div>
+</div>
+{% endblock %}
+
+{% block scripts %}
+<script>
+  // Populate modal fields from the triggering row's data attributes
+  const resolveModal = document.getElementById('resolveModal');
+  resolveModal.addEventListener('show.bs.modal', function (event) {
+    const btn         = event.relatedTarget;
+    const alertId     = btn.getAttribute('data-alert-id');
+    const equipmentId = btn.getAttribute('data-equipment-id');
+    const alertMsg    = btn.getAttribute('data-alert-msg');
+
+    document.getElementById('modal-alert-id').value  = alertId;
+    document.getElementById('modal-equip-id').value  = equipmentId;
+    document.getElementById('modal-alert-msg').textContent = alertMsg;
+  });
+</script>
+{% endblock %}
