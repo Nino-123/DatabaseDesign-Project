@@ -12,9 +12,9 @@ def get_db_connection():
         connection = mysql.connector.connect(
             host='210.117.165.104',
             port=3306,
-            user='dbuser09',          # Matches your active school user target
-            password='dbuser2026',
-            database='dbuser09_schema' # Matches your active schema destination log
+            user='',          # Matches your active school user target
+            password='',
+            database='' # Matches your active schema destination log
         )
         return connection
     except Error as e:
